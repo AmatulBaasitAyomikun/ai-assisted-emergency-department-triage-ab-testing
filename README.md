@@ -1,12 +1,15 @@
 ![Project Banner](images/banner.png)
 
 # 🏥 AI-Assisted Emergency Department Triage Evaluation
+> A portfolio project demonstrating how randomized A/B testing and healthcare analytics can be used to evaluate AI-assisted Emergency Department triage systems.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![A/B Testing](https://img.shields.io/badge/Experiment-Randomized%20A%2FB%20Test-success)
 ![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > Evaluating the operational impact of an AI-assisted triage system using a randomized A/B testing framework.
 
@@ -20,6 +23,7 @@ This project evaluates whether implementing an AI-assisted triage process can si
 
 Using a simulated randomized controlled A/B experiment involving **2,253 Emergency Department encounters**, this study combines statistical hypothesis testing with interactive business intelligence reporting to measure operational impact and provide evidence-based implementation recommendations.
 
+Disclaimer: This project is based on a simulated dataset created for educational and portfolio purposes. No real patient information was used.
 ---
 
 ## Project Highlights
@@ -155,7 +159,7 @@ Recommended implementation strategy:
 ai-assisted-ed-triage-ab-testing
 │
 ├── data
-│   └── ed_triage_ab_test_dataset.csv
+│   └── Riverside_General_ED_AB_Test
 │
 ├── dashboard
 │   └── AI_Assisted_ED_Triage_Dashboard.pbix
@@ -242,8 +246,7 @@ This project demonstrates practical experience in:
 
 **AmatulBaasit Ayomikun Ghazal**
 
-Healthcare-Focused Machine Learning Engineer passionate about applying machine learning, analytics, and experimentation to solve real-world healthcare challenges through data-driven decision-making.
-
+AmatulBaasit Ayomikun Ghazal is a Healthcare-Focused Machine Learning Engineer who builds data-driven solutions to improve healthcare operations, clinical decision-making, and patient outcomes through analytics, experimentation, and machine learning.
 ---
 
 ## Connect With Me
