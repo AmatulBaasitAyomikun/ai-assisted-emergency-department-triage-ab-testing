@@ -137,7 +137,7 @@ The statistical analysis demonstrated a meaningful improvement in Emergency Depa
 
 Based on the statistical evidence and operational analysis, a hospital-wide rollout is not recommended immediately.
 
-Instead, a **phased AI rollout** is recommended.
+Instead, a **controlled AI rollout** is recommended.
 
 Recommended implementation strategy:
 
@@ -155,21 +155,20 @@ Recommended implementation strategy:
 ai-assisted-ed-triage-ab-testing
 │
 ├── data
-│   └── simulated_ed_dataset.csv
+│   └── ed_triage_ab_test_dataset.csv
 │
 ├── dashboard
-│   └── AI_ED_Dashboard.pbix
+│   └── AI_Assisted_ED_Triage_Dashboard.pbix
 │
 ├── docs
 │   └── AI_Assisted_ED_Triage_Case_Study.pdf
-│
 ├── images
 │   ├── banner.png
 │   ├── workflow.png
 │   └── dashboard.png
 │
 ├── notebooks
-│   └── AI_ED_AB_Testing.ipynb
+│   └── AI_Assisted_ED_Triage_Analysis.ipynb
 │
 ├── README.md
 └── LICENSE
@@ -208,7 +207,7 @@ ai-assisted-ed-triage-ab-testing
 
 The complete project documentation is available here:
 
-**[AI-Assisted Emergency Department Triage Case Study](docs/ED_Triage_AB_Test_Case_Study.pdf)**
+**[AI-Assisted Emergency Department Triage Case Study](docs/AI_Assisted_ED_Triage_Case_Study.pdf)**
 
 ---
 
