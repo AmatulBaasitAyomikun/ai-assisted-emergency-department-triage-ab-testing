@@ -1,0 +1,2254 @@
+Patient_ID,Visit_Date,Arrival_Time,Age,Age_Group,Sex,Chief_Complaint,Triage_Level,Experiment_Group,Door_to_Triage_Min,Triage_Duration_Min,Doctor_Queue_Min,Door_to_Doctor_Min
+P000001,1/1/2026,10:10,33,Adult,Male,Chest Pain,2,AI,16,7,5,28
+P000002,1/1/2026,10:38,54,Older Adult,Female,Abdominal Pain,3,Control,9,9,23,41
+P000003,1/1/2026,21:27,28,Young Adult,Female,Fever,3,Control,14,8,21,43
+P000004,1/1/2026,11:04,44,Adult,Female,Abdominal Pain,3,Control,10,11,19,40
+P000005,1/1/2026,19:16,53,Older Adult,Female,Headache,4,Control,17,8,39,64
+P000006,1/1/2026,14:55,66,Older Adult,Male,Minor Injury,4,AI,16,5,39,60
+P000007,1/1/2026,17:19,85,Elderly,Female,Skin Rash,4,Control,20,8,48,76
+P000008,1/1/2026,13:40,40,Adult,Female,Minor Injury,5,Control,11,6,94,111
+P000009,1/1/2026,14:45,26,Young Adult,Male,Burns,3,AI,18,3,19,40
+P000010,1/1/2026,13:57,61,Older Adult,Male,Abdominal Pain,3,Control,14,7,22,43
+P000011,1/1/2026,9:11,46,Adult,Female,Abdominal Pain,3,AI,12,4,22,38
+P000012,1/1/2026,16:05,9,Child,Male,Minor Injury,5,AI,13,5,67,85
+P000013,1/1/2026,10:16,18,Young Adult,Female,Chest Pain,2,AI,19,6,1,26
+P000014,1/1/2026,2:50,49,Adult,Male,Chest Pain,2,Control,11,7,6,24
+P000015,1/1/2026,15:18,19,Young Adult,Female,Fever,3,Control,12,8,31,51
+P000016,1/1/2026,8:25,25,Young Adult,Female,Chest Pain,2,AI,4,4,1,9
+P000017,1/1/2026,20:47,24,Young Adult,Female,Headache,4,Control,11,12,46,69
+P000018,1/1/2026,21:43,1,Child,Male,Headache,3,Control,13,10,14,37
+P000019,1/1/2026,19:43,36,Adult,Female,Headache,4,Control,9,8,53,70
+P000020,1/1/2026,11:51,49,Adult,Male,Minor Injury,3,Control,8,8,17,33
+P000021,1/1/2026,1:31,58,Older Adult,Male,Fever,2,AI,5,3,5,13
+P000022,1/1/2026,20:05,27,Young Adult,Female,Chest Pain,3,AI,10,5,15,30
+P000023,1/1/2026,12:54,30,Young Adult,Female,Chest Pain,2,AI,18,4,6,28
+P000024,1/2/2026,21:57,33,Adult,Female,Fever,3,AI,6,6,18,30
+P000025,1/2/2026,21:35,44,Adult,Male,Minor Injury,4,Control,15,7,49,71
+P000026,1/2/2026,18:37,46,Adult,Male,Minor Injury,5,Control,16,10,75,101
+P000027,1/2/2026,10:10,31,Adult,Male,Minor Injury,4,AI,22,5,39,66
+P000028,1/2/2026,11:32,73,Elderly,Female,Chest Pain,3,Control,16,7,24,47
+P000029,1/2/2026,18:23,23,Young Adult,Female,Shortness of Breath,3,Control,16,8,24,48
+P000030,1/2/2026,10:22,48,Adult,Female,Shortness of Breath,2,AI,13,6,2,21
+P000031,1/2/2026,8:14,59,Older Adult,Female,Headache,4,AI,12,6,31,49
+P000032,1/2/2026,13:26,36,Adult,Male,Headache,4,Control,15,8,56,79
+P000033,1/2/2026,20:10,24,Young Adult,Male,Headache,4,AI,17,6,44,67
+P000034,1/2/2026,15:56,31,Adult,Male,Shortness of Breath,1,AI,13,6,0,19
+P000035,1/2/2026,14:50,60,Older Adult,Male,Minor Injury,4,Control,17,9,32,58
+P000036,1/2/2026,7:49,28,Young Adult,Male,Abdominal Pain,2,AI,24,5,0,29
+P000037,1/2/2026,14:16,5,Child,Female,Minor Injury,3,Control,12,8,18,38
+P000038,1/2/2026,22:50,24,Young Adult,Male,Abdominal Pain,2,AI,12,5,4,21
+P000039,1/2/2026,8:52,62,Older Adult,Female,Abdominal Pain,3,AI,12,4,15,31
+P000040,1/2/2026,13:13,3,Child,Male,Dizziness,3,AI,13,5,21,39
+P000041,1/2/2026,18:26,83,Elderly,Female,Burns,3,Control,17,8,29,54
+P000042,1/2/2026,16:17,47,Adult,Female,Abdominal Pain,3,Control,12,10,27,49
+P000043,1/2/2026,15:27,78,Elderly,Female,Headache,3,Control,13,7,16,36
+P000044,1/2/2026,15:50,90,Elderly,Male,Chest Pain,2,AI,11,4,6,21
+P000045,1/2/2026,11:46,33,Adult,Female,Headache,4,Control,14,9,35,58
+P000046,1/2/2026,10:46,29,Young Adult,Female,Skin Rash,5,Control,10,8,37,55
+P000047,1/2/2026,17:03,24,Young Adult,Male,Burns,4,Control,7,7,39,53
+P000048,1/2/2026,17:06,29,Young Adult,Male,Shortness of Breath,1,Control,14,9,3,26
+P000049,1/2/2026,18:44,52,Older Adult,Male,Fever,3,Control,20,8,18,46
+P000050,1/2/2026,19:34,25,Young Adult,Female,Shortness of Breath,2,AI,11,7,7,25
+P000051,1/2/2026,13:47,23,Young Adult,Female,Fever,4,Control,8,7,33,48
+P000052,1/2/2026,13:08,35,Adult,Female,Urinary Tract Infection,4,Control,20,7,47,74
+P000053,1/3/2026,17:07,79,Elderly,Male,Skin Rash,5,AI,12,5,57,74
+P000054,1/3/2026,15:51,22,Young Adult,Male,Shortness of Breath,2,AI,16,7,8,31
+P000055,1/3/2026,15:44,10,Child,Female,Fever,4,Control,9,7,37,53
+P000056,1/3/2026,17:16,4,Child,Male,Fever,3,Control,12,9,17,38
+P000057,1/3/2026,19:16,73,Elderly,Female,Abdominal Pain,2,AI,18,4,8,30
+P000058,1/3/2026,11:48,47,Adult,Female,Road Traffic Accident,3,Control,13,9,17,39
+P000059,1/3/2026,11:32,19,Young Adult,Male,Headache,5,AI,13,4,65,82
+P000060,1/3/2026,7:31,25,Young Adult,Female,Fever,2,Control,6,9,6,21
+P000061,1/3/2026,14:07,18,Young Adult,Male,Headache,3,Control,15,9,26,50
+P000062,1/3/2026,4:18,6,Child,Female,Road Traffic Accident,1,Control,9,5,3,17
+P000063,1/3/2026,12:37,84,Elderly,Male,Abdominal Pain,2,AI,16,5,1,22
+P000064,1/3/2026,13:02,55,Older Adult,Female,Skin Rash,4,AI,13,4,42,59
+P000065,1/3/2026,10:58,49,Adult,Male,Urinary Tract Infection,4,Control,13,9,46,68
+P000066,1/3/2026,14:04,61,Older Adult,Male,Burns,3,AI,15,4,18,37
+P000067,1/3/2026,3:12,24,Young Adult,Female,Fever,3,Control,14,7,29,50
+P000068,1/3/2026,4:46,52,Older Adult,Male,Chest Pain,2,Control,19,10,13,42
+P000069,1/3/2026,17:45,58,Older Adult,Female,Fever,3,AI,18,6,10,34
+P000070,1/3/2026,11:30,39,Adult,Male,Fever,3,Control,7,7,27,41
+P000071,1/3/2026,8:54,53,Older Adult,Female,Chest Pain,2,AI,11,7,6,24
+P000072,1/4/2026,13:15,19,Young Adult,Male,Shortness of Breath,2,AI,15,2,6,23
+P000073,1/4/2026,16:49,24,Young Adult,Female,Headache,4,AI,8,5,34,47
+P000074,1/4/2026,9:31,4,Child,Male,Skin Rash,5,AI,6,3,39,48
+P000075,1/4/2026,14:21,35,Adult,Male,Abdominal Pain,4,Control,9,9,43,61
+P000076,1/4/2026,7:28,70,Older Adult,Male,Minor Injury,5,Control,12,8,70,90
+P000077,1/4/2026,5:21,83,Elderly,Female,Minor Injury,4,Control,1,6,60,67
+P000078,1/4/2026,13:42,50,Adult,Male,Minor Injury,5,Control,8,7,55,70
+P000079,1/4/2026,13:02,56,Older Adult,Female,Urinary Tract Infection,3,Control,5,7,10,22
+P000080,1/4/2026,15:53,70,Older Adult,Female,Minor Injury,5,Control,17,8,47,72
+P000081,1/4/2026,16:09,19,Young Adult,Male,Urinary Tract Infection,3,AI,16,6,25,47
+P000082,1/4/2026,22:41,32,Adult,Female,Fever,2,Control,13,11,7,31
+P000083,1/4/2026,13:20,5,Child,Male,Headache,4,AI,12,5,51,68
+P000084,1/4/2026,11:15,59,Older Adult,Male,Abdominal Pain,3,AI,14,5,15,34
+P000085,1/4/2026,17:11,73,Elderly,Female,Abdominal Pain,2,AI,8,6,0,14
+P000086,1/4/2026,10:01,0,Child,Female,Chest Pain,3,Control,17,7,32,56
+P000087,1/4/2026,12:40,51,Older Adult,Female,Abdominal Pain,2,Control,12,7,12,31
+P000088,1/4/2026,6:23,49,Adult,Male,Chest Pain,3,Control,16,11,19,46
+P000089,1/4/2026,3:34,35,Adult,Male,Chest Pain,2,Control,16,8,11,35
+P000090,1/4/2026,21:55,43,Adult,Male,Abdominal Pain,3,Control,14,8,21,43
+P000091,1/4/2026,18:29,49,Adult,Female,Urinary Tract Infection,3,AI,13,3,20,36
+P000092,1/4/2026,15:56,11,Child,Female,Abdominal Pain,3,Control,13,7,31,51
+P000093,1/4/2026,12:29,26,Young Adult,Female,Minor Injury,5,AI,12,7,39,58
+P000094,1/4/2026,8:46,2,Child,Male,Abdominal Pain,3,AI,14,6,13,33
+P000095,1/4/2026,8:34,42,Adult,Male,Urinary Tract Infection,3,Control,13,8,20,41
+P000096,1/4/2026,10:18,4,Child,Male,Urinary Tract Infection,3,Control,10,10,22,42
+P000097,1/4/2026,13:49,72,Elderly,Male,Minor Injury,5,AI,14,3,41,58
+P000098,1/5/2026,16:07,37,Adult,Male,Minor Injury,4,Control,13,7,49,69
+P000099,1/5/2026,15:25,63,Older Adult,Female,Abdominal Pain,3,AI,17,8,8,33
+P000100,1/5/2026,10:48,45,Adult,Female,Dizziness,3,Control,5,8,13,26
+P000101,1/5/2026,21:39,33,Adult,Female,Skin Rash,5,AI,12,5,58,75
+P000102,1/5/2026,16:06,90,Elderly,Male,Urinary Tract Infection,4,Control,9,10,59,78
+P000103,1/5/2026,13:29,4,Child,Male,Minor Injury,4,Control,10,10,65,85
+P000104,1/5/2026,14:06,25,Young Adult,Female,Fever,2,AI,14,3,6,23
+P000105,1/5/2026,12:02,58,Older Adult,Male,Urinary Tract Infection,3,Control,6,9,19,34
+P000106,1/5/2026,10:00,0,Child,Female,Fever,3,Control,13,11,21,45
+P000107,1/5/2026,11:35,7,Child,Female,Shortness of Breath,2,Control,12,7,9,28
+P000108,1/5/2026,16:24,48,Adult,Male,Abdominal Pain,4,Control,8,7,55,70
+P000109,1/5/2026,1:36,15,Child,Female,Urinary Tract Infection,3,AI,13,5,8,26
+P000110,1/5/2026,7:00,48,Adult,Male,Abdominal Pain,3,AI,9,6,24,39
+P000111,1/5/2026,5:14,21,Young Adult,Female,Chest Pain,3,AI,21,3,8,32
+P000112,1/5/2026,5:36,82,Elderly,Female,Shortness of Breath,2,AI,17,2,4,23
+P000113,1/5/2026,18:12,63,Older Adult,Male,Minor Injury,4,Control,12,8,40,60
+P000114,1/5/2026,15:39,63,Older Adult,Male,Shortness of Breath,1,Control,10,10,2,22
+P000115,1/5/2026,12:07,40,Adult,Female,Chest Pain,2,AI,14,5,4,23
+P000116,1/5/2026,7:04,57,Older Adult,Female,Abdominal Pain,4,AI,15,4,38,57
+P000117,1/5/2026,13:59,26,Young Adult,Male,Minor Injury,4,Control,13,8,40,61
+P000118,1/5/2026,12:08,84,Elderly,Female,Dizziness,3,Control,8,10,11,29
+P000119,1/5/2026,8:00,66,Older Adult,Male,Road Traffic Accident,2,Control,11,7,10,28
+P000120,1/5/2026,12:35,65,Older Adult,Male,Headache,5,AI,12,6,72,90
+P000121,1/5/2026,12:34,42,Adult,Male,Urinary Tract Infection,3,AI,13,4,24,41
+P000122,1/5/2026,14:01,26,Young Adult,Male,Fever,3,Control,13,6,31,50
+P000123,1/5/2026,15:39,38,Adult,Male,Headache,5,AI,15,6,66,87
+P000124,1/5/2026,5:22,68,Older Adult,Female,Headache,3,Control,17,10,28,55
+P000125,1/5/2026,11:08,17,Child,Male,Headache,4,Control,16,9,40,65
+P000126,1/5/2026,14:33,63,Older Adult,Male,Minor Injury,5,AI,14,3,38,55
+P000127,1/5/2026,13:45,29,Young Adult,Male,Headache,4,Control,7,7,50,64
+P000128,1/5/2026,18:13,17,Child,Female,Fever,3,Control,17,8,24,49
+P000129,1/6/2026,15:03,14,Child,Female,Chest Pain,2,AI,15,5,5,25
+P000130,1/6/2026,8:29,3,Child,Male,Abdominal Pain,3,AI,11,3,15,29
+P000131,1/6/2026,6:30,47,Adult,Male,Shortness of Breath,2,AI,12,3,4,19
+P000132,1/6/2026,15:37,22,Young Adult,Male,Chest Pain,2,Control,12,7,7,26
+P000133,1/6/2026,3:10,86,Elderly,Male,Abdominal Pain,2,Control,10,8,9,27
+P000134,1/6/2026,14:34,39,Adult,Male,Minor Injury,3,AI,5,3,9,17
+P000135,1/6/2026,20:07,9,Child,Male,Minor Injury,5,AI,8,6,48,62
+P000136,1/6/2026,14:02,68,Older Adult,Male,Minor Injury,4,AI,8,5,24,37
+P000137,1/6/2026,11:13,87,Elderly,Female,Headache,5,Control,4,6,99,109
+P000138,1/6/2026,15:59,68,Older Adult,Male,Urinary Tract Infection,3,Control,8,8,20,36
+P000139,1/6/2026,12:12,6,Child,Female,Burns,3,AI,17,3,24,44
+P000140,1/6/2026,13:44,74,Elderly,Female,Road Traffic Accident,2,AI,14,5,0,19
+P000141,1/6/2026,20:31,55,Older Adult,Female,Shortness of Breath,2,Control,8,5,7,20
+P000142,1/6/2026,11:33,29,Young Adult,Male,Fever,3,Control,9,6,23,38
+P000143,1/6/2026,21:44,15,Child,Male,Dizziness,2,Control,17,7,12,36
+P000144,1/6/2026,19:18,33,Adult,Male,Chest Pain,3,Control,17,7,16,40
+P000145,1/6/2026,9:58,27,Young Adult,Female,Chest Pain,2,Control,12,9,7,28
+P000146,1/6/2026,6:37,68,Older Adult,Male,Headache,4,Control,17,8,32,57
+P000147,1/6/2026,7:15,44,Adult,Female,Abdominal Pain,4,AI,9,8,35,52
+P000148,1/6/2026,2:01,85,Elderly,Female,Dizziness,4,Control,13,8,30,51
+P000149,1/7/2026,7:39,47,Adult,Male,Shortness of Breath,3,AI,6,2,7,15
+P000150,1/7/2026,15:16,18,Young Adult,Female,Shortness of Breath,2,Control,11,5,9,25
+P000151,1/7/2026,6:54,16,Child,Male,Minor Injury,4,AI,12,4,42,58
+P000152,1/7/2026,11:33,41,Adult,Male,Headache,3,Control,5,13,13,31
+P000153,1/7/2026,18:41,67,Older Adult,Male,Abdominal Pain,3,AI,14,5,13,32
+P000154,1/7/2026,2:59,64,Older Adult,Male,Shortness of Breath,2,AI,15,6,3,24
+P000155,1/7/2026,17:15,30,Young Adult,Female,Minor Injury,4,AI,16,6,52,74
+P000156,1/7/2026,10:37,21,Young Adult,Male,Fever,3,AI,21,3,0,24
+P000157,1/7/2026,7:59,6,Child,Male,Minor Injury,4,Control,14,5,44,63
+P000158,1/7/2026,15:01,63,Older Adult,Female,Chest Pain,2,AI,12,6,6,24
+P000159,1/7/2026,14:01,17,Child,Female,Chest Pain,2,AI,6,2,1,9
+P000160,1/7/2026,18:25,44,Adult,Male,Chest Pain,2,AI,14,6,4,24
+P000161,1/7/2026,16:12,31,Adult,Female,Fever,4,Control,14,8,43,65
+P000162,1/7/2026,17:55,77,Elderly,Female,Skin Rash,4,AI,7,6,37,50
+P000163,1/7/2026,10:46,25,Young Adult,Male,Road Traffic Accident,2,Control,11,8,13,32
+P000164,1/7/2026,8:30,19,Young Adult,Male,Fever,2,Control,12,9,8,29
+P000165,1/7/2026,16:59,59,Older Adult,Male,Shortness of Breath,1,Control,14,8,3,25
+P000166,1/7/2026,17:33,31,Adult,Female,Minor Injury,5,Control,15,8,72,95
+P000167,1/7/2026,22:38,30,Young Adult,Female,Chest Pain,3,AI,10,5,19,34
+P000168,1/7/2026,12:02,87,Elderly,Female,Chest Pain,2,AI,13,3,3,19
+P000169,1/7/2026,11:07,69,Older Adult,Female,Dizziness,3,AI,14,5,16,35
+P000170,1/7/2026,17:22,28,Young Adult,Male,Shortness of Breath,2,AI,11,8,4,23
+P000171,1/8/2026,11:13,23,Young Adult,Male,Dizziness,3,AI,10,5,11,26
+P000172,1/8/2026,20:55,33,Adult,Male,Fever,4,AI,15,6,45,66
+P000173,1/8/2026,18:54,55,Older Adult,Female,Minor Injury,5,Control,11,7,35,53
+P000174,1/8/2026,12:26,1,Child,Female,Chest Pain,2,AI,7,4,9,20
+P000175,1/8/2026,16:53,70,Older Adult,Male,Chest Pain,2,AI,17,4,0,21
+P000176,1/8/2026,16:28,34,Adult,Female,Headache,4,AI,8,3,35,46
+P000177,1/8/2026,7:38,27,Young Adult,Male,Fever,3,AI,12,3,21,36
+P000178,1/8/2026,19:52,60,Older Adult,Male,Chest Pain,2,AI,13,5,1,19
+P000179,1/8/2026,13:38,81,Elderly,Male,Chest Pain,1,Control,14,7,2,23
+P000180,1/8/2026,17:00,15,Child,Male,Abdominal Pain,3,Control,13,9,22,44
+P000181,1/8/2026,11:16,27,Young Adult,Male,Minor Injury,4,AI,1,5,39,45
+P000182,1/8/2026,19:40,47,Adult,Male,Headache,5,Control,9,4,60,73
+P000183,1/8/2026,11:29,86,Elderly,Male,Abdominal Pain,3,AI,13,6,12,31
+P000184,1/8/2026,1:52,77,Elderly,Male,Chest Pain,2,Control,12,5,3,20
+P000185,1/8/2026,19:12,46,Adult,Female,Abdominal Pain,4,Control,14,8,39,61
+P000186,1/8/2026,7:20,53,Older Adult,Male,Shortness of Breath,1,AI,16,4,0,20
+P000187,1/8/2026,11:18,46,Adult,Female,Abdominal Pain,3,Control,14,8,17,39
+P000188,1/8/2026,20:52,38,Adult,Male,Minor Injury,4,AI,9,3,31,43
+P000189,1/8/2026,20:18,29,Young Adult,Male,Abdominal Pain,3,Control,10,9,30,49
+P000190,1/8/2026,14:56,20,Young Adult,Male,Chest Pain,3,Control,19,8,19,46
+P000191,1/8/2026,14:24,18,Young Adult,Male,Urinary Tract Infection,4,AI,11,5,39,55
+P000192,1/8/2026,12:21,48,Adult,Female,Minor Injury,3,Control,12,5,23,40
+P000193,1/8/2026,10:30,10,Child,Male,Abdominal Pain,3,AI,14,7,15,36
+P000194,1/8/2026,11:16,74,Elderly,Female,Road Traffic Accident,2,AI,17,4,7,28
+P000195,1/9/2026,15:54,18,Young Adult,Female,Headache,5,Control,8,8,80,96
+P000196,1/9/2026,16:22,26,Young Adult,Female,Skin Rash,5,AI,10,4,74,88
+P000197,1/9/2026,17:31,36,Adult,Female,Shortness of Breath,2,AI,6,10,6,22
+P000198,1/9/2026,17:09,70,Older Adult,Female,Minor Injury,4,Control,11,8,19,38
+P000199,1/9/2026,7:09,1,Child,Male,Dizziness,3,Control,14,7,13,34
+P000200,1/9/2026,13:35,26,Young Adult,Female,Chest Pain,2,Control,11,9,6,26
+P000201,1/9/2026,6:07,76,Elderly,Male,Shortness of Breath,2,AI,19,6,1,26
+P000202,1/9/2026,13:53,20,Young Adult,Male,Headache,4,AI,12,5,28,45
+P000203,1/9/2026,12:51,21,Young Adult,Male,Abdominal Pain,3,AI,12,5,20,37
+P000204,1/9/2026,19:19,56,Older Adult,Female,Abdominal Pain,4,AI,11,6,38,55
+P000205,1/9/2026,11:31,6,Child,Female,Abdominal Pain,3,AI,7,5,14,26
+P000206,1/9/2026,7:49,31,Adult,Male,Minor Injury,5,AI,12,5,57,74
+P000207,1/9/2026,8:13,31,Adult,Female,Shortness of Breath,3,AI,13,4,13,30
+P000208,1/9/2026,16:49,22,Young Adult,Male,Shortness of Breath,2,Control,12,6,7,25
+P000209,1/9/2026,14:27,23,Young Adult,Male,Abdominal Pain,4,AI,13,6,51,70
+P000210,1/9/2026,7:45,12,Child,Male,Headache,5,AI,9,6,34,49
+P000211,1/9/2026,7:51,19,Young Adult,Male,Urinary Tract Infection,3,AI,7,7,23,37
+P000212,1/9/2026,15:52,14,Child,Male,Fever,3,AI,12,5,30,47
+P000213,1/9/2026,6:23,65,Older Adult,Female,Shortness of Breath,1,Control,13,8,3,24
+P000214,1/9/2026,17:14,43,Adult,Female,Minor Injury,4,AI,11,3,26,40
+P000215,1/9/2026,15:21,44,Adult,Male,Road Traffic Accident,2,Control,13,8,7,28
+P000216,1/9/2026,7:29,77,Elderly,Female,Headache,4,AI,15,5,45,65
+P000217,1/9/2026,7:03,64,Older Adult,Female,Skin Rash,5,Control,15,5,61,81
+P000218,1/9/2026,22:12,9,Child,Female,Fever,3,AI,15,6,12,33
+P000219,1/9/2026,11:58,87,Elderly,Female,Urinary Tract Infection,3,AI,16,4,15,35
+P000220,1/9/2026,11:22,25,Young Adult,Male,Chest Pain,3,AI,14,5,10,29
+P000221,1/9/2026,17:07,3,Child,Female,Chest Pain,1,Control,13,9,2,24
+P000222,1/10/2026,20:17,66,Older Adult,Female,Abdominal Pain,2,AI,20,5,1,26
+P000223,1/10/2026,22:11,43,Adult,Male,Road Traffic Accident,2,AI,15,7,6,28
+P000224,1/10/2026,16:54,50,Adult,Male,Fever,4,AI,9,6,27,42
+P000225,1/10/2026,11:30,19,Young Adult,Female,Chest Pain,3,Control,5,8,20,33
+P000226,1/10/2026,7:13,44,Adult,Male,Chest Pain,2,AI,11,2,3,16
+P000227,1/10/2026,17:33,19,Young Adult,Female,Urinary Tract Infection,4,Control,14,9,44,67
+P000228,1/10/2026,13:17,75,Elderly,Male,Skin Rash,4,AI,16,4,45,65
+P000229,1/10/2026,12:55,27,Young Adult,Female,Shortness of Breath,3,Control,7,9,22,38
+P000230,1/10/2026,19:33,79,Elderly,Male,Shortness of Breath,1,AI,15,6,0,21
+P000231,1/10/2026,7:10,33,Adult,Female,Headache,3,AI,17,5,14,36
+P000232,1/10/2026,13:40,58,Older Adult,Female,Fever,3,Control,14,9,34,57
+P000233,1/10/2026,1:11,70,Older Adult,Male,Urinary Tract Infection,3,Control,14,9,26,49
+P000234,1/10/2026,12:48,60,Older Adult,Female,Abdominal Pain,3,AI,11,5,14,30
+P000235,1/10/2026,5:14,23,Young Adult,Male,Fever,3,Control,10,5,17,32
+P000236,1/10/2026,7:56,20,Young Adult,Male,Fever,4,AI,15,5,21,41
+P000237,1/10/2026,7:30,22,Young Adult,Male,Headache,4,Control,14,6,51,71
+P000238,1/10/2026,15:48,53,Older Adult,Female,Headache,3,Control,11,6,16,33
+P000239,1/10/2026,16:57,61,Older Adult,Male,Headache,4,Control,22,7,51,80
+P000240,1/10/2026,14:28,41,Adult,Male,Abdominal Pain,3,AI,6,7,20,33
+P000241,1/10/2026,21:25,16,Child,Male,Headache,5,Control,11,9,85,105
+P000242,1/10/2026,11:17,46,Adult,Female,Chest Pain,2,AI,9,6,7,22
+P000243,1/10/2026,10:31,37,Adult,Female,Chest Pain,2,AI,14,6,3,23
+P000244,1/11/2026,18:21,34,Adult,Male,Abdominal Pain,3,Control,4,7,20,31
+P000245,1/11/2026,9:37,69,Older Adult,Male,Minor Injury,5,AI,17,3,60,80
+P000246,1/11/2026,21:16,82,Elderly,Female,Fever,4,Control,16,5,37,58
+P000247,1/11/2026,1:22,28,Young Adult,Male,Shortness of Breath,1,AI,13,5,0,18
+P000248,1/11/2026,21:23,35,Adult,Female,Minor Injury,5,Control,11,9,33,53
+P000249,1/11/2026,5:49,35,Adult,Female,Minor Injury,4,Control,15,9,48,72
+P000250,1/11/2026,19:07,30,Young Adult,Female,Headache,4,AI,13,4,33,50
+P000251,1/11/2026,13:40,19,Young Adult,Male,Fever,4,AI,16,7,46,69
+P000252,1/11/2026,23:05,10,Child,Female,Fever,3,Control,12,11,18,41
+P000253,1/11/2026,6:04,82,Elderly,Female,Minor Injury,4,AI,11,6,35,52
+P000254,1/11/2026,13:43,32,Adult,Female,Headache,3,Control,16,10,26,52
+P000255,1/11/2026,21:56,50,Adult,Male,Skin Rash,4,AI,15,6,53,74
+P000256,1/11/2026,13:28,85,Elderly,Male,Skin Rash,5,AI,11,5,57,73
+P000257,1/11/2026,14:27,70,Older Adult,Male,Chest Pain,2,Control,13,7,5,25
+P000258,1/11/2026,15:10,3,Child,Female,Abdominal Pain,4,Control,13,6,52,71
+P000259,1/11/2026,12:56,48,Adult,Female,Shortness of Breath,2,Control,14,7,7,28
+P000260,1/11/2026,14:00,36,Adult,Male,Fever,3,Control,17,8,17,42
+P000261,1/11/2026,14:42,69,Older Adult,Male,Abdominal Pain,2,Control,11,8,7,26
+P000262,1/11/2026,19:18,61,Older Adult,Male,Urinary Tract Infection,3,AI,9,5,11,25
+P000263,1/11/2026,5:08,52,Older Adult,Female,Chest Pain,3,AI,13,2,20,35
+P000264,1/11/2026,10:26,28,Young Adult,Female,Urinary Tract Infection,4,Control,10,9,27,46
+P000265,1/11/2026,20:33,58,Older Adult,Male,Minor Injury,4,AI,8,6,38,52
+P000266,1/11/2026,19:43,10,Child,Male,Minor Injury,5,AI,16,5,64,85
+P000267,1/11/2026,12:03,22,Young Adult,Male,Chest Pain,2,AI,11,4,1,16
+P000268,1/12/2026,14:35,19,Young Adult,Female,Chest Pain,1,AI,5,5,0,10
+P000269,1/12/2026,10:17,17,Child,Female,Headache,5,AI,15,5,74,94
+P000270,1/12/2026,9:14,23,Young Adult,Female,Chest Pain,2,Control,10,9,7,26
+P000271,1/12/2026,12:50,60,Older Adult,Male,Fever,3,Control,14,10,19,43
+P000272,1/12/2026,11:12,73,Elderly,Female,Fever,3,Control,16,8,25,49
+P000273,1/12/2026,14:18,26,Young Adult,Male,Abdominal Pain,3,Control,13,8,20,41
+P000274,1/12/2026,6:48,20,Young Adult,Female,Chest Pain,2,Control,4,7,12,23
+P000275,1/12/2026,21:05,28,Young Adult,Male,Road Traffic Accident,2,AI,4,6,6,16
+P000276,1/12/2026,22:47,29,Young Adult,Female,Chest Pain,2,Control,9,9,9,27
+P000277,1/12/2026,15:55,11,Child,Female,Abdominal Pain,3,AI,12,5,17,34
+P000278,1/12/2026,13:11,73,Elderly,Female,Shortness of Breath,3,Control,17,6,39,62
+P000279,1/12/2026,10:50,22,Young Adult,Female,Dizziness,3,AI,13,4,9,26
+P000280,1/12/2026,17:36,37,Adult,Male,Fever,3,AI,22,3,10,35
+P000281,1/12/2026,15:16,13,Child,Male,Abdominal Pain,3,Control,6,7,19,32
+P000282,1/12/2026,8:57,61,Older Adult,Female,Shortness of Breath,2,Control,12,9,12,33
+P000283,1/12/2026,19:22,57,Older Adult,Male,Urinary Tract Infection,3,AI,10,5,0,15
+P000284,1/12/2026,17:25,80,Elderly,Male,Road Traffic Accident,2,Control,13,8,2,23
+P000285,1/12/2026,20:28,61,Older Adult,Male,Shortness of Breath,2,Control,19,10,7,36
+P000286,1/12/2026,16:32,20,Young Adult,Female,Fever,3,Control,19,8,33,60
+P000287,1/12/2026,14:59,23,Young Adult,Male,Headache,4,AI,12,4,35,51
+P000288,1/13/2026,12:26,70,Older Adult,Male,Abdominal Pain,3,AI,15,4,9,28
+P000289,1/13/2026,20:24,42,Adult,Male,Minor Injury,4,AI,13,5,45,63
+P000290,1/13/2026,18:55,48,Adult,Male,Minor Injury,5,AI,8,4,86,98
+P000291,1/13/2026,5:54,12,Child,Female,Dizziness,3,AI,12,6,13,31
+P000292,1/13/2026,3:09,4,Child,Female,Chest Pain,2,AI,10,6,4,20
+P000293,1/13/2026,11:46,34,Adult,Female,Abdominal Pain,3,AI,12,5,16,33
+P000294,1/13/2026,17:22,44,Adult,Male,Headache,4,Control,9,8,46,63
+P000295,1/13/2026,22:20,58,Older Adult,Female,Minor Injury,3,Control,13,9,17,39
+P000296,1/13/2026,8:20,8,Child,Female,Road Traffic Accident,3,AI,13,6,19,38
+P000297,1/13/2026,14:42,49,Adult,Male,Chest Pain,3,AI,15,3,22,40
+P000298,1/13/2026,11:12,20,Young Adult,Female,Chest Pain,2,Control,13,8,10,31
+P000299,1/13/2026,21:36,4,Child,Female,Headache,3,Control,19,8,10,37
+P000300,1/13/2026,18:32,48,Adult,Female,Fever,3,AI,21,6,7,34
+P000301,1/13/2026,18:23,18,Young Adult,Female,Skin Rash,4,AI,10,5,29,44
+P000302,1/13/2026,12:43,25,Young Adult,Male,Headache,4,Control,16,9,43,68
+P000303,1/13/2026,12:10,20,Young Adult,Male,Road Traffic Accident,1,AI,20,5,0,25
+P000304,1/13/2026,10:16,18,Young Adult,Female,Shortness of Breath,2,AI,16,4,2,22
+P000305,1/13/2026,5:03,16,Child,Male,Minor Injury,5,AI,15,6,67,88
+P000306,1/13/2026,18:46,10,Child,Male,Fever,4,Control,5,9,49,63
+P000307,1/13/2026,17:24,19,Young Adult,Female,Skin Rash,4,Control,10,9,47,66
+P000308,1/13/2026,23:29,5,Child,Female,Chest Pain,2,Control,10,9,7,26
+P000309,1/13/2026,23:08,44,Adult,Male,Headache,3,Control,18,7,18,43
+P000310,1/13/2026,13:20,20,Young Adult,Female,Chest Pain,1,AI,9,4,0,13
+P000311,1/13/2026,16:19,29,Young Adult,Female,Headache,5,Control,12,10,91,113
+P000312,1/13/2026,20:18,21,Young Adult,Female,Fever,3,AI,15,5,19,39
+P000313,1/13/2026,18:18,62,Older Adult,Male,Chest Pain,2,Control,9,8,3,20
+P000314,1/14/2026,10:11,83,Elderly,Male,Dizziness,3,Control,13,8,27,48
+P000315,1/14/2026,12:36,52,Older Adult,Male,Chest Pain,2,AI,13,7,7,27
+P000316,1/14/2026,8:41,52,Older Adult,Male,Road Traffic Accident,3,AI,16,3,23,42
+P000317,1/14/2026,21:16,45,Adult,Male,Dizziness,2,Control,15,8,6,29
+P000318,1/14/2026,14:36,67,Older Adult,Male,Abdominal Pain,2,AI,15,5,3,23
+P000319,1/14/2026,9:53,37,Adult,Male,Minor Injury,5,AI,13,3,50,66
+P000320,1/14/2026,15:47,29,Young Adult,Female,Chest Pain,2,AI,5,7,11,23
+P000321,1/14/2026,14:38,29,Young Adult,Male,Abdominal Pain,4,AI,13,2,30,45
+P000322,1/14/2026,11:27,18,Young Adult,Female,Fever,3,Control,12,8,14,34
+P000323,1/14/2026,7:40,84,Elderly,Female,Burns,4,AI,15,6,29,50
+P000324,1/14/2026,15:34,36,Adult,Male,Abdominal Pain,3,AI,10,4,13,27
+P000325,1/14/2026,13:46,69,Older Adult,Female,Shortness of Breath,2,Control,12,8,13,33
+P000326,1/14/2026,16:47,25,Young Adult,Female,Headache,4,Control,12,8,43,63
+P000327,1/14/2026,13:17,36,Adult,Male,Skin Rash,5,AI,9,6,80,95
+P000328,1/14/2026,18:13,17,Child,Female,Abdominal Pain,2,Control,7,13,9,29
+P000329,1/14/2026,13:34,25,Young Adult,Male,Minor Injury,4,Control,14,9,38,61
+P000330,1/14/2026,13:43,55,Older Adult,Female,Minor Injury,5,AI,16,6,45,67
+P000331,1/14/2026,18:40,36,Adult,Male,Minor Injury,4,Control,10,7,56,73
+P000332,1/14/2026,12:59,19,Young Adult,Female,Burns,3,Control,11,8,26,45
+P000333,1/14/2026,8:06,58,Older Adult,Male,Road Traffic Accident,3,AI,15,5,21,41
+P000334,1/14/2026,3:40,28,Young Adult,Female,Abdominal Pain,3,AI,16,6,22,44
+P000335,1/14/2026,16:12,71,Elderly,Male,Headache,4,Control,13,6,33,52
+P000336,1/14/2026,14:17,19,Young Adult,Female,Fever,2,AI,14,4,5,23
+P000337,1/14/2026,15:36,29,Young Adult,Female,Fever,4,AI,14,6,47,67
+P000338,1/14/2026,9:12,29,Young Adult,Male,Headache,4,AI,15,5,45,65
+P000339,1/14/2026,8:35,10,Child,Female,Fever,3,Control,8,10,21,39
+P000340,1/14/2026,1:30,7,Child,Male,Fever,2,Control,20,9,14,43
+P000341,1/15/2026,11:01,37,Adult,Female,Dizziness,3,Control,13,9,23,45
+P000342,1/15/2026,14:15,72,Elderly,Female,Abdominal Pain,2,AI,15,5,9,29
+P000343,1/15/2026,11:08,61,Older Adult,Female,Urinary Tract Infection,3,AI,9,5,18,32
+P000344,1/15/2026,12:08,9,Child,Female,Headache,4,AI,11,6,31,48
+P000345,1/15/2026,19:37,33,Adult,Male,Shortness of Breath,1,AI,14,5,0,19
+P000346,1/15/2026,11:10,9,Child,Male,Skin Rash,4,AI,5,6,43,54
+P000347,1/15/2026,13:53,17,Child,Male,Fever,3,Control,8,8,22,38
+P000348,1/15/2026,17:55,64,Older Adult,Female,Fever,2,AI,9,4,1,14
+P000349,1/15/2026,11:21,48,Adult,Male,Fever,3,AI,7,3,23,33
+P000350,1/15/2026,14:32,7,Child,Female,Fever,3,AI,12,5,11,28
+P000351,1/15/2026,18:35,9,Child,Female,Urinary Tract Infection,3,Control,12,9,25,46
+P000352,1/15/2026,20:44,83,Elderly,Male,Road Traffic Accident,2,AI,18,4,1,23
+P000353,1/15/2026,8:22,7,Child,Female,Abdominal Pain,3,Control,8,9,15,32
+P000354,1/15/2026,20:44,34,Adult,Male,Abdominal Pain,3,Control,13,8,22,43
+P000355,1/15/2026,13:44,34,Adult,Male,Fever,2,AI,8,6,5,19
+P000356,1/15/2026,10:33,4,Child,Female,Abdominal Pain,2,AI,5,5,5,15
+P000357,1/15/2026,12:08,18,Young Adult,Male,Shortness of Breath,2,Control,14,8,6,28
+P000358,1/15/2026,22:23,47,Adult,Male,Abdominal Pain,4,AI,15,6,48,69
+P000359,1/15/2026,13:07,52,Older Adult,Female,Headache,4,Control,14,8,41,63
+P000360,1/15/2026,11:06,38,Adult,Male,Abdominal Pain,3,Control,7,7,21,35
+P000361,1/15/2026,14:35,37,Adult,Female,Fever,3,Control,12,5,19,36
+P000362,1/15/2026,9:17,85,Elderly,Female,Minor Injury,5,AI,14,6,50,70
+P000363,1/16/2026,6:02,55,Older Adult,Male,Headache,4,AI,16,4,47,67
+P000364,1/16/2026,8:27,32,Adult,Male,Dizziness,3,AI,15,4,12,31
+P000365,1/16/2026,8:05,37,Adult,Female,Skin Rash,5,AI,16,4,86,106
+P000366,1/16/2026,8:43,38,Adult,Male,Fever,3,Control,16,8,15,39
+P000367,1/16/2026,8:43,57,Older Adult,Male,Abdominal Pain,2,Control,12,11,9,32
+P000368,1/16/2026,15:20,37,Adult,Female,Skin Rash,4,AI,14,5,37,56
+P000369,1/16/2026,9:27,44,Adult,Male,Urinary Tract Infection,4,Control,16,7,39,62
+P000370,1/16/2026,11:39,17,Child,Female,Road Traffic Accident,2,AI,14,4,7,25
+P000371,1/16/2026,19:53,36,Adult,Male,Abdominal Pain,3,AI,17,3,20,40
+P000372,1/16/2026,12:53,21,Young Adult,Male,Dizziness,3,AI,15,4,19,38
+P000373,1/16/2026,15:00,9,Child,Male,Chest Pain,2,Control,9,6,5,20
+P000374,1/16/2026,8:35,17,Child,Female,Minor Injury,5,Control,7,8,47,62
+P000375,1/16/2026,9:20,42,Adult,Female,Urinary Tract Infection,3,AI,12,6,8,26
+P000376,1/16/2026,5:59,46,Adult,Female,Chest Pain,2,Control,7,8,7,22
+P000377,1/16/2026,8:42,26,Young Adult,Male,Urinary Tract Infection,3,AI,12,5,28,45
+P000378,1/16/2026,10:34,37,Adult,Male,Fever,3,Control,12,7,20,39
+P000379,1/16/2026,8:12,36,Adult,Male,Dizziness,4,Control,17,6,61,84
+P000380,1/16/2026,7:56,29,Young Adult,Female,Chest Pain,2,Control,14,6,8,28
+P000381,1/16/2026,7:48,55,Older Adult,Female,Burns,3,Control,16,6,21,43
+P000382,1/16/2026,12:53,53,Older Adult,Female,Abdominal Pain,3,AI,10,5,21,36
+P000383,1/16/2026,9:53,62,Older Adult,Male,Minor Injury,3,Control,18,11,18,47
+P000384,1/16/2026,11:09,45,Adult,Female,Headache,4,Control,16,6,42,64
+P000385,1/16/2026,13:52,40,Adult,Male,Headache,3,Control,14,7,10,31
+P000386,1/16/2026,15:43,15,Child,Female,Chest Pain,3,Control,5,8,15,28
+P000387,1/16/2026,4:46,29,Young Adult,Male,Minor Injury,5,Control,17,8,40,65
+P000388,1/16/2026,17:52,10,Child,Female,Chest Pain,2,Control,19,8,10,37
+P000389,1/16/2026,14:09,78,Elderly,Male,Shortness of Breath,1,AI,12,4,0,16
+P000390,1/16/2026,7:45,2,Child,Male,Chest Pain,2,AI,12,4,8,24
+P000391,1/17/2026,18:12,24,Young Adult,Female,Burns,3,AI,10,5,18,33
+P000392,1/17/2026,20:36,77,Elderly,Male,Abdominal Pain,2,AI,5,5,7,17
+P000393,1/17/2026,6:37,77,Elderly,Male,Chest Pain,2,Control,10,10,6,26
+P000394,1/17/2026,10:23,64,Older Adult,Female,Chest Pain,2,AI,19,5,1,25
+P000395,1/17/2026,17:01,1,Child,Female,Fever,3,AI,16,5,15,36
+P000396,1/17/2026,16:21,9,Child,Female,Chest Pain,2,Control,9,9,11,29
+P000397,1/17/2026,9:16,49,Adult,Male,Headache,5,AI,10,6,92,108
+P000398,1/17/2026,9:35,8,Child,Female,Skin Rash,5,Control,21,8,73,102
+P000399,1/17/2026,11:13,15,Child,Female,Minor Injury,5,Control,8,8,45,61
+P000400,1/17/2026,13:09,49,Adult,Male,Shortness of Breath,2,AI,9,4,2,15
+P000401,1/17/2026,14:34,88,Elderly,Female,Abdominal Pain,3,Control,10,9,11,30
+P000402,1/17/2026,11:24,26,Young Adult,Male,Minor Injury,4,Control,7,8,39,54
+P000403,1/17/2026,12:02,66,Older Adult,Male,Chest Pain,2,Control,10,6,7,23
+P000404,1/17/2026,16:46,63,Older Adult,Male,Road Traffic Accident,3,Control,10,9,19,38
+P000405,1/17/2026,4:37,27,Young Adult,Male,Chest Pain,2,Control,8,10,5,23
+P000406,1/17/2026,10:16,70,Older Adult,Female,Fever,4,AI,17,7,23,47
+P000407,1/17/2026,16:11,29,Young Adult,Female,Fever,3,AI,7,4,18,29
+P000408,1/17/2026,19:53,6,Child,Female,Skin Rash,5,AI,11,4,69,84
+P000409,1/18/2026,13:51,65,Older Adult,Female,Abdominal Pain,3,Control,8,11,13,32
+P000410,1/18/2026,13:23,15,Child,Male,Shortness of Breath,1,AI,11,7,0,18
+P000411,1/18/2026,7:28,78,Elderly,Female,Abdominal Pain,2,AI,8,6,7,21
+P000412,1/18/2026,12:42,27,Young Adult,Female,Minor Injury,5,Control,12,5,30,47
+P000413,1/18/2026,13:24,34,Adult,Male,Urinary Tract Infection,3,AI,13,4,25,42
+P000414,1/18/2026,9:35,49,Adult,Female,Fever,3,AI,18,4,21,43
+P000415,1/18/2026,10:57,14,Child,Female,Headache,4,AI,10,7,45,62
+P000416,1/18/2026,11:59,13,Child,Female,Urinary Tract Infection,3,Control,18,6,14,38
+P000417,1/18/2026,2:25,31,Adult,Female,Headache,4,Control,9,11,48,68
+P000418,1/18/2026,11:37,66,Older Adult,Male,Headache,4,AI,11,5,44,60
+P000419,1/18/2026,9:00,60,Older Adult,Male,Shortness of Breath,2,AI,19,4,2,25
+P000420,1/18/2026,11:19,49,Adult,Male,Minor Injury,5,AI,24,6,74,104
+P000421,1/18/2026,7:54,53,Older Adult,Female,Abdominal Pain,3,AI,19,6,15,40
+P000422,1/18/2026,19:27,55,Older Adult,Female,Road Traffic Accident,2,AI,11,3,2,16
+P000423,1/18/2026,14:15,59,Older Adult,Female,Fever,4,Control,14,8,38,60
+P000424,1/18/2026,15:46,48,Adult,Male,Abdominal Pain,4,AI,15,7,38,60
+P000425,1/18/2026,17:16,41,Adult,Male,Road Traffic Accident,3,Control,13,7,18,38
+P000426,1/18/2026,13:39,66,Older Adult,Female,Fever,3,AI,8,7,12,27
+P000427,1/18/2026,7:27,32,Adult,Female,Abdominal Pain,2,AI,13,4,6,23
+P000428,1/18/2026,13:57,62,Older Adult,Male,Shortness of Breath,2,Control,10,6,10,26
+P000429,1/18/2026,14:11,36,Adult,Female,Urinary Tract Infection,3,AI,8,5,17,30
+P000430,1/19/2026,16:26,28,Young Adult,Female,Urinary Tract Infection,4,Control,11,6,24,41
+P000431,1/19/2026,12:53,7,Child,Female,Burns,3,Control,13,8,16,37
+P000432,1/19/2026,8:52,42,Adult,Female,Skin Rash,4,Control,16,8,32,56
+P000433,1/19/2026,10:41,32,Adult,Male,Abdominal Pain,2,Control,11,7,13,31
+P000434,1/19/2026,11:58,59,Older Adult,Female,Fever,3,Control,12,11,21,44
+P000435,1/19/2026,15:46,14,Child,Female,Road Traffic Accident,2,Control,15,8,7,30
+P000436,1/19/2026,14:29,52,Older Adult,Male,Fever,3,AI,12,6,14,32
+P000437,1/19/2026,11:40,51,Older Adult,Male,Shortness of Breath,2,AI,14,6,3,23
+P000438,1/19/2026,22:33,27,Young Adult,Female,Shortness of Breath,3,AI,12,7,20,39
+P000439,1/19/2026,14:36,52,Older Adult,Male,Fever,3,Control,13,6,9,28
+P000440,1/19/2026,9:05,82,Elderly,Male,Urinary Tract Infection,3,AI,8,3,17,28
+P000441,1/19/2026,7:06,58,Older Adult,Female,Headache,4,AI,12,7,30,49
+P000442,1/19/2026,8:31,55,Older Adult,Male,Headache,4,Control,18,9,44,71
+P000443,1/19/2026,10:31,71,Elderly,Female,Dizziness,4,AI,13,5,44,62
+P000444,1/19/2026,8:52,45,Adult,Male,Headache,4,Control,9,8,33,50
+P000445,1/19/2026,9:24,23,Young Adult,Female,Chest Pain,2,AI,18,5,0,23
+P000446,1/19/2026,10:32,62,Older Adult,Male,Headache,4,Control,15,9,37,61
+P000447,1/19/2026,8:54,38,Adult,Male,Road Traffic Accident,1,Control,15,6,3,24
+P000448,1/19/2026,19:57,43,Adult,Male,Minor Injury,3,AI,15,6,21,42
+P000449,1/19/2026,6:06,20,Young Adult,Female,Road Traffic Accident,2,Control,7,10,7,24
+P000450,1/19/2026,13:51,51,Older Adult,Female,Minor Injury,5,Control,15,9,55,79
+P000451,1/19/2026,12:56,10,Child,Male,Chest Pain,2,AI,18,5,3,26
+P000452,1/20/2026,22:11,90,Elderly,Female,Skin Rash,5,AI,10,5,43,58
+P000453,1/20/2026,7:15,18,Young Adult,Female,Urinary Tract Infection,4,AI,4,7,45,56
+P000454,1/20/2026,11:15,7,Child,Female,Chest Pain,2,Control,13,9,11,33
+P000455,1/20/2026,21:42,35,Adult,Male,Abdominal Pain,3,Control,12,11,18,41
+P000456,1/20/2026,18:52,16,Child,Female,Dizziness,3,AI,6,3,14,23
+P000457,1/20/2026,17:35,58,Older Adult,Male,Skin Rash,5,Control,14,9,55,78
+P000458,1/20/2026,10:12,80,Elderly,Male,Urinary Tract Infection,4,Control,14,7,35,56
+P000459,1/20/2026,8:06,52,Older Adult,Female,Urinary Tract Infection,4,AI,6,5,29,40
+P000460,1/20/2026,15:35,8,Child,Female,Headache,4,Control,20,10,38,68
+P000461,1/20/2026,20:46,2,Child,Male,Minor Injury,4,Control,15,6,48,69
+P000462,1/20/2026,13:50,68,Older Adult,Male,Headache,3,Control,4,11,24,39
+P000463,1/20/2026,14:08,77,Elderly,Female,Abdominal Pain,3,Control,15,10,15,40
+P000464,1/20/2026,10:31,45,Adult,Female,Minor Injury,5,Control,15,9,67,91
+P000465,1/20/2026,16:10,50,Adult,Male,Headache,5,Control,18,7,75,100
+P000466,1/20/2026,9:07,19,Young Adult,Female,Minor Injury,4,Control,10,8,31,49
+P000467,1/20/2026,11:32,73,Elderly,Male,Headache,3,AI,15,5,18,38
+P000468,1/20/2026,12:22,44,Adult,Male,Headache,4,AI,11,4,47,62
+P000469,1/20/2026,13:24,25,Young Adult,Female,Chest Pain,2,Control,10,10,7,27
+P000470,1/20/2026,9:55,19,Young Adult,Male,Chest Pain,2,AI,9,5,0,14
+P000471,1/20/2026,7:07,84,Elderly,Male,Abdominal Pain,3,Control,4,8,5,17
+P000472,1/20/2026,14:44,10,Child,Female,Chest Pain,2,Control,14,8,9,31
+P000473,1/20/2026,10:21,25,Young Adult,Female,Dizziness,2,Control,11,8,8,27
+P000474,1/20/2026,14:58,37,Adult,Male,Abdominal Pain,3,AI,1,6,18,25
+P000475,1/20/2026,8:03,10,Child,Female,Chest Pain,2,AI,12,4,4,20
+P000476,1/20/2026,13:39,2,Child,Female,Shortness of Breath,2,AI,17,6,0,23
+P000477,1/20/2026,13:02,67,Older Adult,Male,Shortness of Breath,2,Control,7,7,6,20
+P000478,1/21/2026,5:28,84,Elderly,Female,Abdominal Pain,3,Control,9,8,23,40
+P000479,1/21/2026,11:40,56,Older Adult,Male,Road Traffic Accident,2,AI,14,3,7,24
+P000480,1/21/2026,8:28,78,Elderly,Male,Road Traffic Accident,2,Control,2,10,7,19
+P000481,1/21/2026,6:33,35,Adult,Female,Chest Pain,2,AI,10,7,0,17
+P000482,1/21/2026,22:33,58,Older Adult,Female,Chest Pain,2,AI,13,6,5,24
+P000483,1/21/2026,11:27,32,Adult,Male,Burns,3,AI,10,5,16,31
+P000484,1/21/2026,17:12,65,Older Adult,Male,Road Traffic Accident,2,AI,7,5,2,14
+P000485,1/21/2026,10:14,82,Elderly,Female,Minor Injury,4,AI,7,3,16,26
+P000486,1/21/2026,15:59,18,Young Adult,Male,Abdominal Pain,2,AI,6,3,6,15
+P000487,1/21/2026,16:22,31,Adult,Male,Fever,2,AI,9,6,1,16
+P000488,1/21/2026,14:43,45,Adult,Male,Shortness of Breath,2,Control,16,8,9,33
+P000489,1/21/2026,12:25,13,Child,Female,Chest Pain,1,AI,21,3,0,24
+P000490,1/21/2026,12:03,15,Child,Male,Headache,4,Control,12,6,29,47
+P000491,1/21/2026,11:25,59,Older Adult,Male,Shortness of Breath,2,Control,15,9,9,33
+P000492,1/21/2026,20:39,71,Elderly,Female,Fever,3,Control,8,9,15,32
+P000493,1/21/2026,18:08,47,Adult,Female,Road Traffic Accident,2,Control,4,6,4,14
+P000494,1/21/2026,21:54,12,Child,Female,Skin Rash,5,AI,19,5,38,62
+P000495,1/21/2026,8:04,4,Child,Male,Fever,3,AI,10,5,16,31
+P000496,1/21/2026,16:55,80,Elderly,Female,Skin Rash,5,Control,15,7,89,111
+P000497,1/21/2026,20:31,36,Adult,Male,Abdominal Pain,3,Control,13,10,20,43
+P000498,1/21/2026,9:19,25,Young Adult,Male,Skin Rash,5,AI,16,5,87,108
+P000499,1/21/2026,6:49,49,Adult,Female,Abdominal Pain,3,AI,16,3,24,43
+P000500,1/21/2026,16:10,26,Young Adult,Male,Abdominal Pain,3,AI,13,5,18,36
+P000501,1/21/2026,14:14,43,Adult,Male,Minor Injury,5,Control,14,10,89,113
+P000502,1/21/2026,18:31,51,Older Adult,Male,Headache,4,AI,17,5,50,72
+P000503,1/21/2026,8:27,50,Adult,Male,Urinary Tract Infection,3,Control,10,6,27,43
+P000504,1/22/2026,17:21,65,Older Adult,Male,Fever,3,Control,18,9,9,36
+P000505,1/22/2026,9:40,44,Adult,Female,Chest Pain,2,Control,9,8,7,24
+P000506,1/22/2026,8:16,58,Older Adult,Male,Headache,4,Control,12,8,33,53
+P000507,1/22/2026,8:58,60,Older Adult,Male,Headache,4,Control,15,9,52,76
+P000508,1/22/2026,17:25,8,Child,Male,Fever,3,AI,5,4,14,23
+P000509,1/22/2026,15:43,47,Adult,Female,Minor Injury,5,Control,18,7,91,116
+P000510,1/22/2026,13:06,26,Young Adult,Female,Minor Injury,5,Control,14,9,67,90
+P000511,1/22/2026,11:41,53,Older Adult,Male,Skin Rash,5,Control,25,7,65,97
+P000512,1/22/2026,18:56,41,Adult,Female,Dizziness,2,Control,20,10,7,37
+P000513,1/22/2026,11:25,82,Elderly,Male,Chest Pain,2,AI,12,6,2,20
+P000514,1/22/2026,17:24,9,Child,Male,Minor Injury,5,Control,19,6,69,94
+P000515,1/22/2026,12:09,67,Older Adult,Male,Fever,3,AI,15,7,15,37
+P000516,1/22/2026,11:58,67,Older Adult,Male,Minor Injury,4,Control,13,8,35,56
+P000517,1/22/2026,12:44,61,Older Adult,Male,Headache,4,AI,5,7,31,43
+P000518,1/22/2026,10:18,23,Young Adult,Female,Dizziness,3,AI,6,5,27,38
+P000519,1/22/2026,16:10,34,Adult,Male,Minor Injury,5,AI,12,5,92,109
+P000520,1/22/2026,13:12,57,Older Adult,Female,Burns,2,AI,10,5,2,17
+P000521,1/23/2026,9:52,22,Young Adult,Male,Skin Rash,5,AI,13,2,73,88
+P000522,1/23/2026,19:07,27,Young Adult,Male,Urinary Tract Infection,3,Control,17,9,15,41
+P000523,1/23/2026,11:39,44,Adult,Male,Road Traffic Accident,2,AI,15,4,2,21
+P000524,1/23/2026,13:03,37,Adult,Female,Headache,4,AI,9,6,25,40
+P000525,1/23/2026,19:46,25,Young Adult,Male,Chest Pain,2,AI,16,7,7,30
+P000526,1/23/2026,14:30,25,Young Adult,Female,Fever,3,Control,8,7,23,38
+P000527,1/23/2026,7:27,18,Young Adult,Male,Abdominal Pain,2,Control,7,7,10,24
+P000528,1/23/2026,20:10,54,Older Adult,Male,Headache,4,AI,14,6,44,64
+P000529,1/23/2026,14:42,62,Older Adult,Male,Headache,4,Control,9,7,31,47
+P000530,1/23/2026,11:00,53,Older Adult,Male,Headache,3,Control,9,10,18,37
+P000531,1/23/2026,8:48,83,Elderly,Male,Dizziness,2,Control,16,7,9,32
+P000532,1/23/2026,17:46,50,Adult,Male,Urinary Tract Infection,3,AI,15,7,15,37
+P000533,1/23/2026,14:51,5,Child,Female,Chest Pain,2,AI,11,5,3,19
+P000534,1/24/2026,13:37,10,Child,Male,Fever,3,Control,5,8,15,28
+P000535,1/24/2026,19:23,24,Young Adult,Female,Fever,2,Control,9,9,12,30
+P000536,1/24/2026,17:53,74,Elderly,Male,Fever,3,Control,20,9,26,55
+P000537,1/24/2026,8:59,50,Adult,Female,Road Traffic Accident,1,Control,16,10,3,29
+P000538,1/24/2026,10:56,24,Young Adult,Female,Headache,5,AI,18,3,72,93
+P000539,1/24/2026,10:46,41,Adult,Male,Shortness of Breath,3,AI,13,5,10,28
+P000540,1/24/2026,16:30,31,Adult,Male,Skin Rash,5,Control,11,8,58,77
+P000541,1/24/2026,4:40,57,Older Adult,Female,Road Traffic Accident,3,AI,16,4,12,32
+P000542,1/24/2026,14:45,29,Young Adult,Female,Abdominal Pain,4,AI,17,6,33,56
+P000543,1/24/2026,16:49,77,Elderly,Male,Minor Injury,5,Control,10,7,81,98
+P000544,1/24/2026,18:25,37,Adult,Male,Fever,3,Control,9,7,11,27
+P000545,1/24/2026,11:48,9,Child,Female,Fever,3,AI,6,6,12,24
+P000546,1/24/2026,17:49,86,Elderly,Male,Abdominal Pain,3,Control,9,6,18,33
+P000547,1/24/2026,7:04,7,Child,Female,Headache,4,AI,15,4,24,43
+P000548,1/24/2026,18:19,79,Elderly,Male,Fever,3,Control,10,9,21,40
+P000549,1/24/2026,8:51,79,Elderly,Male,Chest Pain,2,AI,16,7,4,27
+P000550,1/24/2026,11:40,52,Older Adult,Female,Minor Injury,4,AI,20,5,48,73
+P000551,1/24/2026,17:10,63,Older Adult,Female,Minor Injury,4,AI,12,3,33,48
+P000552,1/24/2026,8:55,30,Young Adult,Male,Chest Pain,2,AI,12,6,5,23
+P000553,1/24/2026,9:53,74,Elderly,Male,Abdominal Pain,3,AI,14,4,17,35
+P000554,1/24/2026,16:32,42,Adult,Female,Skin Rash,5,AI,10,6,23,39
+P000555,1/24/2026,16:49,67,Older Adult,Female,Abdominal Pain,3,Control,9,7,11,27
+P000556,1/24/2026,15:37,72,Elderly,Male,Burns,3,Control,10,10,22,42
+P000557,1/25/2026,15:26,83,Elderly,Female,Shortness of Breath,2,AI,7,4,6,17
+P000558,1/25/2026,13:33,68,Older Adult,Female,Fever,3,AI,16,4,17,37
+P000559,1/25/2026,10:14,29,Young Adult,Female,Chest Pain,2,Control,10,5,12,27
+P000560,1/25/2026,11:31,85,Elderly,Female,Abdominal Pain,4,Control,16,7,45,68
+P000561,1/25/2026,9:57,38,Adult,Male,Chest Pain,2,AI,14,5,8,27
+P000562,1/25/2026,19:20,85,Elderly,Female,Abdominal Pain,2,Control,12,8,1,21
+P000563,1/25/2026,14:45,51,Older Adult,Female,Shortness of Breath,2,Control,15,9,13,37
+P000564,1/25/2026,12:04,21,Young Adult,Male,Chest Pain,2,AI,8,6,3,17
+P000565,1/25/2026,12:05,40,Adult,Male,Headache,4,AI,9,5,37,51
+P000566,1/25/2026,20:37,42,Adult,Male,Shortness of Breath,1,Control,15,8,3,26
+P000567,1/25/2026,8:21,55,Older Adult,Female,Fever,3,Control,3,10,7,20
+P000568,1/25/2026,14:17,26,Young Adult,Male,Abdominal Pain,2,Control,12,8,7,27
+P000569,1/25/2026,13:13,38,Adult,Female,Abdominal Pain,2,Control,14,7,11,32
+P000570,1/25/2026,14:09,28,Young Adult,Female,Abdominal Pain,3,AI,17,4,11,32
+P000571,1/25/2026,2:45,63,Older Adult,Female,Minor Injury,5,AI,18,2,76,96
+P000572,1/25/2026,18:12,43,Adult,Female,Fever,3,Control,11,7,24,42
+P000573,1/25/2026,20:30,4,Child,Female,Road Traffic Accident,3,Control,15,5,21,41
+P000574,1/25/2026,14:29,27,Young Adult,Male,Fever,3,Control,9,9,24,42
+P000575,1/25/2026,15:02,10,Child,Female,Headache,4,AI,10,6,49,65
+P000576,1/25/2026,20:29,35,Adult,Male,Headache,3,Control,17,7,24,48
+P000577,1/25/2026,15:05,12,Child,Female,Minor Injury,5,AI,12,4,74,90
+P000578,1/25/2026,8:28,10,Child,Male,Chest Pain,2,AI,13,6,2,21
+P000579,1/25/2026,14:07,89,Elderly,Female,Abdominal Pain,3,AI,8,4,19,31
+P000580,1/25/2026,14:43,73,Elderly,Female,Shortness of Breath,2,AI,14,5,6,25
+P000581,1/25/2026,12:44,45,Adult,Female,Fever,3,Control,15,9,27,51
+P000582,1/25/2026,16:42,77,Elderly,Male,Headache,4,AI,15,4,23,42
+P000583,1/25/2026,20:43,6,Child,Male,Minor Injury,5,Control,7,7,81,95
+P000584,1/25/2026,20:32,36,Adult,Female,Headache,4,AI,16,4,27,47
+P000585,1/25/2026,12:16,33,Adult,Male,Shortness of Breath,2,Control,8,6,15,29
+P000586,1/25/2026,7:47,43,Adult,Female,Headache,4,AI,12,6,28,46
+P000587,1/26/2026,22:10,37,Adult,Male,Minor Injury,5,Control,6,9,47,62
+P000588,1/26/2026,18:12,35,Adult,Female,Minor Injury,4,AI,11,5,32,48
+P000589,1/26/2026,8:49,48,Adult,Male,Headache,4,Control,8,10,50,68
+P000590,1/26/2026,20:10,58,Older Adult,Female,Minor Injury,4,AI,10,5,41,56
+P000591,1/26/2026,18:30,16,Child,Female,Skin Rash,5,Control,12,9,90,111
+P000592,1/26/2026,13:27,21,Young Adult,Male,Fever,3,Control,15,9,18,42
+P000593,1/26/2026,14:43,28,Young Adult,Male,Fever,4,AI,15,4,32,51
+P000594,1/26/2026,12:05,18,Young Adult,Male,Minor Injury,5,AI,3,6,50,59
+P000595,1/26/2026,5:40,44,Adult,Female,Shortness of Breath,2,Control,15,8,6,29
+P000596,1/26/2026,11:15,16,Child,Female,Abdominal Pain,3,AI,13,6,9,28
+P000597,1/26/2026,17:03,60,Older Adult,Female,Urinary Tract Infection,4,AI,10,3,29,42
+P000598,1/26/2026,0:34,29,Young Adult,Female,Abdominal Pain,2,AI,8,5,0,13
+P000599,1/26/2026,11:59,28,Young Adult,Male,Minor Injury,4,Control,12,7,47,66
+P000600,1/26/2026,11:47,66,Older Adult,Male,Minor Injury,4,Control,13,7,55,75
+P000601,1/26/2026,13:55,7,Child,Male,Burns,3,AI,14,7,17,38
+P000602,1/26/2026,20:58,40,Adult,Male,Abdominal Pain,2,Control,11,8,6,25
+P000603,1/26/2026,11:25,67,Older Adult,Female,Shortness of Breath,3,AI,2,3,20,25
+P000604,1/26/2026,11:56,28,Young Adult,Female,Fever,3,Control,10,7,20,37
+P000605,1/26/2026,16:11,17,Child,Male,Fever,3,Control,7,9,26,42
+P000606,1/26/2026,12:10,50,Adult,Female,Abdominal Pain,3,AI,20,4,11,35
+P000607,1/26/2026,9:36,15,Child,Female,Shortness of Breath,1,AI,12,4,0,16
+P000608,1/26/2026,12:24,16,Child,Male,Headache,4,AI,15,5,43,63
+P000609,1/27/2026,8:17,20,Young Adult,Male,Abdominal Pain,4,Control,15,9,40,64
+P000610,1/27/2026,8:18,25,Young Adult,Male,Shortness of Breath,2,Control,13,7,11,31
+P000611,1/27/2026,13:22,38,Adult,Female,Minor Injury,5,Control,10,9,52,71
+P000612,1/27/2026,12:54,56,Older Adult,Female,Minor Injury,5,Control,10,8,72,90
+P000613,1/27/2026,19:37,36,Adult,Female,Urinary Tract Infection,3,AI,4,5,20,29
+P000614,1/27/2026,11:53,8,Child,Male,Fever,3,AI,13,2,8,23
+P000615,1/27/2026,14:17,21,Young Adult,Male,Burns,3,Control,13,8,20,41
+P000616,1/27/2026,14:25,82,Elderly,Female,Skin Rash,5,AI,12,5,30,47
+P000617,1/27/2026,1:05,42,Adult,Female,Fever,2,Control,13,9,12,34
+P000618,1/27/2026,15:03,67,Older Adult,Female,Abdominal Pain,3,AI,7,4,7,18
+P000619,1/27/2026,8:43,45,Adult,Female,Fever,2,Control,11,7,7,25
+P000620,1/27/2026,21:50,39,Adult,Male,Fever,4,AI,9,6,37,52
+P000621,1/27/2026,8:28,37,Adult,Female,Shortness of Breath,2,Control,15,10,5,30
+P000622,1/27/2026,12:58,27,Young Adult,Female,Shortness of Breath,2,Control,12,6,14,32
+P000623,1/27/2026,7:33,46,Adult,Male,Minor Injury,4,Control,9,9,33,51
+P000624,1/27/2026,23:16,42,Adult,Female,Headache,4,Control,11,10,37,58
+P000625,1/27/2026,13:42,26,Young Adult,Male,Abdominal Pain,3,Control,8,9,16,33
+P000626,1/27/2026,14:42,24,Young Adult,Male,Skin Rash,4,Control,11,10,33,54
+P000627,1/27/2026,6:52,68,Older Adult,Male,Fever,3,Control,14,7,19,40
+P000628,1/28/2026,16:15,85,Elderly,Male,Dizziness,3,AI,7,6,19,32
+P000629,1/28/2026,9:01,36,Adult,Male,Abdominal Pain,2,Control,12,7,8,27
+P000630,1/28/2026,19:33,27,Young Adult,Male,Burns,2,AI,9,5,3,17
+P000631,1/28/2026,9:54,29,Young Adult,Female,Abdominal Pain,2,Control,7,7,8,22
+P000632,1/28/2026,9:07,61,Older Adult,Male,Chest Pain,2,AI,19,4,1,24
+P000633,1/28/2026,4:12,21,Young Adult,Male,Abdominal Pain,4,AI,17,3,47,67
+P000634,1/28/2026,12:41,73,Elderly,Male,Minor Injury,4,Control,10,5,35,50
+P000635,1/28/2026,14:07,19,Young Adult,Female,Skin Rash,5,AI,11,6,54,71
+P000636,1/28/2026,6:29,36,Adult,Male,Fever,3,Control,4,5,8,17
+P000637,1/28/2026,17:31,35,Adult,Male,Urinary Tract Infection,3,AI,6,5,14,25
+P000638,1/28/2026,12:35,68,Older Adult,Female,Shortness of Breath,1,AI,7,3,0,10
+P000639,1/28/2026,13:46,46,Adult,Female,Shortness of Breath,2,Control,12,7,10,29
+P000640,1/28/2026,12:29,38,Adult,Female,Skin Rash,5,Control,12,9,82,103
+P000641,1/28/2026,12:00,90,Elderly,Female,Fever,3,Control,13,8,21,42
+P000642,1/28/2026,13:42,10,Child,Male,Fever,3,Control,15,8,4,27
+P000643,1/28/2026,8:38,80,Elderly,Female,Urinary Tract Infection,3,AI,13,6,17,36
+P000644,1/28/2026,9:16,11,Child,Male,Urinary Tract Infection,3,Control,8,8,21,37
+P000645,1/28/2026,18:58,56,Older Adult,Male,Dizziness,2,Control,13,10,11,34
+P000646,1/28/2026,20:19,50,Adult,Male,Urinary Tract Infection,3,Control,15,6,20,41
+P000647,1/28/2026,11:23,22,Young Adult,Female,Abdominal Pain,2,Control,10,6,6,22
+P000648,1/28/2026,10:49,79,Elderly,Male,Road Traffic Accident,2,Control,5,8,8,21
+P000649,1/28/2026,15:21,15,Child,Female,Fever,3,AI,17,5,15,37
+P000650,1/28/2026,12:28,23,Young Adult,Female,Dizziness,3,Control,12,7,23,42
+P000651,1/28/2026,3:21,44,Adult,Male,Headache,4,AI,1,5,36,42
+P000652,1/28/2026,8:43,38,Adult,Female,Shortness of Breath,3,Control,20,10,14,44
+P000653,1/28/2026,16:08,50,Adult,Female,Headache,4,Control,10,7,46,63
+P000654,1/28/2026,15:36,13,Child,Female,Fever,3,AI,22,3,11,36
+P000655,1/28/2026,3:09,6,Child,Male,Abdominal Pain,3,Control,14,5,18,37
+P000656,1/28/2026,9:35,4,Child,Female,Urinary Tract Infection,4,Control,11,11,35,57
+P000657,1/29/2026,9:36,19,Young Adult,Male,Road Traffic Accident,2,AI,13,7,4,24
+P000658,1/29/2026,15:27,32,Adult,Female,Abdominal Pain,3,Control,9,7,12,28
+P000659,1/29/2026,2:27,61,Older Adult,Female,Minor Injury,4,Control,12,9,40,61
+P000660,1/29/2026,7:41,78,Elderly,Male,Shortness of Breath,2,AI,20,5,6,31
+P000661,1/29/2026,17:42,51,Older Adult,Female,Fever,3,AI,8,7,17,32
+P000662,1/29/2026,8:20,28,Young Adult,Female,Chest Pain,3,Control,14,6,16,36
+P000663,1/29/2026,15:23,42,Adult,Female,Skin Rash,5,Control,9,6,60,75
+P000664,1/29/2026,9:41,19,Young Adult,Male,Minor Injury,3,Control,11,10,22,43
+P000665,1/29/2026,7:59,19,Young Adult,Male,Headache,4,Control,20,6,46,72
+P000666,1/29/2026,9:39,37,Adult,Female,Shortness of Breath,2,AI,14,5,10,29
+P000667,1/29/2026,16:01,16,Child,Female,Abdominal Pain,3,AI,15,5,6,26
+P000668,1/29/2026,18:54,23,Young Adult,Female,Headache,5,AI,12,6,66,84
+P000669,1/29/2026,18:07,84,Elderly,Male,Chest Pain,2,Control,23,8,9,40
+P000670,1/29/2026,11:47,37,Adult,Male,Chest Pain,2,Control,8,8,8,24
+P000671,1/29/2026,15:26,33,Adult,Female,Minor Injury,4,AI,6,5,39,50
+P000672,1/29/2026,9:21,5,Child,Female,Urinary Tract Infection,4,Control,19,7,38,64
+P000673,1/29/2026,10:36,21,Young Adult,Male,Fever,3,AI,10,5,11,26
+P000674,1/29/2026,19:26,52,Older Adult,Female,Chest Pain,2,AI,14,6,6,26
+P000675,1/29/2026,1:56,18,Young Adult,Female,Minor Injury,4,AI,19,5,43,67
+P000676,1/29/2026,7:28,42,Adult,Male,Skin Rash,5,Control,14,10,64,88
+P000677,1/29/2026,9:02,11,Child,Male,Minor Injury,5,Control,21,9,81,111
+P000678,1/29/2026,3:43,47,Adult,Male,Skin Rash,5,AI,13,6,57,76
+P000679,1/29/2026,9:12,9,Child,Female,Headache,4,AI,9,5,40,54
+P000680,1/29/2026,14:44,53,Older Adult,Male,Minor Injury,4,AI,3,4,19,26
+P000681,1/29/2026,12:09,70,Older Adult,Male,Abdominal Pain,3,Control,13,11,33,57
+P000682,1/29/2026,19:35,68,Older Adult,Female,Fever,3,AI,3,6,16,25
+P000683,1/29/2026,17:08,30,Young Adult,Male,Fever,3,AI,13,5,12,30
+P000684,1/29/2026,11:53,62,Older Adult,Male,Headache,4,Control,18,11,37,66
+P000685,1/30/2026,10:55,47,Adult,Male,Urinary Tract Infection,4,AI,12,6,27,45
+P000686,1/30/2026,11:54,34,Adult,Female,Skin Rash,5,AI,13,3,43,59
+P000687,1/30/2026,14:26,40,Adult,Female,Abdominal Pain,4,Control,16,7,40,63
+P000688,1/30/2026,10:33,10,Child,Male,Chest Pain,2,Control,15,9,8,32
+P000689,1/30/2026,14:50,5,Child,Female,Fever,2,AI,17,7,4,28
+P000690,1/30/2026,12:00,56,Older Adult,Female,Fever,4,Control,12,12,40,64
+P000691,1/30/2026,13:31,28,Young Adult,Male,Shortness of Breath,2,AI,3,5,4,12
+P000692,1/30/2026,12:24,39,Adult,Male,Urinary Tract Infection,4,Control,17,9,28,54
+P000693,1/30/2026,10:28,45,Adult,Male,Dizziness,3,Control,11,7,17,35
+P000694,1/30/2026,20:06,52,Older Adult,Male,Minor Injury,4,AI,8,4,38,50
+P000695,1/30/2026,16:48,74,Elderly,Female,Skin Rash,4,AI,13,3,30,46
+P000696,1/30/2026,8:02,75,Elderly,Female,Headache,4,Control,13,9,43,65
+P000697,1/30/2026,18:19,18,Young Adult,Male,Chest Pain,2,AI,9,7,3,19
+P000698,1/30/2026,13:19,25,Young Adult,Male,Headache,4,Control,7,9,39,55
+P000699,1/30/2026,19:52,38,Adult,Male,Shortness of Breath,2,Control,14,8,9,31
+P000700,1/30/2026,17:29,11,Child,Female,Minor Injury,4,Control,9,10,45,64
+P000701,1/30/2026,12:34,7,Child,Male,Chest Pain,1,Control,12,12,3,27
+P000702,1/30/2026,2:34,49,Adult,Female,Fever,3,AI,13,4,29,46
+P000703,1/30/2026,10:48,33,Adult,Male,Fever,3,AI,16,2,22,40
+P000704,1/30/2026,13:38,88,Elderly,Female,Burns,4,AI,20,5,21,46
+P000705,1/30/2026,14:26,22,Young Adult,Female,Headache,4,AI,13,6,24,43
+P000706,1/30/2026,10:25,20,Young Adult,Male,Minor Injury,5,Control,10,6,61,77
+P000707,1/30/2026,8:13,14,Child,Female,Minor Injury,4,AI,19,6,28,53
+P000708,1/30/2026,18:16,76,Elderly,Female,Chest Pain,2,AI,16,5,4,25
+P000709,1/30/2026,22:17,66,Older Adult,Male,Shortness of Breath,3,AI,13,5,19,37
+P000710,1/30/2026,13:44,58,Older Adult,Female,Urinary Tract Infection,3,AI,13,4,13,30
+P000711,1/30/2026,8:51,86,Elderly,Male,Headache,3,AI,12,4,23,39
+P000712,1/30/2026,10:28,48,Adult,Female,Burns,3,Control,13,6,29,48
+P000713,1/30/2026,2:19,50,Adult,Male,Chest Pain,3,AI,12,6,6,24
+P000714,1/31/2026,19:52,28,Young Adult,Female,Abdominal Pain,4,AI,8,4,21,33
+P000715,1/31/2026,7:26,37,Adult,Female,Urinary Tract Infection,3,AI,12,5,23,40
+P000716,1/31/2026,14:17,47,Adult,Female,Skin Rash,5,Control,19,8,78,105
+P000717,1/31/2026,10:03,47,Adult,Female,Dizziness,3,AI,9,4,20,33
+P000718,1/31/2026,13:00,82,Elderly,Female,Minor Injury,3,AI,11,5,16,32
+P000719,1/31/2026,15:49,83,Elderly,Male,Burns,4,Control,8,8,39,55
+P000720,1/31/2026,18:00,60,Older Adult,Female,Road Traffic Accident,3,AI,17,6,19,42
+P000721,1/31/2026,9:57,57,Older Adult,Female,Skin Rash,5,Control,15,10,68,93
+P000722,1/31/2026,1:25,64,Older Adult,Female,Shortness of Breath,2,Control,7,6,12,25
+P000723,1/31/2026,8:44,24,Young Adult,Female,Fever,4,Control,4,9,33,46
+P000724,1/31/2026,19:19,0,Child,Female,Burns,3,AI,15,2,15,32
+P000725,1/31/2026,18:51,67,Older Adult,Female,Fever,4,Control,7,9,49,65
+P000726,1/31/2026,14:22,54,Older Adult,Male,Headache,4,Control,15,10,42,67
+P000727,1/31/2026,14:09,4,Child,Male,Headache,5,Control,9,4,75,88
+P000728,1/31/2026,15:58,90,Elderly,Male,Shortness of Breath,3,Control,15,7,24,46
+P000729,1/31/2026,8:10,6,Child,Male,Headache,3,Control,14,7,17,38
+P000730,1/31/2026,19:40,27,Young Adult,Female,Abdominal Pain,4,Control,10,7,30,47
+P000731,1/31/2026,12:40,67,Older Adult,Male,Urinary Tract Infection,3,AI,8,4,12,24
+P000732,1/31/2026,11:04,30,Young Adult,Male,Headache,4,AI,14,5,24,43
+P000733,1/31/2026,13:57,6,Child,Female,Shortness of Breath,2,Control,9,9,2,20
+P000734,1/31/2026,5:00,18,Young Adult,Male,Abdominal Pain,2,Control,16,8,11,35
+P000735,1/31/2026,8:16,57,Older Adult,Male,Abdominal Pain,3,AI,9,4,6,19
+P000736,1/31/2026,16:21,41,Adult,Male,Chest Pain,3,Control,13,8,31,52
+P000737,2/1/2026,7:33,59,Older Adult,Male,Minor Injury,4,AI,10,5,32,47
+P000738,2/1/2026,14:55,42,Adult,Female,Abdominal Pain,3,AI,12,5,14,31
+P000739,2/1/2026,10:44,2,Child,Female,Urinary Tract Infection,4,Control,9,7,25,41
+P000740,2/1/2026,11:40,74,Elderly,Female,Chest Pain,2,Control,11,9,9,29
+P000741,2/1/2026,10:28,3,Child,Male,Chest Pain,2,AI,2,7,4,13
+P000742,2/1/2026,11:03,83,Elderly,Female,Chest Pain,2,Control,9,6,8,23
+P000743,2/1/2026,16:04,49,Adult,Male,Abdominal Pain,3,Control,10,9,15,34
+P000744,2/1/2026,10:10,80,Elderly,Male,Minor Injury,5,Control,12,9,72,93
+P000745,2/1/2026,14:55,4,Child,Male,Skin Rash,5,AI,17,4,48,69
+P000746,2/1/2026,12:50,37,Adult,Male,Shortness of Breath,2,AI,9,7,3,19
+P000747,2/1/2026,15:20,25,Young Adult,Male,Chest Pain,2,Control,18,8,9,35
+P000748,2/1/2026,20:34,15,Child,Male,Chest Pain,2,AI,9,4,9,22
+P000749,2/1/2026,16:11,31,Adult,Female,Headache,4,Control,8,6,48,62
+P000750,2/1/2026,9:25,29,Young Adult,Male,Burns,3,AI,4,6,16,26
+P000751,2/1/2026,3:50,32,Adult,Male,Chest Pain,2,Control,14,9,8,31
+P000752,2/1/2026,10:18,6,Child,Male,Minor Injury,4,AI,12,7,38,57
+P000753,2/1/2026,14:44,28,Young Adult,Female,Fever,2,AI,14,6,6,26
+P000754,2/1/2026,5:59,63,Older Adult,Male,Fever,3,Control,13,8,16,37
+P000755,2/1/2026,13:06,32,Adult,Female,Headache,4,Control,12,9,49,70
+P000756,2/1/2026,14:46,37,Adult,Female,Abdominal Pain,3,Control,13,8,14,35
+P000757,2/1/2026,11:54,45,Adult,Male,Road Traffic Accident,2,Control,21,8,9,38
+P000758,2/1/2026,16:06,61,Older Adult,Male,Chest Pain,1,Control,10,7,3,20
+P000759,2/1/2026,7:25,19,Young Adult,Male,Minor Injury,5,AI,20,3,51,74
+P000760,2/1/2026,6:39,57,Older Adult,Female,Abdominal Pain,3,AI,15,4,6,25
+P000761,2/1/2026,16:04,74,Elderly,Male,Burns,3,Control,13,8,18,39
+P000762,2/1/2026,13:20,61,Older Adult,Male,Chest Pain,2,AI,14,2,0,16
+P000763,2/1/2026,15:13,32,Adult,Male,Urinary Tract Infection,3,AI,1,4,14,19
+P000764,2/1/2026,12:03,46,Adult,Female,Road Traffic Accident,3,AI,11,6,9,26
+P000765,2/1/2026,10:22,57,Older Adult,Male,Dizziness,2,Control,9,10,17,36
+P000766,2/1/2026,17:41,43,Adult,Male,Headache,4,Control,20,7,51,78
+P000767,2/1/2026,17:19,4,Child,Female,Minor Injury,5,Control,11,7,66,84
+P000768,2/2/2026,15:14,18,Young Adult,Female,Fever,3,Control,12,7,28,47
+P000769,2/2/2026,10:49,62,Older Adult,Female,Chest Pain,2,AI,12,4,7,23
+P000770,2/2/2026,14:51,29,Young Adult,Male,Headache,4,AI,7,6,23,36
+P000771,2/2/2026,11:44,69,Older Adult,Female,Chest Pain,2,Control,10,10,6,26
+P000772,2/2/2026,7:28,37,Adult,Female,Dizziness,4,Control,15,5,50,70
+P000773,2/2/2026,19:07,36,Adult,Male,Abdominal Pain,4,AI,3,4,27,34
+P000774,2/2/2026,8:40,7,Child,Female,Shortness of Breath,2,AI,13,3,6,22
+P000775,2/2/2026,20:47,30,Young Adult,Male,Shortness of Breath,3,AI,8,5,21,34
+P000776,2/2/2026,12:18,75,Elderly,Female,Headache,3,Control,17,7,18,42
+P000777,2/2/2026,9:47,72,Elderly,Male,Minor Injury,3,AI,14,5,16,35
+P000778,2/2/2026,13:38,59,Older Adult,Female,Abdominal Pain,4,AI,6,6,44,56
+P000779,2/2/2026,18:45,41,Adult,Male,Shortness of Breath,1,AI,10,6,0,16
+P000780,2/2/2026,16:27,56,Older Adult,Female,Chest Pain,1,Control,14,6,2,22
+P000781,2/2/2026,17:45,37,Adult,Male,Burns,2,Control,11,8,8,27
+P000782,2/2/2026,15:56,37,Adult,Female,Minor Injury,4,Control,13,5,46,64
+P000783,2/2/2026,15:26,5,Child,Female,Dizziness,3,AI,12,7,5,24
+P000784,2/2/2026,18:03,41,Adult,Male,Abdominal Pain,3,AI,15,5,24,44
+P000785,2/2/2026,10:57,61,Older Adult,Female,Chest Pain,2,AI,14,3,4,21
+P000786,2/2/2026,13:14,77,Elderly,Female,Chest Pain,2,AI,12,4,2,18
+P000787,2/2/2026,9:34,1,Child,Male,Abdominal Pain,4,Control,12,8,46,66
+P000788,2/2/2026,22:36,69,Older Adult,Male,Chest Pain,2,Control,8,9,10,27
+P000789,2/2/2026,20:00,34,Adult,Female,Minor Injury,4,Control,18,10,30,58
+P000790,2/3/2026,4:02,36,Adult,Male,Chest Pain,3,Control,24,8,20,52
+P000791,2/3/2026,15:46,16,Child,Male,Headache,4,AI,11,5,35,51
+P000792,2/3/2026,20:23,35,Adult,Male,Urinary Tract Infection,3,AI,12,6,17,35
+P000793,2/3/2026,9:26,37,Adult,Male,Minor Injury,3,Control,16,9,30,55
+P000794,2/3/2026,14:39,26,Young Adult,Male,Fever,3,AI,16,5,15,36
+P000795,2/3/2026,19:35,51,Older Adult,Male,Fever,3,AI,13,6,15,34
+P000796,2/3/2026,4:33,51,Older Adult,Female,Headache,3,Control,8,7,16,31
+P000797,2/3/2026,15:28,49,Adult,Female,Chest Pain,2,Control,19,8,6,33
+P000798,2/3/2026,10:23,76,Elderly,Male,Shortness of Breath,1,Control,15,5,2,22
+P000799,2/3/2026,20:23,19,Young Adult,Female,Fever,4,Control,13,10,35,58
+P000800,2/3/2026,21:41,27,Young Adult,Female,Skin Rash,5,AI,9,4,59,72
+P000801,2/3/2026,20:03,61,Older Adult,Female,Minor Injury,5,Control,12,10,68,90
+P000802,2/3/2026,12:02,18,Young Adult,Male,Shortness of Breath,3,Control,5,7,20,32
+P000803,2/3/2026,18:33,18,Young Adult,Male,Fever,2,AI,15,5,5,25
+P000804,2/3/2026,18:56,30,Young Adult,Female,Chest Pain,2,AI,16,5,4,25
+P000805,2/3/2026,11:48,4,Child,Female,Minor Injury,3,Control,13,7,24,44
+P000806,2/3/2026,17:22,70,Older Adult,Female,Headache,5,AI,8,6,102,116
+P000807,2/3/2026,4:52,18,Young Adult,Female,Chest Pain,2,Control,14,10,12,36
+P000808,2/3/2026,14:55,50,Adult,Male,Chest Pain,1,Control,15,11,2,28
+P000809,2/3/2026,9:51,2,Child,Female,Chest Pain,2,AI,9,6,7,22
+P000810,2/3/2026,7:22,68,Older Adult,Male,Minor Injury,4,Control,16,6,29,51
+P000811,2/3/2026,6:44,26,Young Adult,Male,Chest Pain,3,AI,14,3,13,30
+P000812,2/4/2026,15:04,64,Older Adult,Female,Headache,4,Control,11,10,47,68
+P000813,2/4/2026,11:30,47,Adult,Male,Headache,5,Control,10,7,75,92
+P000814,2/4/2026,16:52,24,Young Adult,Male,Shortness of Breath,2,AI,11,6,6,23
+P000815,2/4/2026,6:40,44,Adult,Female,Skin Rash,4,Control,8,8,34,50
+P000816,2/4/2026,10:56,3,Child,Male,Skin Rash,5,AI,13,7,53,73
+P000817,2/4/2026,13:56,35,Adult,Female,Headache,3,AI,14,6,17,37
+P000818,2/4/2026,17:59,27,Young Adult,Female,Abdominal Pain,4,AI,17,5,32,54
+P000819,2/4/2026,11:53,87,Elderly,Female,Fever,3,AI,13,7,21,41
+P000820,2/4/2026,14:05,1,Child,Male,Shortness of Breath,1,Control,14,9,2,25
+P000821,2/4/2026,19:36,55,Older Adult,Male,Shortness of Breath,2,AI,11,6,4,21
+P000822,2/4/2026,14:56,21,Young Adult,Male,Minor Injury,5,AI,9,4,37,50
+P000823,2/4/2026,9:09,21,Young Adult,Male,Abdominal Pain,4,AI,10,4,46,60
+P000824,2/4/2026,3:39,36,Adult,Male,Minor Injury,4,AI,18,5,40,63
+P000825,2/4/2026,18:06,90,Elderly,Female,Chest Pain,2,AI,15,3,0,18
+P000826,2/4/2026,2:38,22,Young Adult,Male,Minor Injury,4,Control,14,8,44,66
+P000827,2/4/2026,18:37,12,Child,Female,Fever,3,AI,5,6,14,25
+P000828,2/4/2026,13:20,23,Young Adult,Male,Minor Injury,5,Control,13,9,77,99
+P000829,2/4/2026,20:19,4,Child,Female,Abdominal Pain,2,Control,7,7,8,22
+P000830,2/4/2026,17:02,6,Child,Female,Fever,4,AI,7,9,27,43
+P000831,2/4/2026,23:50,50,Adult,Male,Minor Injury,5,Control,7,10,91,108
+P000832,2/4/2026,11:21,0,Child,Male,Chest Pain,2,Control,9,8,13,30
+P000833,2/4/2026,16:46,13,Child,Female,Road Traffic Accident,2,Control,15,10,7,32
+P000834,2/4/2026,12:03,54,Older Adult,Female,Shortness of Breath,2,AI,13,4,4,21
+P000835,2/4/2026,13:27,47,Adult,Female,Shortness of Breath,3,Control,8,8,17,33
+P000836,2/4/2026,14:11,13,Child,Male,Fever,3,AI,10,5,6,21
+P000837,2/4/2026,18:37,25,Young Adult,Male,Headache,5,Control,14,6,85,105
+P000838,2/4/2026,22:50,50,Adult,Female,Shortness of Breath,3,Control,15,9,15,39
+P000839,2/4/2026,16:35,30,Young Adult,Female,Headache,4,Control,13,8,53,74
+P000840,2/4/2026,12:46,38,Adult,Male,Minor Injury,4,AI,7,5,42,54
+P000841,2/5/2026,12:40,2,Child,Female,Fever,2,Control,10,8,9,27
+P000842,2/5/2026,16:04,49,Adult,Male,Chest Pain,1,AI,22,4,0,26
+P000843,2/5/2026,9:12,18,Young Adult,Male,Chest Pain,2,AI,7,7,7,21
+P000844,2/5/2026,7:22,32,Adult,Male,Abdominal Pain,2,AI,13,5,0,18
+P000845,2/5/2026,11:57,65,Older Adult,Male,Fever,3,AI,20,5,24,49
+P000846,2/5/2026,10:49,40,Adult,Female,Minor Injury,4,Control,11,6,41,58
+P000847,2/5/2026,10:29,19,Young Adult,Male,Road Traffic Accident,2,AI,19,7,9,35
+P000848,2/5/2026,9:36,23,Young Adult,Male,Chest Pain,2,AI,9,6,3,18
+P000849,2/5/2026,5:24,18,Young Adult,Female,Burns,2,AI,4,5,3,12
+P000850,2/5/2026,2:47,28,Young Adult,Female,Headache,3,AI,10,3,18,31
+P000851,2/5/2026,22:26,30,Young Adult,Female,Urinary Tract Infection,4,AI,9,7,41,57
+P000852,2/5/2026,12:50,51,Older Adult,Female,Minor Injury,4,AI,5,5,54,64
+P000853,2/5/2026,11:13,35,Adult,Male,Minor Injury,4,Control,10,7,36,53
+P000854,2/5/2026,15:56,43,Adult,Female,Abdominal Pain,3,AI,16,5,14,35
+P000855,2/5/2026,9:47,44,Adult,Female,Chest Pain,2,AI,10,5,3,18
+P000856,2/5/2026,20:58,33,Adult,Female,Abdominal Pain,3,AI,10,5,2,17
+P000857,2/5/2026,17:46,14,Child,Male,Minor Injury,5,Control,17,3,57,77
+P000858,2/5/2026,7:53,69,Older Adult,Male,Fever,4,AI,9,5,32,46
+P000859,2/5/2026,12:35,18,Young Adult,Female,Road Traffic Accident,3,AI,14,6,32,52
+P000860,2/5/2026,19:38,53,Older Adult,Male,Fever,3,Control,5,7,22,34
+P000861,2/5/2026,20:15,66,Older Adult,Female,Road Traffic Accident,2,AI,8,7,6,21
+P000862,2/5/2026,12:55,64,Older Adult,Female,Abdominal Pain,2,Control,11,9,4,24
+P000863,2/5/2026,14:21,42,Adult,Female,Chest Pain,2,AI,17,6,5,28
+P000864,2/5/2026,8:20,11,Child,Female,Fever,4,Control,8,6,49,63
+P000865,2/5/2026,22:53,41,Adult,Female,Fever,3,Control,8,8,35,51
+P000866,2/5/2026,9:20,47,Adult,Male,Fever,4,Control,13,9,33,55
+P000867,2/5/2026,20:07,38,Adult,Female,Minor Injury,4,AI,14,5,18,37
+P000868,2/5/2026,15:48,67,Older Adult,Female,Abdominal Pain,4,Control,8,9,32,49
+P000869,2/5/2026,14:15,22,Young Adult,Male,Fever,3,AI,10,5,11,26
+P000870,2/5/2026,13:58,26,Young Adult,Male,Skin Rash,4,AI,16,5,27,48
+P000871,2/5/2026,9:54,24,Young Adult,Male,Abdominal Pain,3,AI,7,4,20,31
+P000872,2/5/2026,8:30,21,Young Adult,Female,Burns,2,Control,13,7,9,29
+P000873,2/6/2026,9:41,41,Adult,Male,Dizziness,2,AI,10,5,2,17
+P000874,2/6/2026,9:09,52,Older Adult,Female,Abdominal Pain,4,AI,18,5,49,72
+P000875,2/6/2026,17:31,60,Older Adult,Male,Fever,3,Control,14,8,31,53
+P000876,2/6/2026,11:58,60,Older Adult,Male,Fever,3,Control,16,9,10,35
+P000877,2/6/2026,6:33,81,Elderly,Female,Minor Injury,4,Control,10,10,52,72
+P000878,2/6/2026,21:08,56,Older Adult,Male,Shortness of Breath,1,AI,15,3,0,18
+P000879,2/6/2026,19:16,3,Child,Female,Minor Injury,5,Control,15,10,51,76
+P000880,2/6/2026,20:10,62,Older Adult,Female,Minor Injury,4,Control,14,9,25,48
+P000881,2/6/2026,23:31,28,Young Adult,Female,Abdominal Pain,3,AI,11,4,14,29
+P000882,2/6/2026,8:09,12,Child,Male,Skin Rash,5,AI,13,5,52,70
+P000883,2/6/2026,11:21,35,Adult,Female,Minor Injury,4,AI,5,5,36,46
+P000884,2/6/2026,16:56,23,Young Adult,Female,Shortness of Breath,3,AI,19,3,29,51
+P000885,2/6/2026,15:16,0,Child,Female,Urinary Tract Infection,4,Control,10,8,35,53
+P000886,2/6/2026,8:03,5,Child,Female,Minor Injury,4,AI,11,6,22,39
+P000887,2/6/2026,17:47,17,Child,Female,Chest Pain,3,Control,7,7,18,32
+P000888,2/6/2026,9:51,79,Elderly,Female,Fever,3,AI,15,3,21,39
+P000889,2/6/2026,9:46,14,Child,Female,Headache,4,AI,14,5,35,54
+P000890,2/6/2026,13:24,27,Young Adult,Male,Abdominal Pain,4,Control,11,11,47,69
+P000891,2/7/2026,14:58,38,Adult,Male,Burns,3,AI,3,4,18,25
+P000892,2/7/2026,14:20,49,Adult,Male,Abdominal Pain,4,Control,9,7,41,57
+P000893,2/7/2026,7:36,86,Elderly,Male,Minor Injury,5,Control,14,8,89,111
+P000894,2/7/2026,18:37,5,Child,Male,Headache,5,AI,13,7,46,66
+P000895,2/7/2026,10:48,36,Adult,Male,Abdominal Pain,4,AI,12,3,26,41
+P000896,2/7/2026,8:00,53,Older Adult,Female,Urinary Tract Infection,3,AI,10,6,11,27
+P000897,2/7/2026,19:24,80,Elderly,Male,Skin Rash,4,AI,6,4,38,48
+P000898,2/7/2026,21:50,31,Adult,Female,Headache,4,AI,16,5,36,57
+P000899,2/7/2026,18:35,64,Older Adult,Male,Chest Pain,2,Control,6,6,10,22
+P000900,2/7/2026,17:16,3,Child,Male,Abdominal Pain,3,Control,11,8,20,39
+P000901,2/7/2026,15:40,42,Adult,Male,Fever,2,Control,8,7,7,22
+P000902,2/7/2026,13:23,36,Adult,Male,Chest Pain,2,Control,16,7,9,32
+P000903,2/7/2026,7:01,81,Elderly,Female,Headache,5,AI,14,2,86,102
+P000904,2/7/2026,12:39,29,Young Adult,Female,Dizziness,3,Control,11,5,13,29
+P000905,2/7/2026,11:14,27,Young Adult,Male,Shortness of Breath,2,Control,15,9,5,29
+P000906,2/7/2026,10:31,19,Young Adult,Male,Urinary Tract Infection,3,Control,6,10,20,36
+P000907,2/7/2026,16:38,6,Child,Male,Minor Injury,4,AI,12,9,57,78
+P000908,2/7/2026,13:58,24,Young Adult,Female,Headache,3,AI,8,6,10,24
+P000909,2/7/2026,6:05,81,Elderly,Female,Skin Rash,4,Control,16,7,40,63
+P000910,2/7/2026,9:00,34,Adult,Female,Headache,5,AI,13,3,48,64
+P000911,2/7/2026,15:46,50,Adult,Female,Skin Rash,5,Control,15,9,71,95
+P000912,2/7/2026,6:22,51,Older Adult,Female,Fever,3,AI,10,3,5,18
+P000913,2/7/2026,18:57,43,Adult,Male,Abdominal Pain,2,Control,15,7,5,27
+P000914,2/7/2026,13:38,17,Child,Male,Skin Rash,5,Control,8,9,84,101
+P000915,2/7/2026,13:56,26,Young Adult,Female,Shortness of Breath,2,AI,8,5,5,18
+P000916,2/7/2026,14:16,27,Young Adult,Female,Urinary Tract Infection,3,AI,11,4,13,28
+P000917,2/7/2026,17:33,39,Adult,Female,Burns,3,Control,8,5,20,33
+P000918,2/7/2026,11:58,39,Adult,Female,Abdominal Pain,3,AI,15,5,17,37
+P000919,2/7/2026,15:40,9,Child,Male,Headache,4,AI,10,5,41,56
+P000920,2/8/2026,14:28,32,Adult,Female,Fever,3,AI,8,7,3,18
+P000921,2/8/2026,10:08,76,Elderly,Female,Shortness of Breath,2,Control,7,4,5,16
+P000922,2/8/2026,19:12,65,Older Adult,Male,Road Traffic Accident,2,Control,15,8,5,28
+P000923,2/8/2026,17:05,53,Older Adult,Female,Chest Pain,3,AI,2,6,20,28
+P000924,2/8/2026,15:05,61,Older Adult,Female,Shortness of Breath,3,Control,8,7,20,35
+P000925,2/8/2026,18:19,23,Young Adult,Male,Minor Injury,4,Control,18,6,54,78
+P000926,2/8/2026,18:51,53,Older Adult,Male,Abdominal Pain,3,Control,11,7,25,43
+P000927,2/8/2026,16:52,10,Child,Male,Road Traffic Accident,2,AI,15,5,2,22
+P000928,2/8/2026,18:02,65,Older Adult,Female,Shortness of Breath,1,Control,14,7,2,23
+P000929,2/8/2026,15:16,43,Adult,Male,Burns,3,AI,11,5,24,40
+P000930,2/8/2026,15:48,9,Child,Female,Fever,3,Control,5,10,29,44
+P000931,2/8/2026,14:11,56,Older Adult,Female,Abdominal Pain,3,Control,7,7,19,33
+P000932,2/8/2026,16:47,85,Elderly,Male,Headache,4,Control,7,10,30,47
+P000933,2/8/2026,8:46,26,Young Adult,Female,Abdominal Pain,3,Control,14,8,7,29
+P000934,2/8/2026,19:44,68,Older Adult,Female,Dizziness,4,AI,15,5,15,35
+P000935,2/8/2026,18:54,17,Child,Male,Abdominal Pain,3,AI,8,5,20,33
+P000936,2/8/2026,3:00,37,Adult,Male,Minor Injury,5,Control,12,9,72,93
+P000937,2/8/2026,17:16,45,Adult,Female,Headache,3,Control,12,9,16,37
+P000938,2/8/2026,8:02,48,Adult,Female,Fever,2,AI,12,6,9,27
+P000939,2/8/2026,11:25,88,Elderly,Male,Abdominal Pain,3,AI,9,5,14,28
+P000940,2/8/2026,16:14,90,Elderly,Male,Shortness of Breath,1,AI,19,2,0,21
+P000941,2/8/2026,8:35,59,Older Adult,Male,Shortness of Breath,1,AI,15,6,0,21
+P000942,2/8/2026,17:31,25,Young Adult,Female,Chest Pain,2,Control,12,5,11,28
+P000943,2/8/2026,18:31,72,Elderly,Male,Urinary Tract Infection,3,AI,10,4,15,29
+P000944,2/8/2026,13:03,7,Child,Female,Fever,3,Control,9,4,23,36
+P000945,2/8/2026,0:17,70,Older Adult,Female,Headache,4,Control,14,11,46,71
+P000946,2/8/2026,10:48,19,Young Adult,Male,Headache,4,AI,10,6,59,75
+P000947,2/8/2026,14:18,10,Child,Female,Abdominal Pain,2,AI,13,5,5,23
+P000948,2/8/2026,22:42,57,Older Adult,Male,Burns,3,AI,4,7,8,19
+P000949,2/9/2026,14:51,23,Young Adult,Female,Fever,3,Control,10,9,24,43
+P000950,2/9/2026,10:34,27,Young Adult,Male,Abdominal Pain,3,Control,12,8,20,40
+P000951,2/9/2026,14:39,22,Young Adult,Female,Fever,4,Control,16,9,41,66
+P000952,2/9/2026,13:13,10,Child,Female,Shortness of Breath,3,AI,8,5,16,29
+P000953,2/9/2026,17:57,18,Young Adult,Male,Headache,3,Control,6,6,10,22
+P000954,2/9/2026,7:32,1,Child,Male,Minor Injury,5,AI,14,6,66,86
+P000955,2/9/2026,16:13,31,Adult,Male,Abdominal Pain,2,Control,12,8,7,27
+P000956,2/9/2026,13:33,1,Child,Male,Chest Pain,3,AI,5,3,15,23
+P000957,2/9/2026,21:54,70,Older Adult,Female,Road Traffic Accident,2,AI,5,6,4,15
+P000958,2/9/2026,11:03,30,Young Adult,Female,Abdominal Pain,3,Control,9,8,20,37
+P000959,2/9/2026,14:23,74,Elderly,Male,Skin Rash,4,Control,12,11,43,66
+P000960,2/9/2026,20:58,82,Elderly,Female,Abdominal Pain,2,AI,18,5,5,28
+P000961,2/9/2026,7:28,23,Young Adult,Female,Skin Rash,5,AI,8,4,77,89
+P000962,2/9/2026,20:18,70,Older Adult,Female,Fever,4,AI,14,3,43,60
+P000963,2/9/2026,15:05,68,Older Adult,Male,Shortness of Breath,2,AI,4,7,4,15
+P000964,2/9/2026,6:56,71,Elderly,Male,Abdominal Pain,3,Control,13,8,14,35
+P000965,2/9/2026,10:32,31,Adult,Male,Abdominal Pain,3,AI,18,4,20,42
+P000966,2/9/2026,16:48,13,Child,Female,Chest Pain,2,Control,13,7,7,27
+P000967,2/9/2026,6:39,34,Adult,Male,Abdominal Pain,2,AI,9,7,2,18
+P000968,2/9/2026,14:18,35,Adult,Male,Fever,2,Control,17,9,4,30
+P000969,2/9/2026,11:52,41,Adult,Male,Headache,4,AI,13,6,39,58
+P000970,2/9/2026,14:00,25,Young Adult,Female,Shortness of Breath,2,Control,13,8,16,37
+P000971,2/9/2026,5:04,63,Older Adult,Male,Road Traffic Accident,1,Control,8,7,1,16
+P000972,2/9/2026,18:26,86,Elderly,Male,Minor Injury,4,Control,13,11,46,70
+P000973,2/9/2026,21:15,25,Young Adult,Male,Shortness of Breath,1,AI,9,5,0,14
+P000974,2/10/2026,21:05,12,Child,Male,Fever,4,AI,13,6,30,49
+P000975,2/10/2026,16:39,25,Young Adult,Female,Headache,3,AI,12,6,0,18
+P000976,2/10/2026,8:12,52,Older Adult,Male,Fever,3,Control,16,8,24,48
+P000977,2/10/2026,16:47,66,Older Adult,Male,Skin Rash,5,AI,10,4,61,75
+P000978,2/10/2026,3:34,36,Adult,Female,Chest Pain,2,AI,11,4,5,20
+P000979,2/10/2026,2:18,44,Adult,Male,Abdominal Pain,2,Control,15,9,8,32
+P000980,2/10/2026,11:11,31,Adult,Male,Minor Injury,4,Control,11,9,52,72
+P000981,2/10/2026,13:15,18,Young Adult,Female,Chest Pain,1,Control,12,10,2,24
+P000982,2/10/2026,16:58,41,Adult,Male,Urinary Tract Infection,3,Control,10,10,33,53
+P000983,2/10/2026,15:42,69,Older Adult,Male,Skin Rash,4,Control,11,7,47,65
+P000984,2/10/2026,12:09,73,Elderly,Male,Abdominal Pain,3,AI,15,7,21,43
+P000985,2/10/2026,10:24,81,Elderly,Female,Abdominal Pain,3,Control,19,6,20,45
+P000986,2/10/2026,23:19,75,Elderly,Female,Headache,4,AI,5,6,40,51
+P000987,2/10/2026,12:30,47,Adult,Female,Shortness of Breath,2,AI,7,8,0,15
+P000988,2/10/2026,12:03,37,Adult,Female,Chest Pain,2,AI,11,5,3,19
+P000989,2/10/2026,8:43,60,Older Adult,Male,Minor Injury,5,AI,12,3,76,91
+P000990,2/10/2026,17:22,81,Elderly,Male,Shortness of Breath,2,Control,11,8,8,27
+P000991,2/10/2026,15:01,2,Child,Female,Fever,3,AI,10,8,9,27
+P000992,2/10/2026,9:55,21,Young Adult,Female,Abdominal Pain,3,Control,7,8,16,31
+P000993,2/10/2026,7:21,9,Child,Male,Minor Injury,4,AI,10,7,28,45
+P000994,2/10/2026,15:50,40,Adult,Female,Chest Pain,2,AI,15,4,5,24
+P000995,2/10/2026,15:56,29,Young Adult,Male,Skin Rash,5,AI,12,5,48,65
+P000996,2/11/2026,10:36,27,Young Adult,Male,Fever,2,AI,15,5,8,28
+P000997,2/11/2026,20:07,9,Child,Male,Shortness of Breath,1,Control,7,11,2,20
+P000998,2/11/2026,8:06,27,Young Adult,Male,Skin Rash,4,Control,18,8,26,52
+P000999,2/11/2026,12:13,69,Older Adult,Female,Skin Rash,4,AI,10,3,50,63
+P001000,2/11/2026,20:55,18,Young Adult,Female,Fever,3,Control,14,12,20,46
+P001001,2/11/2026,12:54,60,Older Adult,Male,Chest Pain,2,AI,11,5,7,23
+P001002,2/11/2026,15:02,32,Adult,Male,Minor Injury,4,Control,10,9,43,62
+P001003,2/11/2026,11:49,67,Older Adult,Female,Fever,4,AI,14,3,39,56
+P001004,2/11/2026,10:15,6,Child,Male,Chest Pain,3,Control,14,8,18,40
+P001005,2/11/2026,22:54,77,Elderly,Female,Urinary Tract Infection,4,AI,23,5,40,68
+P001006,2/11/2026,12:18,50,Adult,Male,Chest Pain,2,AI,15,4,4,23
+P001007,2/11/2026,19:50,79,Elderly,Female,Abdominal Pain,3,Control,14,9,22,45
+P001008,2/11/2026,9:17,72,Elderly,Male,Abdominal Pain,2,Control,17,5,7,29
+P001009,2/11/2026,9:51,18,Young Adult,Male,Shortness of Breath,2,Control,14,7,7,28
+P001010,2/11/2026,3:15,0,Child,Male,Minor Injury,4,Control,12,10,25,47
+P001011,2/11/2026,15:07,26,Young Adult,Male,Fever,4,Control,13,7,40,60
+P001012,2/11/2026,11:59,50,Adult,Male,Fever,4,Control,15,7,42,64
+P001013,2/11/2026,18:32,22,Young Adult,Female,Fever,3,AI,18,5,26,49
+P001014,2/11/2026,12:48,20,Young Adult,Male,Minor Injury,4,Control,6,7,45,58
+P001015,2/11/2026,21:11,34,Adult,Male,Abdominal Pain,2,AI,4,6,2,12
+P001016,2/11/2026,9:52,7,Child,Female,Urinary Tract Infection,3,AI,17,5,11,33
+P001017,2/11/2026,18:10,12,Child,Female,Chest Pain,2,Control,9,6,9,24
+P001018,2/11/2026,17:04,34,Adult,Female,Dizziness,3,Control,5,7,16,28
+P001019,2/11/2026,16:26,8,Child,Female,Chest Pain,2,AI,5,4,2,11
+P001020,2/11/2026,18:11,39,Adult,Male,Minor Injury,4,Control,19,7,33,59
+P001021,2/11/2026,16:16,48,Adult,Female,Chest Pain,3,AI,16,5,14,35
+P001022,2/11/2026,14:05,42,Adult,Female,Abdominal Pain,3,AI,9,5,20,34
+P001023,2/11/2026,8:32,60,Older Adult,Female,Skin Rash,5,Control,9,4,35,48
+P001024,2/11/2026,4:04,41,Adult,Male,Skin Rash,4,AI,12,6,48,66
+P001025,2/11/2026,20:56,37,Adult,Male,Fever,4,Control,15,8,38,61
+P001026,2/11/2026,14:27,39,Adult,Male,Minor Injury,5,Control,11,6,55,72
+P001027,2/11/2026,17:13,56,Older Adult,Female,Shortness of Breath,1,AI,9,6,0,15
+P001028,2/11/2026,13:04,89,Elderly,Female,Skin Rash,4,AI,17,2,34,53
+P001029,2/12/2026,7:53,66,Older Adult,Female,Fever,4,AI,12,3,26,41
+P001030,2/12/2026,8:55,65,Older Adult,Male,Headache,3,AI,11,8,7,26
+P001031,2/12/2026,15:58,6,Child,Female,Headache,4,AI,14,5,43,62
+P001032,2/12/2026,12:32,22,Young Adult,Female,Fever,3,AI,3,4,22,29
+P001033,2/12/2026,9:49,15,Child,Male,Urinary Tract Infection,4,Control,14,8,36,58
+P001034,2/12/2026,13:47,71,Elderly,Female,Chest Pain,2,AI,14,5,9,28
+P001035,2/12/2026,6:40,69,Older Adult,Male,Abdominal Pain,3,AI,6,5,15,26
+P001036,2/12/2026,14:18,55,Older Adult,Female,Shortness of Breath,2,Control,4,9,12,25
+P001037,2/12/2026,10:21,24,Young Adult,Female,Minor Injury,5,AI,10,5,48,63
+P001038,2/12/2026,17:04,69,Older Adult,Female,Chest Pain,2,Control,13,9,5,27
+P001039,2/12/2026,10:58,23,Young Adult,Female,Fever,4,AI,13,5,32,50
+P001040,2/12/2026,12:01,4,Child,Female,Burns,3,AI,19,4,14,37
+P001041,2/12/2026,1:29,47,Adult,Female,Chest Pain,2,AI,13,4,6,23
+P001042,2/12/2026,6:46,38,Adult,Male,Minor Injury,4,Control,6,10,43,59
+P001043,2/12/2026,11:38,31,Adult,Female,Minor Injury,5,AI,11,6,49,66
+P001044,2/12/2026,13:03,52,Older Adult,Male,Headache,3,Control,7,10,20,37
+P001045,2/12/2026,14:32,14,Child,Male,Burns,2,AI,11,5,3,19
+P001046,2/12/2026,10:12,50,Adult,Female,Minor Injury,3,AI,18,5,10,33
+P001047,2/12/2026,15:19,48,Adult,Female,Headache,4,AI,14,5,36,55
+P001048,2/12/2026,18:53,28,Young Adult,Male,Shortness of Breath,2,AI,9,6,2,17
+P001049,2/12/2026,17:06,60,Older Adult,Male,Minor Injury,3,AI,14,5,11,30
+P001050,2/12/2026,4:14,54,Older Adult,Male,Shortness of Breath,2,Control,9,7,6,22
+P001051,2/12/2026,13:22,55,Older Adult,Male,Skin Rash,5,Control,1,9,77,87
+P001052,2/12/2026,7:13,74,Elderly,Male,Fever,3,AI,7,5,18,30
+P001053,2/13/2026,9:22,63,Older Adult,Female,Fever,3,Control,14,8,26,48
+P001054,2/13/2026,22:18,26,Young Adult,Male,Chest Pain,3,Control,15,9,18,42
+P001055,2/13/2026,8:53,63,Older Adult,Male,Abdominal Pain,4,AI,19,4,24,47
+P001056,2/13/2026,13:28,19,Young Adult,Male,Abdominal Pain,3,Control,13,8,17,38
+P001057,2/13/2026,14:55,30,Young Adult,Female,Skin Rash,4,Control,17,8,50,75
+P001058,2/13/2026,15:19,1,Child,Male,Minor Injury,4,AI,15,7,19,41
+P001059,2/13/2026,13:28,66,Older Adult,Male,Minor Injury,5,Control,16,8,87,111
+P001060,2/13/2026,1:23,51,Older Adult,Male,Shortness of Breath,2,Control,16,8,5,29
+P001061,2/13/2026,11:17,27,Young Adult,Female,Skin Rash,5,Control,14,6,77,97
+P001062,2/13/2026,13:09,69,Older Adult,Female,Headache,4,AI,16,6,26,48
+P001063,2/13/2026,7:40,79,Elderly,Male,Skin Rash,4,AI,9,6,31,46
+P001064,2/13/2026,11:56,2,Child,Male,Fever,3,AI,2,4,3,9
+P001065,2/13/2026,4:07,26,Young Adult,Male,Urinary Tract Infection,3,Control,15,11,31,57
+P001066,2/13/2026,6:25,57,Older Adult,Female,Minor Injury,5,AI,13,5,71,89
+P001067,2/13/2026,11:28,30,Young Adult,Female,Chest Pain,2,AI,8,4,7,19
+P001068,2/13/2026,8:09,40,Adult,Male,Shortness of Breath,2,AI,7,5,4,16
+P001069,2/13/2026,14:16,0,Child,Male,Headache,4,AI,13,5,26,44
+P001070,2/13/2026,15:01,40,Adult,Male,Abdominal Pain,3,Control,15,10,25,50
+P001071,2/13/2026,17:05,59,Older Adult,Male,Shortness of Breath,2,Control,14,9,4,27
+P001072,2/13/2026,9:57,65,Older Adult,Female,Fever,2,Control,8,9,7,24
+P001073,2/13/2026,8:04,65,Older Adult,Male,Abdominal Pain,3,Control,9,11,12,32
+P001074,2/14/2026,7:27,73,Elderly,Male,Burns,2,AI,15,4,5,24
+P001075,2/14/2026,15:40,55,Older Adult,Male,Minor Injury,4,AI,12,6,16,34
+P001076,2/14/2026,15:04,59,Older Adult,Female,Skin Rash,5,AI,16,6,38,60
+P001077,2/14/2026,3:17,8,Child,Female,Minor Injury,4,Control,11,8,31,50
+P001078,2/14/2026,20:25,37,Adult,Male,Fever,3,Control,15,8,24,47
+P001079,2/14/2026,5:19,11,Child,Male,Headache,4,Control,12,9,35,56
+P001080,2/14/2026,13:40,59,Older Adult,Male,Minor Injury,4,Control,9,9,50,68
+P001081,2/14/2026,16:48,23,Young Adult,Female,Dizziness,4,Control,16,6,55,77
+P001082,2/14/2026,18:26,32,Adult,Male,Chest Pain,1,AI,8,7,0,15
+P001083,2/14/2026,16:48,26,Young Adult,Female,Skin Rash,5,Control,12,10,43,65
+P001084,2/14/2026,17:11,67,Older Adult,Female,Urinary Tract Infection,4,AI,13,5,47,65
+P001085,2/14/2026,11:06,71,Elderly,Female,Minor Injury,5,Control,12,7,42,61
+P001086,2/14/2026,17:58,49,Adult,Male,Burns,2,AI,16,6,0,22
+P001087,2/14/2026,6:02,56,Older Adult,Female,Fever,3,AI,14,6,6,26
+P001088,2/14/2026,19:09,22,Young Adult,Female,Burns,2,Control,14,9,11,34
+P001089,2/14/2026,13:33,32,Adult,Male,Minor Injury,5,AI,12,6,70,88
+P001090,2/14/2026,17:24,59,Older Adult,Male,Abdominal Pain,3,AI,19,6,26,51
+P001091,2/14/2026,12:34,30,Young Adult,Male,Urinary Tract Infection,3,AI,18,6,12,36
+P001092,2/14/2026,15:15,84,Elderly,Male,Headache,4,AI,16,4,28,48
+P001093,2/14/2026,13:01,3,Child,Male,Headache,4,Control,15,7,35,57
+P001094,2/14/2026,16:59,3,Child,Female,Shortness of Breath,2,AI,10,5,0,15
+P001095,2/14/2026,7:23,85,Elderly,Male,Abdominal Pain,4,AI,12,8,49,69
+P001096,2/15/2026,6:09,7,Child,Female,Headache,4,Control,15,8,74,97
+P001097,2/15/2026,10:37,74,Elderly,Male,Skin Rash,4,Control,16,9,33,58
+P001098,2/15/2026,8:21,86,Elderly,Female,Abdominal Pain,3,AI,16,6,19,41
+P001099,2/15/2026,18:25,3,Child,Male,Chest Pain,2,Control,14,7,8,29
+P001100,2/15/2026,9:42,46,Adult,Female,Abdominal Pain,3,AI,20,6,20,46
+P001101,2/15/2026,22:54,23,Young Adult,Male,Fever,4,AI,11,5,47,63
+P001102,2/15/2026,11:38,42,Adult,Male,Minor Injury,5,AI,16,6,43,65
+P001103,2/15/2026,9:26,15,Child,Female,Road Traffic Accident,2,Control,16,7,7,30
+P001104,2/15/2026,17:28,20,Young Adult,Male,Burns,2,Control,14,11,12,37
+P001105,2/15/2026,15:46,38,Adult,Female,Shortness of Breath,2,Control,14,8,10,32
+P001106,2/15/2026,13:37,36,Adult,Female,Chest Pain,2,AI,14,6,5,25
+P001107,2/15/2026,13:19,80,Elderly,Male,Urinary Tract Infection,3,AI,9,5,19,33
+P001108,2/15/2026,16:26,55,Older Adult,Female,Minor Injury,4,AI,14,4,43,61
+P001109,2/15/2026,9:40,68,Older Adult,Female,Shortness of Breath,1,AI,15,6,0,21
+P001110,2/15/2026,23:53,40,Adult,Male,Minor Injury,4,Control,13,8,48,69
+P001111,2/15/2026,21:19,60,Older Adult,Female,Urinary Tract Infection,3,Control,5,9,20,34
+P001112,2/15/2026,15:43,24,Young Adult,Female,Minor Injury,5,AI,6,4,65,75
+P001113,2/15/2026,9:18,68,Older Adult,Male,Fever,3,Control,9,8,20,37
+P001114,2/15/2026,15:19,71,Elderly,Male,Minor Injury,4,Control,12,8,33,53
+P001115,2/15/2026,6:34,24,Young Adult,Female,Abdominal Pain,2,Control,9,9,8,26
+P001116,2/15/2026,3:46,51,Older Adult,Male,Fever,3,Control,15,8,19,42
+P001117,2/15/2026,10:01,65,Older Adult,Male,Fever,3,Control,17,8,10,35
+P001118,2/15/2026,12:29,74,Elderly,Male,Chest Pain,2,AI,17,5,5,27
+P001119,2/15/2026,18:52,70,Older Adult,Female,Abdominal Pain,4,AI,13,5,45,63
+P001120,2/15/2026,16:33,27,Young Adult,Male,Abdominal Pain,3,AI,16,5,19,40
+P001121,2/15/2026,16:21,24,Young Adult,Male,Minor Injury,5,AI,10,5,75,90
+P001122,2/15/2026,12:02,8,Child,Female,Road Traffic Accident,2,AI,11,7,2,20
+P001123,2/15/2026,11:05,52,Older Adult,Male,Dizziness,4,AI,7,6,31,44
+P001124,2/15/2026,11:14,13,Child,Female,Fever,4,Control,17,11,49,77
+P001125,2/15/2026,22:26,66,Older Adult,Female,Shortness of Breath,2,AI,20,5,1,26
+P001126,2/15/2026,4:09,0,Child,Female,Burns,3,Control,11,8,13,32
+P001127,2/15/2026,18:08,19,Young Adult,Female,Chest Pain,2,Control,3,7,9,19
+P001128,2/15/2026,14:32,37,Adult,Male,Minor Injury,4,Control,8,8,44,60
+P001129,2/15/2026,12:31,60,Older Adult,Female,Minor Injury,5,AI,9,5,74,88
+P001130,2/16/2026,16:47,0,Child,Male,Abdominal Pain,3,Control,7,7,10,24
+P001131,2/16/2026,13:05,43,Adult,Male,Skin Rash,4,Control,8,5,39,52
+P001132,2/16/2026,18:40,31,Adult,Male,Road Traffic Accident,2,Control,13,10,5,28
+P001133,2/16/2026,19:58,22,Young Adult,Male,Abdominal Pain,3,AI,15,5,21,41
+P001134,2/16/2026,12:35,15,Child,Female,Abdominal Pain,4,AI,4,7,50,61
+P001135,2/16/2026,10:58,65,Older Adult,Male,Abdominal Pain,3,AI,10,5,19,34
+P001136,2/16/2026,14:59,47,Adult,Female,Fever,3,Control,12,9,17,38
+P001137,2/16/2026,19:01,15,Child,Female,Headache,4,Control,8,8,33,49
+P001138,2/16/2026,9:28,63,Older Adult,Female,Headache,4,AI,13,5,32,50
+P001139,2/16/2026,14:03,81,Elderly,Male,Chest Pain,2,Control,12,6,5,23
+P001140,2/16/2026,14:00,47,Adult,Female,Urinary Tract Infection,4,AI,10,6,35,51
+P001141,2/16/2026,16:18,47,Adult,Male,Fever,2,AI,9,5,3,17
+P001142,2/16/2026,8:25,72,Elderly,Male,Abdominal Pain,3,AI,13,6,9,28
+P001143,2/16/2026,16:24,83,Elderly,Female,Fever,3,AI,9,3,17,29
+P001144,2/16/2026,19:09,64,Older Adult,Male,Headache,4,Control,5,7,45,57
+P001145,2/16/2026,9:52,41,Adult,Male,Fever,4,Control,12,9,57,78
+P001146,2/16/2026,9:14,40,Adult,Female,Chest Pain,2,AI,7,5,3,15
+P001147,2/16/2026,21:58,53,Older Adult,Male,Abdominal Pain,3,Control,5,9,9,23
+P001148,2/16/2026,9:21,30,Young Adult,Female,Road Traffic Accident,2,Control,13,8,10,31
+P001149,2/16/2026,18:50,47,Adult,Male,Dizziness,4,Control,11,11,49,71
+P001150,2/16/2026,13:47,65,Older Adult,Male,Fever,3,Control,9,9,27,45
+P001151,2/16/2026,10:20,59,Older Adult,Male,Fever,3,Control,13,7,29,49
+P001152,2/16/2026,18:58,40,Adult,Male,Shortness of Breath,2,Control,14,7,12,33
+P001153,2/16/2026,12:55,58,Older Adult,Male,Minor Injury,4,AI,13,6,26,45
+P001154,2/16/2026,13:21,12,Child,Female,Fever,3,AI,13,3,26,42
+P001155,2/16/2026,11:35,48,Adult,Female,Urinary Tract Infection,3,AI,6,6,13,25
+P001156,2/16/2026,14:33,55,Older Adult,Female,Shortness of Breath,2,AI,17,4,7,28
+P001157,2/17/2026,8:29,23,Young Adult,Male,Headache,3,Control,14,10,22,46
+P001158,2/17/2026,11:24,18,Young Adult,Female,Minor Injury,4,Control,8,7,30,45
+P001159,2/17/2026,21:44,81,Elderly,Female,Burns,3,Control,12,9,27,48
+P001160,2/17/2026,10:27,21,Young Adult,Female,Road Traffic Accident,2,AI,13,5,3,21
+P001161,2/17/2026,15:00,26,Young Adult,Male,Abdominal Pain,3,AI,12,3,26,41
+P001162,2/17/2026,11:48,72,Elderly,Female,Fever,3,Control,19,9,15,43
+P001163,2/17/2026,17:44,55,Older Adult,Female,Headache,3,Control,4,7,14,25
+P001164,2/17/2026,8:03,51,Older Adult,Male,Fever,3,AI,6,6,11,23
+P001165,2/17/2026,21:06,54,Older Adult,Female,Minor Injury,4,AI,3,4,51,58
+P001166,2/17/2026,12:48,3,Child,Male,Road Traffic Accident,3,AI,12,5,6,23
+P001167,2/17/2026,9:08,53,Older Adult,Female,Minor Injury,4,Control,14,8,49,71
+P001168,2/17/2026,6:35,39,Adult,Female,Dizziness,4,Control,13,7,58,78
+P001169,2/17/2026,8:18,62,Older Adult,Female,Chest Pain,2,AI,11,7,2,20
+P001170,2/17/2026,13:00,40,Adult,Male,Skin Rash,4,AI,14,5,33,52
+P001171,2/17/2026,11:09,32,Adult,Male,Minor Injury,5,AI,11,4,61,76
+P001172,2/17/2026,17:35,41,Adult,Female,Fever,2,AI,15,5,2,22
+P001173,2/17/2026,12:08,40,Adult,Male,Minor Injury,5,AI,16,3,100,119
+P001174,2/17/2026,10:44,56,Older Adult,Male,Abdominal Pain,4,AI,8,8,44,60
+P001175,2/17/2026,14:45,48,Adult,Female,Road Traffic Accident,2,Control,11,6,4,21
+P001176,2/17/2026,15:41,32,Adult,Female,Headache,4,Control,11,9,32,52
+P001177,2/17/2026,8:31,32,Adult,Male,Fever,3,AI,18,5,18,41
+P001178,2/17/2026,8:31,40,Adult,Male,Minor Injury,4,Control,9,10,27,46
+P001179,2/17/2026,4:05,66,Older Adult,Male,Minor Injury,4,AI,16,5,20,41
+P001180,2/17/2026,16:47,62,Older Adult,Female,Chest Pain,2,AI,6,4,6,16
+P001181,2/17/2026,15:37,51,Older Adult,Female,Abdominal Pain,3,AI,17,3,22,42
+P001182,2/17/2026,12:16,78,Elderly,Female,Fever,3,Control,15,5,25,45
+P001183,2/17/2026,18:09,66,Older Adult,Female,Shortness of Breath,2,Control,11,8,8,27
+P001184,2/17/2026,17:49,48,Adult,Female,Skin Rash,5,AI,16,7,57,80
+P001185,2/17/2026,14:26,63,Older Adult,Female,Urinary Tract Infection,3,AI,10,3,15,28
+P001186,2/17/2026,18:53,85,Elderly,Male,Headache,5,AI,8,7,75,90
+P001187,2/18/2026,9:49,42,Adult,Female,Minor Injury,4,Control,19,10,27,56
+P001188,2/18/2026,7:34,58,Older Adult,Male,Fever,2,Control,10,6,6,22
+P001189,2/18/2026,10:51,60,Older Adult,Female,Minor Injury,5,AI,15,4,54,73
+P001190,2/18/2026,6:58,44,Adult,Female,Chest Pain,2,AI,16,4,3,23
+P001191,2/18/2026,13:20,22,Young Adult,Male,Fever,3,AI,15,5,15,35
+P001192,2/18/2026,20:24,48,Adult,Female,Shortness of Breath,2,Control,14,8,8,30
+P001193,2/18/2026,4:27,89,Elderly,Male,Abdominal Pain,4,Control,15,8,47,70
+P001194,2/18/2026,8:46,65,Older Adult,Female,Minor Injury,5,Control,16,7,39,62
+P001195,2/18/2026,12:14,36,Adult,Male,Skin Rash,5,AI,13,5,36,54
+P001196,2/18/2026,20:03,81,Elderly,Female,Fever,2,AI,12,6,3,21
+P001197,2/18/2026,10:28,41,Adult,Male,Headache,3,Control,7,8,25,40
+P001198,2/18/2026,13:58,50,Adult,Male,Skin Rash,5,Control,13,7,55,75
+P001199,2/18/2026,5:08,70,Older Adult,Male,Minor Injury,4,AI,16,6,35,57
+P001200,2/18/2026,8:26,68,Older Adult,Male,Chest Pain,2,Control,8,8,8,24
+P001201,2/18/2026,22:25,26,Young Adult,Male,Fever,3,AI,11,6,18,35
+P001202,2/18/2026,21:18,48,Adult,Female,Minor Injury,5,AI,14,5,84,103
+P001203,2/18/2026,0:55,40,Adult,Male,Shortness of Breath,1,Control,18,10,3,31
+P001204,2/18/2026,21:27,32,Adult,Male,Chest Pain,2,Control,7,10,11,28
+P001205,2/18/2026,15:16,39,Adult,Male,Fever,3,AI,15,6,14,35
+P001206,2/18/2026,18:42,44,Adult,Female,Urinary Tract Infection,3,Control,11,7,29,47
+P001207,2/18/2026,12:56,20,Young Adult,Female,Minor Injury,4,Control,9,7,41,57
+P001208,2/18/2026,13:40,40,Adult,Female,Dizziness,3,AI,8,6,4,18
+P001209,2/18/2026,13:41,3,Child,Female,Minor Injury,5,AI,9,5,99,113
+P001210,2/18/2026,15:49,36,Adult,Male,Burns,2,AI,14,5,5,24
+P001211,2/18/2026,8:19,64,Older Adult,Male,Chest Pain,2,Control,11,7,10,28
+P001212,2/18/2026,3:44,54,Older Adult,Male,Minor Injury,4,Control,15,10,29,54
+P001213,2/18/2026,10:39,45,Adult,Female,Abdominal Pain,3,Control,8,10,33,51
+P001214,2/18/2026,15:38,15,Child,Female,Minor Injury,3,Control,15,8,15,38
+P001215,2/18/2026,9:48,24,Young Adult,Female,Headache,3,AI,14,4,13,31
+P001216,2/18/2026,15:52,47,Adult,Male,Fever,4,Control,6,7,25,38
+P001217,2/18/2026,21:22,20,Young Adult,Male,Skin Rash,5,AI,18,5,65,88
+P001218,2/18/2026,7:46,49,Adult,Male,Skin Rash,5,Control,13,9,61,83
+P001219,2/19/2026,15:31,18,Young Adult,Female,Abdominal Pain,3,Control,15,7,11,33
+P001220,2/19/2026,12:51,56,Older Adult,Male,Shortness of Breath,2,AI,17,4,5,26
+P001221,2/19/2026,18:46,41,Adult,Female,Fever,3,Control,16,8,21,45
+P001222,2/19/2026,8:32,26,Young Adult,Male,Fever,3,Control,11,9,19,39
+P001223,2/19/2026,15:56,58,Older Adult,Female,Skin Rash,5,Control,15,8,38,61
+P001224,2/19/2026,18:45,28,Young Adult,Female,Fever,3,Control,5,8,22,35
+P001225,2/19/2026,20:04,6,Child,Female,Burns,4,Control,14,6,27,47
+P001226,2/19/2026,15:42,49,Adult,Female,Chest Pain,2,Control,19,7,11,37
+P001227,2/19/2026,13:47,40,Adult,Female,Minor Injury,4,AI,9,6,31,46
+P001228,2/19/2026,14:33,59,Older Adult,Female,Minor Injury,3,AI,16,3,21,40
+P001229,2/19/2026,18:39,21,Young Adult,Female,Chest Pain,2,AI,19,7,4,30
+P001230,2/19/2026,14:10,45,Adult,Female,Fever,4,Control,15,8,41,64
+P001231,2/19/2026,3:49,30,Young Adult,Female,Skin Rash,5,AI,16,3,79,98
+P001232,2/19/2026,20:02,1,Child,Female,Minor Injury,3,Control,6,9,15,30
+P001233,2/19/2026,15:57,72,Elderly,Female,Fever,4,AI,8,6,24,38
+P001234,2/19/2026,15:32,66,Older Adult,Female,Headache,5,AI,18,4,68,90
+P001235,2/19/2026,9:10,26,Young Adult,Male,Abdominal Pain,3,Control,16,9,12,37
+P001236,2/19/2026,15:15,43,Adult,Male,Chest Pain,3,AI,14,4,10,28
+P001237,2/19/2026,11:17,20,Young Adult,Female,Headache,4,AI,11,6,19,36
+P001238,2/19/2026,15:29,79,Elderly,Female,Abdominal Pain,4,AI,13,5,47,65
+P001239,2/19/2026,7:47,12,Child,Female,Skin Rash,5,Control,19,8,50,77
+P001240,2/19/2026,15:54,1,Child,Male,Minor Injury,5,AI,12,7,50,69
+P001241,2/20/2026,23:09,38,Adult,Female,Burns,3,AI,15,6,8,29
+P001242,2/20/2026,5:17,39,Adult,Female,Minor Injury,4,Control,15,6,36,57
+P001243,2/20/2026,22:37,46,Adult,Male,Burns,3,AI,9,5,14,28
+P001244,2/20/2026,12:18,1,Child,Female,Shortness of Breath,2,Control,10,11,10,31
+P001245,2/20/2026,18:35,23,Young Adult,Female,Shortness of Breath,2,Control,18,10,4,32
+P001246,2/20/2026,17:58,38,Adult,Male,Dizziness,2,AI,14,4,3,21
+P001247,2/20/2026,14:12,27,Young Adult,Female,Minor Injury,5,AI,9,7,81,97
+P001248,2/20/2026,16:55,75,Elderly,Female,Abdominal Pain,3,AI,11,6,22,39
+P001249,2/20/2026,19:45,8,Child,Male,Minor Injury,4,AI,8,4,30,42
+P001250,2/20/2026,12:02,31,Adult,Male,Urinary Tract Infection,3,Control,16,8,20,44
+P001251,2/20/2026,11:09,59,Older Adult,Female,Road Traffic Accident,3,Control,11,9,32,52
+P001252,2/20/2026,15:37,27,Young Adult,Male,Shortness of Breath,2,AI,11,4,0,15
+P001253,2/20/2026,17:00,34,Adult,Male,Minor Injury,5,Control,15,9,36,60
+P001254,2/20/2026,16:54,53,Older Adult,Male,Dizziness,4,AI,5,8,30,43
+P001255,2/20/2026,17:55,27,Young Adult,Female,Abdominal Pain,3,AI,12,7,16,35
+P001256,2/20/2026,12:26,85,Elderly,Female,Minor Injury,4,Control,12,8,32,52
+P001257,2/20/2026,17:45,41,Adult,Female,Chest Pain,2,Control,11,8,11,30
+P001258,2/20/2026,7:07,23,Young Adult,Male,Minor Injury,5,AI,10,5,63,78
+P001259,2/20/2026,13:50,42,Adult,Female,Shortness of Breath,2,AI,9,4,2,15
+P001260,2/20/2026,0:45,30,Young Adult,Male,Abdominal Pain,3,AI,13,4,12,29
+P001261,2/20/2026,11:41,67,Older Adult,Male,Chest Pain,3,AI,8,3,12,23
+P001262,2/21/2026,11:16,66,Older Adult,Male,Shortness of Breath,2,Control,13,9,10,32
+P001263,2/21/2026,11:08,53,Older Adult,Male,Abdominal Pain,3,Control,10,7,17,34
+P001264,2/21/2026,15:05,72,Elderly,Female,Chest Pain,2,Control,10,9,4,23
+P001265,2/21/2026,11:42,61,Older Adult,Female,Skin Rash,4,Control,13,8,50,71
+P001266,2/21/2026,12:24,39,Adult,Male,Fever,3,Control,10,6,18,34
+P001267,2/21/2026,9:38,20,Young Adult,Female,Headache,4,Control,17,8,26,51
+P001268,2/21/2026,11:48,48,Adult,Female,Burns,4,Control,11,7,57,75
+P001269,2/21/2026,9:59,14,Child,Female,Chest Pain,2,Control,16,10,10,36
+P001270,2/21/2026,6:27,64,Older Adult,Male,Fever,3,Control,9,7,20,36
+P001271,2/21/2026,14:32,32,Adult,Female,Shortness of Breath,2,AI,9,4,2,15
+P001272,2/21/2026,15:53,16,Child,Male,Minor Injury,3,AI,5,4,15,24
+P001273,2/21/2026,14:36,7,Child,Female,Urinary Tract Infection,3,Control,10,6,18,34
+P001274,2/21/2026,12:08,40,Adult,Male,Urinary Tract Infection,4,AI,11,5,33,49
+P001275,2/21/2026,11:17,48,Adult,Female,Minor Injury,4,Control,12,6,34,52
+P001276,2/21/2026,18:55,49,Adult,Male,Chest Pain,3,AI,15,5,14,34
+P001277,2/21/2026,13:58,38,Adult,Male,Abdominal Pain,2,Control,14,9,6,29
+P001278,2/21/2026,12:20,38,Adult,Female,Fever,3,AI,17,4,16,37
+P001279,2/21/2026,3:01,53,Older Adult,Female,Abdominal Pain,3,Control,8,5,20,33
+P001280,2/21/2026,11:57,20,Young Adult,Female,Minor Injury,5,AI,12,7,51,70
+P001281,2/21/2026,11:42,11,Child,Female,Minor Injury,4,Control,8,8,39,55
+P001282,2/21/2026,12:58,47,Adult,Male,Abdominal Pain,3,AI,14,5,20,39
+P001283,2/21/2026,14:59,34,Adult,Female,Skin Rash,5,Control,19,8,31,58
+P001284,2/21/2026,13:37,16,Child,Male,Chest Pain,2,Control,7,9,10,26
+P001285,2/21/2026,14:57,44,Adult,Male,Fever,3,AI,15,6,9,30
+P001286,2/22/2026,16:39,8,Child,Female,Minor Injury,4,Control,16,10,35,61
+P001287,2/22/2026,17:35,42,Adult,Female,Fever,3,AI,8,5,0,13
+P001288,2/22/2026,16:49,35,Adult,Female,Headache,4,Control,14,6,46,66
+P001289,2/22/2026,21:59,41,Adult,Female,Abdominal Pain,3,Control,11,9,16,36
+P001290,2/22/2026,2:42,70,Older Adult,Female,Fever,3,AI,12,5,13,30
+P001291,2/22/2026,9:36,20,Young Adult,Male,Minor Injury,3,Control,10,7,21,38
+P001292,2/22/2026,0:14,85,Elderly,Male,Urinary Tract Infection,3,Control,11,7,8,26
+P001293,2/22/2026,15:27,44,Adult,Female,Fever,3,AI,17,6,15,38
+P001294,2/22/2026,19:17,41,Adult,Male,Fever,3,AI,12,5,19,36
+P001295,2/22/2026,9:33,70,Older Adult,Male,Minor Injury,5,AI,10,5,64,79
+P001296,2/22/2026,20:21,58,Older Adult,Male,Burns,3,Control,12,11,18,41
+P001297,2/22/2026,6:10,34,Adult,Female,Chest Pain,1,AI,4,6,0,10
+P001298,2/22/2026,20:57,42,Adult,Male,Headache,4,Control,9,9,39,57
+P001299,2/22/2026,11:56,7,Child,Female,Road Traffic Accident,1,Control,17,10,3,30
+P001300,2/22/2026,7:12,5,Child,Female,Shortness of Breath,2,AI,11,5,9,25
+P001301,2/22/2026,13:03,45,Adult,Male,Abdominal Pain,4,Control,10,7,36,53
+P001302,2/22/2026,10:21,29,Young Adult,Female,Shortness of Breath,2,Control,13,7,9,29
+P001303,2/22/2026,10:06,46,Adult,Female,Chest Pain,2,Control,15,9,6,30
+P001304,2/23/2026,10:42,15,Child,Female,Headache,4,AI,17,6,39,62
+P001305,2/23/2026,17:53,70,Older Adult,Female,Headache,4,AI,10,6,41,57
+P001306,2/23/2026,13:23,70,Older Adult,Male,Skin Rash,5,AI,10,4,57,71
+P001307,2/23/2026,10:03,74,Elderly,Female,Headache,3,Control,11,9,23,43
+P001308,2/23/2026,14:27,41,Adult,Male,Chest Pain,2,AI,16,5,5,26
+P001309,2/23/2026,16:14,63,Older Adult,Female,Chest Pain,2,AI,12,6,4,22
+P001310,2/23/2026,10:00,59,Older Adult,Female,Skin Rash,5,Control,21,7,52,80
+P001311,2/23/2026,12:54,34,Adult,Female,Chest Pain,2,Control,11,11,9,31
+P001312,2/23/2026,7:02,29,Young Adult,Male,Fever,4,Control,19,8,34,61
+P001313,2/23/2026,9:13,79,Elderly,Male,Chest Pain,1,Control,8,7,3,18
+P001314,2/23/2026,15:37,43,Adult,Male,Minor Injury,4,AI,6,6,28,40
+P001315,2/23/2026,9:49,46,Adult,Male,Headache,4,Control,12,9,43,64
+P001316,2/23/2026,13:56,27,Young Adult,Male,Fever,3,Control,17,9,18,44
+P001317,2/23/2026,16:00,5,Child,Female,Fever,3,AI,10,4,18,32
+P001318,2/23/2026,7:37,60,Older Adult,Male,Skin Rash,4,AI,10,6,35,51
+P001319,2/23/2026,14:37,43,Adult,Female,Shortness of Breath,1,AI,16,5,0,21
+P001320,2/23/2026,10:20,24,Young Adult,Male,Minor Injury,4,Control,15,8,51,74
+P001321,2/23/2026,21:47,29,Young Adult,Female,Urinary Tract Infection,4,Control,9,5,31,45
+P001322,2/23/2026,13:28,49,Adult,Female,Urinary Tract Infection,3,Control,9,7,24,40
+P001323,2/23/2026,17:04,49,Adult,Female,Fever,3,Control,15,7,10,32
+P001324,2/23/2026,13:48,18,Young Adult,Female,Burns,3,Control,5,9,18,32
+P001325,2/23/2026,5:09,63,Older Adult,Male,Abdominal Pain,3,AI,16,4,26,46
+P001326,2/23/2026,14:27,12,Child,Female,Fever,3,Control,15,6,18,39
+P001327,2/23/2026,21:20,32,Adult,Male,Urinary Tract Infection,4,Control,3,8,41,52
+P001328,2/23/2026,14:49,60,Older Adult,Male,Chest Pain,2,Control,12,8,13,33
+P001329,2/23/2026,17:06,23,Young Adult,Female,Chest Pain,2,AI,4,4,3,11
+P001330,2/23/2026,19:02,63,Older Adult,Female,Fever,2,AI,7,5,4,16
+P001331,2/23/2026,9:44,59,Older Adult,Female,Shortness of Breath,2,AI,10,3,6,19
+P001332,2/23/2026,9:46,51,Older Adult,Male,Fever,3,Control,7,9,12,28
+P001333,2/23/2026,14:19,13,Child,Male,Minor Injury,5,Control,21,8,58,87
+P001334,2/23/2026,12:18,15,Child,Male,Urinary Tract Infection,3,Control,15,8,21,44
+P001335,2/23/2026,18:34,21,Young Adult,Male,Minor Injury,4,Control,17,9,24,50
+P001336,2/23/2026,19:03,45,Adult,Male,Chest Pain,2,AI,11,4,9,24
+P001337,2/23/2026,11:04,51,Older Adult,Male,Burns,2,AI,12,5,5,22
+P001338,2/23/2026,9:00,67,Older Adult,Male,Chest Pain,2,AI,18,5,7,30
+P001339,2/24/2026,17:03,63,Older Adult,Female,Abdominal Pain,4,AI,14,9,50,73
+P001340,2/24/2026,10:11,85,Elderly,Male,Abdominal Pain,3,AI,14,6,21,41
+P001341,2/24/2026,17:59,66,Older Adult,Female,Shortness of Breath,2,Control,8,6,7,21
+P001342,2/24/2026,12:26,19,Young Adult,Male,Abdominal Pain,4,AI,8,7,21,36
+P001343,2/24/2026,15:55,18,Young Adult,Female,Abdominal Pain,3,Control,13,10,16,39
+P001344,2/24/2026,7:41,61,Older Adult,Female,Fever,3,AI,13,5,11,29
+P001345,2/24/2026,14:22,25,Young Adult,Male,Chest Pain,1,Control,8,7,3,18
+P001346,2/24/2026,12:24,2,Child,Female,Shortness of Breath,3,Control,13,6,20,39
+P001347,2/24/2026,14:20,42,Adult,Male,Road Traffic Accident,2,AI,7,6,0,13
+P001348,2/24/2026,8:57,70,Older Adult,Female,Minor Injury,4,Control,12,7,49,68
+P001349,2/24/2026,16:51,15,Child,Male,Chest Pain,2,Control,6,7,12,25
+P001350,2/24/2026,18:23,64,Older Adult,Female,Chest Pain,2,Control,17,9,12,38
+P001351,2/24/2026,9:24,66,Older Adult,Male,Dizziness,3,Control,11,10,13,34
+P001352,2/24/2026,7:44,47,Adult,Male,Abdominal Pain,3,AI,9,4,17,30
+P001353,2/24/2026,2:54,10,Child,Female,Skin Rash,5,AI,7,6,47,60
+P001354,2/24/2026,15:45,18,Young Adult,Male,Chest Pain,2,Control,7,8,14,29
+P001355,2/24/2026,14:31,69,Older Adult,Female,Burns,3,Control,14,9,20,43
+P001356,2/24/2026,13:54,51,Older Adult,Male,Fever,3,AI,16,4,15,35
+P001357,2/24/2026,9:31,82,Elderly,Female,Headache,5,Control,16,8,57,81
+P001358,2/24/2026,11:04,45,Adult,Male,Minor Injury,3,Control,18,6,22,46
+P001359,2/24/2026,14:35,17,Child,Female,Shortness of Breath,2,Control,19,6,10,35
+P001360,2/24/2026,13:45,13,Child,Female,Fever,3,AI,16,6,5,27
+P001361,2/24/2026,22:41,51,Older Adult,Male,Shortness of Breath,2,Control,10,7,12,29
+P001362,2/24/2026,8:48,30,Young Adult,Male,Minor Injury,4,Control,13,7,45,65
+P001363,2/24/2026,15:41,24,Young Adult,Male,Abdominal Pain,3,Control,3,6,28,37
+P001364,2/25/2026,12:57,45,Adult,Female,Abdominal Pain,4,Control,15,6,57,78
+P001365,2/25/2026,12:38,9,Child,Male,Headache,3,AI,13,3,15,31
+P001366,2/25/2026,16:15,23,Young Adult,Male,Abdominal Pain,3,Control,18,8,25,51
+P001367,2/25/2026,15:32,44,Adult,Male,Minor Injury,4,Control,9,4,34,47
+P001368,2/25/2026,22:48,25,Young Adult,Male,Chest Pain,2,Control,14,9,7,30
+P001369,2/25/2026,8:20,11,Child,Female,Fever,3,Control,8,9,29,46
+P001370,2/25/2026,7:08,61,Older Adult,Female,Chest Pain,2,AI,12,5,1,18
+P001371,2/25/2026,16:05,70,Older Adult,Female,Headache,4,AI,5,5,39,49
+P001372,2/25/2026,14:50,23,Young Adult,Female,Abdominal Pain,2,Control,17,8,5,30
+P001373,2/25/2026,10:44,69,Older Adult,Female,Abdominal Pain,3,Control,16,8,16,40
+P001374,2/25/2026,6:34,32,Adult,Male,Abdominal Pain,2,Control,10,8,6,24
+P001375,2/25/2026,7:38,50,Adult,Male,Burns,3,AI,13,7,24,44
+P001376,2/25/2026,19:21,51,Older Adult,Female,Abdominal Pain,2,AI,12,7,7,26
+P001377,2/25/2026,9:40,58,Older Adult,Female,Minor Injury,4,Control,10,10,48,68
+P001378,2/25/2026,11:53,64,Older Adult,Female,Abdominal Pain,3,AI,12,4,4,20
+P001379,2/25/2026,9:04,8,Child,Male,Abdominal Pain,3,AI,10,6,15,31
+P001380,2/25/2026,11:41,1,Child,Male,Headache,4,AI,16,6,31,53
+P001381,2/25/2026,6:22,75,Elderly,Male,Headache,4,Control,11,7,45,63
+P001382,2/25/2026,13:16,38,Adult,Female,Burns,2,Control,22,7,15,44
+P001383,2/25/2026,6:11,23,Young Adult,Female,Burns,3,Control,12,7,6,25
+P001384,2/25/2026,17:22,66,Older Adult,Female,Minor Injury,5,AI,12,4,67,83
+P001385,2/25/2026,9:15,63,Older Adult,Male,Shortness of Breath,2,AI,14,3,10,27
+P001386,2/25/2026,13:02,70,Older Adult,Female,Headache,3,AI,15,6,12,33
+P001387,2/25/2026,19:29,30,Young Adult,Male,Fever,2,Control,12,8,8,28
+P001388,2/25/2026,15:56,65,Older Adult,Male,Burns,4,Control,14,8,47,69
+P001389,2/25/2026,13:21,0,Child,Female,Shortness of Breath,2,Control,13,9,2,24
+P001390,2/25/2026,11:08,2,Child,Male,Shortness of Breath,2,AI,9,5,5,19
+P001391,2/25/2026,11:28,36,Adult,Male,Chest Pain,2,Control,8,9,6,23
+P001392,2/25/2026,15:46,13,Child,Female,Abdominal Pain,3,Control,15,7,32,54
+P001393,2/25/2026,23:36,21,Young Adult,Female,Burns,3,AI,18,4,15,37
+P001394,2/25/2026,15:22,68,Older Adult,Male,Fever,4,Control,5,8,33,46
+P001395,2/25/2026,13:12,26,Young Adult,Female,Headache,4,Control,6,11,48,65
+P001396,2/25/2026,16:31,19,Young Adult,Male,Abdominal Pain,2,Control,6,10,9,25
+P001397,2/25/2026,12:45,20,Young Adult,Female,Skin Rash,4,AI,15,6,46,67
+P001398,2/25/2026,6:51,40,Adult,Female,Abdominal Pain,3,AI,15,3,28,46
+P001399,2/25/2026,14:46,47,Adult,Female,Skin Rash,5,AI,8,5,51,64
+P001400,2/25/2026,21:47,57,Older Adult,Female,Abdominal Pain,3,Control,21,9,30,60
+P001401,2/25/2026,8:22,65,Older Adult,Male,Urinary Tract Infection,3,AI,10,8,28,46
+P001402,2/26/2026,15:44,31,Adult,Male,Minor Injury,5,AI,18,3,48,69
+P001403,2/26/2026,9:16,61,Older Adult,Male,Chest Pain,2,AI,15,6,2,23
+P001404,2/26/2026,13:54,16,Child,Male,Shortness of Breath,1,AI,8,6,0,14
+P001405,2/26/2026,7:39,22,Young Adult,Female,Fever,3,Control,10,9,19,38
+P001406,2/26/2026,12:20,57,Older Adult,Male,Chest Pain,2,Control,9,6,13,28
+P001407,2/26/2026,16:01,49,Adult,Male,Skin Rash,5,Control,7,8,52,67
+P001408,2/26/2026,11:36,85,Elderly,Male,Fever,4,AI,11,6,37,54
+P001409,2/26/2026,15:05,33,Adult,Female,Fever,4,AI,7,5,29,41
+P001410,2/26/2026,17:43,65,Older Adult,Male,Chest Pain,2,AI,11,4,5,20
+P001411,2/26/2026,20:17,35,Adult,Female,Fever,3,Control,20,7,33,60
+P001412,2/26/2026,9:29,42,Adult,Male,Skin Rash,5,Control,15,9,92,116
+P001413,2/26/2026,12:21,50,Adult,Male,Fever,3,Control,10,7,22,39
+P001414,2/26/2026,8:53,55,Older Adult,Female,Burns,2,AI,9,4,7,20
+P001415,2/26/2026,23:32,33,Adult,Female,Burns,4,Control,10,8,45,63
+P001416,2/26/2026,20:29,79,Elderly,Female,Abdominal Pain,2,AI,20,5,2,27
+P001417,2/26/2026,13:16,27,Young Adult,Female,Chest Pain,2,Control,8,10,14,32
+P001418,2/26/2026,18:42,8,Child,Male,Skin Rash,5,Control,12,6,85,103
+P001419,2/26/2026,13:31,37,Adult,Male,Fever,3,AI,14,3,18,35
+P001420,2/26/2026,14:41,32,Adult,Female,Abdominal Pain,2,Control,17,7,7,31
+P001421,2/26/2026,7:50,66,Older Adult,Male,Chest Pain,2,Control,11,5,8,24
+P001422,2/26/2026,16:13,26,Young Adult,Female,Shortness of Breath,2,Control,8,9,9,26
+P001423,2/26/2026,8:57,63,Older Adult,Female,Road Traffic Accident,2,Control,13,5,8,26
+P001424,2/26/2026,17:09,49,Adult,Male,Abdominal Pain,3,AI,17,6,23,46
+P001425,2/26/2026,17:46,50,Adult,Female,Abdominal Pain,3,AI,11,6,19,36
+P001426,2/26/2026,16:59,87,Elderly,Male,Urinary Tract Infection,3,Control,9,8,14,31
+P001427,2/27/2026,4:50,23,Young Adult,Male,Minor Injury,5,AI,12,3,44,59
+P001428,2/27/2026,10:35,34,Adult,Male,Shortness of Breath,2,Control,6,8,11,25
+P001429,2/27/2026,10:33,71,Elderly,Female,Minor Injury,4,AI,11,4,24,39
+P001430,2/27/2026,11:08,68,Older Adult,Male,Fever,3,AI,17,4,14,35
+P001431,2/27/2026,7:41,49,Adult,Female,Minor Injury,5,AI,15,6,54,75
+P001432,2/27/2026,20:27,39,Adult,Female,Fever,3,Control,11,9,13,33
+P001433,2/27/2026,13:10,30,Young Adult,Female,Chest Pain,2,Control,19,10,9,38
+P001434,2/27/2026,10:13,38,Adult,Female,Minor Injury,3,Control,20,8,19,47
+P001435,2/27/2026,11:38,63,Older Adult,Male,Fever,2,AI,15,5,2,22
+P001436,2/27/2026,12:54,65,Older Adult,Male,Dizziness,3,AI,6,7,29,42
+P001437,2/27/2026,14:46,28,Young Adult,Male,Fever,3,Control,4,11,5,20
+P001438,2/27/2026,13:53,29,Young Adult,Female,Urinary Tract Infection,4,AI,18,6,27,51
+P001439,2/27/2026,20:18,21,Young Adult,Female,Burns,3,Control,13,7,17,37
+P001440,2/27/2026,13:53,18,Young Adult,Female,Chest Pain,2,Control,19,8,4,31
+P001441,2/27/2026,23:14,3,Child,Female,Road Traffic Accident,2,Control,7,8,15,30
+P001442,2/27/2026,18:27,49,Adult,Female,Fever,3,Control,11,9,33,53
+P001443,2/27/2026,9:23,8,Child,Male,Urinary Tract Infection,3,Control,16,7,16,39
+P001444,2/27/2026,20:07,27,Young Adult,Female,Headache,5,AI,9,5,79,93
+P001445,2/27/2026,7:42,34,Adult,Female,Minor Injury,5,Control,16,8,74,98
+P001446,2/27/2026,17:08,21,Young Adult,Male,Headache,3,Control,12,9,30,51
+P001447,2/27/2026,11:46,8,Child,Female,Chest Pain,2,AI,12,4,3,19
+P001448,2/27/2026,18:32,30,Young Adult,Male,Chest Pain,2,Control,7,8,9,24
+P001449,2/28/2026,18:32,29,Young Adult,Female,Fever,3,AI,13,7,24,44
+P001450,2/28/2026,17:18,41,Adult,Female,Minor Injury,5,Control,21,7,84,112
+P001451,2/28/2026,17:02,11,Child,Female,Shortness of Breath,2,AI,14,5,4,23
+P001452,2/28/2026,10:09,68,Older Adult,Male,Minor Injury,5,AI,9,3,47,59
+P001453,2/28/2026,6:39,82,Elderly,Female,Chest Pain,2,Control,18,8,6,32
+P001454,2/28/2026,12:46,66,Older Adult,Female,Headache,4,AI,9,5,19,33
+P001455,2/28/2026,8:41,35,Adult,Male,Abdominal Pain,3,AI,19,5,20,44
+P001456,2/28/2026,15:00,70,Older Adult,Female,Road Traffic Accident,2,AI,7,6,5,18
+P001457,2/28/2026,11:28,62,Older Adult,Female,Dizziness,3,Control,13,8,22,43
+P001458,2/28/2026,22:49,10,Child,Female,Fever,3,Control,18,10,20,48
+P001459,2/28/2026,15:33,39,Adult,Male,Abdominal Pain,3,AI,9,4,8,21
+P001460,2/28/2026,17:50,68,Older Adult,Female,Chest Pain,2,AI,12,7,5,24
+P001461,2/28/2026,8:12,26,Young Adult,Female,Minor Injury,5,Control,17,8,74,99
+P001462,2/28/2026,18:53,2,Child,Male,Shortness of Breath,2,Control,3,8,5,16
+P001463,2/28/2026,20:00,70,Older Adult,Male,Road Traffic Accident,2,Control,16,6,8,30
+P001464,2/28/2026,13:33,67,Older Adult,Female,Chest Pain,2,Control,12,6,6,24
+P001465,2/28/2026,14:28,18,Young Adult,Female,Minor Injury,5,Control,18,9,62,89
+P001466,2/28/2026,16:47,47,Adult,Female,Minor Injury,4,Control,9,7,29,45
+P001467,2/28/2026,8:46,26,Young Adult,Male,Fever,3,Control,6,9,18,33
+P001468,2/28/2026,13:12,58,Older Adult,Male,Headache,3,Control,10,8,30,48
+P001469,2/28/2026,12:47,22,Young Adult,Male,Abdominal Pain,3,AI,10,3,14,27
+P001470,2/28/2026,8:48,22,Young Adult,Male,Headache,4,Control,11,9,33,53
+P001471,2/28/2026,11:52,59,Older Adult,Female,Urinary Tract Infection,4,Control,10,8,34,52
+P001472,2/28/2026,6:28,33,Adult,Female,Fever,3,Control,4,8,19,31
+P001473,2/28/2026,3:38,69,Older Adult,Female,Skin Rash,5,AI,12,6,88,106
+P001474,2/28/2026,8:23,39,Adult,Male,Shortness of Breath,2,AI,13,3,7,23
+P001475,2/28/2026,21:25,23,Young Adult,Female,Chest Pain,1,AI,11,4,0,15
+P001476,3/1/2026,13:16,48,Adult,Male,Shortness of Breath,2,Control,13,8,6,27
+P001477,3/1/2026,21:06,18,Young Adult,Male,Headache,4,AI,12,3,17,32
+P001478,3/1/2026,12:12,32,Adult,Female,Fever,3,Control,6,7,15,28
+P001479,3/1/2026,10:04,18,Young Adult,Female,Abdominal Pain,3,Control,11,9,8,28
+P001480,3/1/2026,13:25,66,Older Adult,Female,Fever,3,AI,12,5,19,36
+P001481,3/1/2026,12:48,85,Elderly,Male,Abdominal Pain,4,AI,11,3,49,63
+P001482,3/1/2026,7:02,85,Elderly,Female,Abdominal Pain,3,AI,6,5,15,26
+P001483,3/1/2026,15:06,42,Adult,Female,Fever,3,AI,17,5,19,41
+P001484,3/1/2026,9:57,30,Young Adult,Female,Fever,4,AI,8,4,25,37
+P001485,3/1/2026,14:48,45,Adult,Male,Urinary Tract Infection,4,Control,7,13,21,41
+P001486,3/1/2026,15:38,65,Older Adult,Female,Fever,3,Control,12,9,20,41
+P001487,3/1/2026,8:52,20,Young Adult,Female,Minor Injury,3,Control,11,8,22,41
+P001488,3/1/2026,6:00,78,Elderly,Female,Headache,3,AI,14,6,26,46
+P001489,3/1/2026,17:48,19,Young Adult,Male,Minor Injury,4,Control,15,8,61,84
+P001490,3/2/2026,12:16,72,Elderly,Male,Chest Pain,3,AI,15,4,13,32
+P001491,3/2/2026,6:42,60,Older Adult,Male,Burns,3,Control,12,8,25,45
+P001492,3/2/2026,23:24,53,Older Adult,Male,Headache,4,Control,14,9,43,66
+P001493,3/2/2026,6:58,24,Young Adult,Female,Skin Rash,5,Control,6,9,65,80
+P001494,3/2/2026,15:02,16,Child,Male,Fever,3,Control,16,10,20,46
+P001495,3/2/2026,22:14,38,Adult,Male,Abdominal Pain,3,AI,10,6,15,31
+P001496,3/2/2026,9:28,29,Young Adult,Male,Minor Injury,5,Control,20,9,63,92
+P001497,3/2/2026,8:52,3,Child,Male,Abdominal Pain,4,Control,16,9,57,82
+P001498,3/2/2026,7:42,44,Adult,Male,Headache,5,Control,11,10,68,89
+P001499,3/2/2026,10:31,40,Adult,Female,Chest Pain,2,Control,12,9,13,34
+P001500,3/2/2026,7:25,31,Adult,Female,Shortness of Breath,2,Control,17,6,5,28
+P001501,3/2/2026,15:59,34,Adult,Male,Dizziness,2,Control,3,9,0,12
+P001502,3/2/2026,6:15,0,Child,Male,Headache,4,AI,11,7,32,50
+P001503,3/2/2026,13:24,87,Elderly,Male,Road Traffic Accident,3,Control,19,7,15,41
+P001504,3/2/2026,23:53,27,Young Adult,Male,Headache,4,Control,15,7,25,47
+P001505,3/2/2026,17:27,47,Adult,Female,Headache,4,AI,9,5,49,63
+P001506,3/2/2026,14:08,37,Adult,Female,Burns,3,Control,13,8,12,33
+P001507,3/2/2026,10:55,70,Older Adult,Female,Urinary Tract Infection,3,Control,8,7,23,38
+P001508,3/2/2026,14:55,14,Child,Female,Road Traffic Accident,2,AI,11,5,10,26
+P001509,3/2/2026,13:00,43,Adult,Male,Fever,3,Control,13,9,13,35
+P001510,3/2/2026,12:28,32,Adult,Female,Headache,4,AI,14,3,35,52
+P001511,3/2/2026,8:56,29,Young Adult,Female,Chest Pain,1,Control,15,8,3,26
+P001512,3/2/2026,19:21,49,Adult,Female,Headache,5,AI,17,5,56,78
+P001513,3/2/2026,12:15,83,Elderly,Male,Headache,4,AI,7,3,39,49
+P001514,3/2/2026,9:40,81,Elderly,Female,Skin Rash,4,Control,12,9,46,67
+P001515,3/2/2026,11:50,14,Child,Female,Urinary Tract Infection,3,Control,9,8,21,38
+P001516,3/2/2026,12:43,27,Young Adult,Female,Fever,4,Control,10,8,36,54
+P001517,3/2/2026,17:50,26,Young Adult,Male,Abdominal Pain,3,Control,9,9,15,33
+P001518,3/2/2026,16:53,39,Adult,Female,Skin Rash,5,AI,14,5,44,63
+P001519,3/2/2026,16:40,21,Young Adult,Female,Chest Pain,2,AI,16,4,5,25
+P001520,3/2/2026,1:06,29,Young Adult,Female,Shortness of Breath,2,Control,16,9,6,31
+P001521,3/2/2026,12:13,71,Elderly,Female,Abdominal Pain,2,AI,8,6,7,21
+P001522,3/2/2026,13:28,87,Elderly,Female,Fever,3,Control,12,6,30,48
+P001523,3/3/2026,2:18,11,Child,Male,Dizziness,3,AI,7,6,10,23
+P001524,3/3/2026,10:18,27,Young Adult,Female,Abdominal Pain,4,AI,7,5,44,56
+P001525,3/3/2026,16:01,35,Adult,Male,Fever,3,AI,9,6,27,42
+P001526,3/3/2026,8:40,30,Young Adult,Female,Fever,3,Control,13,8,15,36
+P001527,3/3/2026,13:44,48,Adult,Male,Urinary Tract Infection,3,AI,14,5,23,42
+P001528,3/3/2026,9:14,45,Adult,Female,Skin Rash,5,Control,15,9,73,97
+P001529,3/3/2026,1:02,56,Older Adult,Female,Chest Pain,2,AI,14,5,7,26
+P001530,3/3/2026,9:10,57,Older Adult,Female,Abdominal Pain,2,Control,9,10,6,25
+P001531,3/3/2026,22:52,47,Adult,Female,Shortness of Breath,2,Control,17,10,14,41
+P001532,3/3/2026,17:45,56,Older Adult,Female,Fever,3,AI,15,4,12,31
+P001533,3/3/2026,21:29,25,Young Adult,Female,Minor Injury,5,AI,10,5,72,87
+P001534,3/3/2026,13:56,42,Adult,Male,Abdominal Pain,3,Control,11,7,20,38
+P001535,3/3/2026,7:39,44,Adult,Male,Abdominal Pain,2,AI,9,5,7,21
+P001536,3/3/2026,13:17,11,Child,Male,Minor Injury,4,AI,7,7,25,39
+P001537,3/3/2026,12:50,24,Young Adult,Male,Chest Pain,2,AI,15,3,0,18
+P001538,3/3/2026,18:47,27,Young Adult,Female,Skin Rash,4,AI,15,3,40,58
+P001539,3/3/2026,7:01,90,Elderly,Female,Abdominal Pain,3,Control,8,8,18,34
+P001540,3/3/2026,13:31,24,Young Adult,Female,Chest Pain,3,AI,7,5,15,27
+P001541,3/3/2026,8:07,27,Young Adult,Male,Dizziness,4,Control,8,7,45,60
+P001542,3/4/2026,11:21,39,Adult,Male,Fever,4,Control,12,8,25,45
+P001543,3/4/2026,16:05,60,Older Adult,Female,Minor Injury,5,AI,6,4,78,88
+P001544,3/4/2026,12:11,9,Child,Female,Chest Pain,2,AI,17,4,4,25
+P001545,3/4/2026,11:46,86,Elderly,Male,Shortness of Breath,2,AI,16,7,7,30
+P001546,3/4/2026,11:56,57,Older Adult,Female,Minor Injury,4,AI,14,5,42,61
+P001547,3/4/2026,12:39,35,Adult,Female,Fever,3,AI,15,5,20,40
+P001548,3/4/2026,17:35,53,Older Adult,Male,Road Traffic Accident,3,Control,12,8,13,33
+P001549,3/4/2026,19:14,17,Child,Female,Shortness of Breath,2,AI,14,6,8,28
+P001550,3/4/2026,21:27,28,Young Adult,Male,Fever,3,Control,7,8,22,37
+P001551,3/4/2026,17:51,65,Older Adult,Female,Shortness of Breath,1,AI,18,4,0,22
+P001552,3/4/2026,10:56,4,Child,Male,Shortness of Breath,3,AI,10,6,14,30
+P001553,3/4/2026,15:48,25,Young Adult,Male,Chest Pain,2,AI,11,6,5,22
+P001554,3/4/2026,12:44,42,Adult,Female,Fever,3,Control,22,10,21,53
+P001555,3/4/2026,10:17,21,Young Adult,Male,Fever,4,AI,11,5,41,57
+P001556,3/4/2026,18:01,85,Elderly,Female,Fever,3,AI,15,6,27,48
+P001557,3/4/2026,4:12,8,Child,Male,Minor Injury,3,AI,14,6,10,30
+P001558,3/4/2026,19:44,57,Older Adult,Male,Headache,4,Control,7,8,48,63
+P001559,3/4/2026,12:53,40,Adult,Male,Burns,3,AI,8,7,14,29
+P001560,3/4/2026,15:14,63,Older Adult,Female,Fever,2,AI,20,6,6,32
+P001561,3/4/2026,15:19,30,Young Adult,Female,Fever,3,AI,14,7,27,48
+P001562,3/4/2026,19:28,38,Adult,Male,Road Traffic Accident,3,AI,12,6,16,34
+P001563,3/4/2026,15:58,62,Older Adult,Female,Headache,4,Control,10,5,46,61
+P001564,3/4/2026,14:41,49,Adult,Female,Headache,4,Control,13,7,52,72
+P001565,3/4/2026,6:28,31,Adult,Female,Abdominal Pain,3,Control,14,6,26,46
+P001566,3/4/2026,13:02,46,Adult,Female,Fever,2,Control,13,7,12,32
+P001567,3/4/2026,8:18,67,Older Adult,Female,Chest Pain,2,AI,16,5,2,23
+P001568,3/4/2026,16:02,48,Adult,Female,Dizziness,3,Control,9,9,17,35
+P001569,3/4/2026,13:53,81,Elderly,Male,Fever,3,Control,8,7,13,28
+P001570,3/5/2026,15:13,19,Young Adult,Male,Urinary Tract Infection,3,Control,16,10,19,45
+P001571,3/5/2026,5:39,37,Adult,Male,Minor Injury,4,AI,20,4,34,58
+P001572,3/5/2026,7:58,68,Older Adult,Male,Fever,3,Control,15,8,19,42
+P001573,3/5/2026,16:54,58,Older Adult,Female,Headache,5,Control,17,6,72,95
+P001574,3/5/2026,6:03,56,Older Adult,Male,Skin Rash,4,Control,12,10,45,67
+P001575,3/5/2026,6:58,77,Elderly,Male,Urinary Tract Infection,3,Control,13,10,20,43
+P001576,3/5/2026,1:59,40,Adult,Female,Chest Pain,1,AI,13,5,0,18
+P001577,3/5/2026,21:51,10,Child,Male,Fever,3,Control,12,6,25,43
+P001578,3/5/2026,16:10,12,Child,Male,Fever,2,AI,18,5,2,25
+P001579,3/5/2026,11:57,59,Older Adult,Male,Abdominal Pain,4,AI,16,5,46,67
+P001580,3/5/2026,10:30,77,Elderly,Female,Shortness of Breath,2,AI,10,4,1,15
+P001581,3/5/2026,11:42,26,Young Adult,Male,Skin Rash,5,AI,5,8,82,95
+P001582,3/5/2026,17:31,30,Young Adult,Male,Fever,2,AI,12,7,4,23
+P001583,3/5/2026,15:26,2,Child,Female,Minor Injury,4,Control,7,5,41,53
+P001584,3/5/2026,9:29,53,Older Adult,Female,Shortness of Breath,2,AI,12,4,0,16
+P001585,3/5/2026,8:42,18,Young Adult,Female,Fever,3,Control,8,9,24,41
+P001586,3/5/2026,7:01,50,Adult,Female,Abdominal Pain,3,Control,17,6,21,44
+P001587,3/5/2026,15:48,32,Adult,Male,Minor Injury,5,AI,15,5,64,84
+P001588,3/5/2026,16:08,53,Older Adult,Male,Skin Rash,5,AI,15,5,59,79
+P001589,3/5/2026,10:27,65,Older Adult,Male,Minor Injury,5,AI,16,5,69,90
+P001590,3/5/2026,2:30,36,Adult,Male,Abdominal Pain,4,AI,14,6,45,65
+P001591,3/6/2026,7:59,30,Young Adult,Male,Chest Pain,3,Control,14,11,23,48
+P001592,3/6/2026,21:33,31,Adult,Male,Abdominal Pain,3,AI,18,5,25,48
+P001593,3/6/2026,10:55,70,Older Adult,Female,Shortness of Breath,2,Control,11,6,6,23
+P001594,3/6/2026,16:14,89,Elderly,Female,Minor Injury,5,Control,14,8,56,78
+P001595,3/6/2026,14:47,18,Young Adult,Male,Abdominal Pain,3,AI,8,4,18,30
+P001596,3/6/2026,11:24,1,Child,Female,Skin Rash,5,Control,12,11,75,98
+P001597,3/6/2026,9:35,14,Child,Male,Shortness of Breath,1,AI,21,6,0,27
+P001598,3/6/2026,7:07,44,Adult,Male,Minor Injury,4,AI,15,5,23,43
+P001599,3/6/2026,14:08,69,Older Adult,Female,Dizziness,3,Control,12,9,13,34
+P001600,3/6/2026,17:57,10,Child,Male,Abdominal Pain,3,AI,13,5,16,34
+P001601,3/6/2026,15:57,45,Adult,Male,Urinary Tract Infection,3,AI,12,7,5,24
+P001602,3/6/2026,13:36,23,Young Adult,Male,Abdominal Pain,3,Control,13,7,22,42
+P001603,3/6/2026,5:47,8,Child,Female,Fever,2,Control,10,9,8,27
+P001604,3/6/2026,21:44,35,Adult,Female,Skin Rash,5,AI,14,7,46,67
+P001605,3/6/2026,17:38,21,Young Adult,Male,Urinary Tract Infection,4,Control,14,7,34,55
+P001606,3/6/2026,10:31,32,Adult,Female,Headache,4,AI,12,5,37,54
+P001607,3/6/2026,22:57,56,Older Adult,Female,Shortness of Breath,2,Control,13,9,4,26
+P001608,3/6/2026,14:51,48,Adult,Female,Minor Injury,5,AI,13,4,53,70
+P001609,3/6/2026,14:16,8,Child,Female,Skin Rash,5,AI,10,3,57,70
+P001610,3/6/2026,16:34,76,Elderly,Male,Abdominal Pain,4,Control,14,7,37,58
+P001611,3/6/2026,17:36,44,Adult,Male,Road Traffic Accident,3,AI,15,5,15,35
+P001612,3/6/2026,15:18,63,Older Adult,Female,Headache,5,AI,18,6,80,104
+P001613,3/6/2026,8:43,10,Child,Female,Headache,4,AI,13,5,46,64
+P001614,3/7/2026,11:28,11,Child,Female,Fever,4,AI,10,7,29,46
+P001615,3/7/2026,20:58,12,Child,Female,Headache,5,AI,12,6,44,62
+P001616,3/7/2026,9:06,29,Young Adult,Female,Burns,4,AI,7,6,33,46
+P001617,3/7/2026,11:27,44,Adult,Female,Headache,3,AI,15,4,22,41
+P001618,3/7/2026,12:08,88,Elderly,Female,Burns,4,AI,4,5,16,25
+P001619,3/7/2026,12:27,42,Adult,Female,Chest Pain,2,Control,16,10,8,34
+P001620,3/7/2026,14:05,21,Young Adult,Female,Minor Injury,5,AI,17,6,56,79
+P001621,3/7/2026,20:28,40,Adult,Male,Road Traffic Accident,1,Control,1,9,3,13
+P001622,3/7/2026,9:57,16,Child,Male,Minor Injury,4,Control,17,8,50,75
+P001623,3/7/2026,7:16,34,Adult,Female,Shortness of Breath,2,Control,16,7,4,27
+P001624,3/7/2026,9:15,42,Adult,Female,Shortness of Breath,2,Control,11,6,12,29
+P001625,3/7/2026,19:22,63,Older Adult,Female,Skin Rash,4,Control,7,9,17,33
+P001626,3/7/2026,15:30,74,Elderly,Female,Road Traffic Accident,3,Control,9,6,24,39
+P001627,3/7/2026,10:02,27,Young Adult,Male,Abdominal Pain,2,Control,9,8,10,27
+P001628,3/7/2026,17:20,33,Adult,Male,Skin Rash,5,AI,17,4,85,106
+P001629,3/7/2026,18:25,85,Elderly,Female,Fever,3,Control,10,8,21,39
+P001630,3/7/2026,18:35,52,Older Adult,Male,Chest Pain,2,Control,16,10,6,32
+P001631,3/7/2026,20:41,47,Adult,Male,Skin Rash,4,Control,12,10,30,52
+P001632,3/7/2026,10:36,76,Elderly,Male,Fever,3,Control,12,9,29,50
+P001633,3/7/2026,16:52,7,Child,Male,Road Traffic Accident,2,Control,6,7,13,26
+P001634,3/7/2026,12:21,73,Elderly,Female,Chest Pain,2,AI,7,5,3,15
+P001635,3/7/2026,18:41,17,Child,Male,Abdominal Pain,2,AI,17,4,4,25
+P001636,3/7/2026,16:11,31,Adult,Female,Headache,3,AI,11,4,25,40
+P001637,3/7/2026,17:41,86,Elderly,Male,Abdominal Pain,3,AI,13,6,22,41
+P001638,3/7/2026,15:12,24,Young Adult,Female,Minor Injury,5,Control,19,7,62,88
+P001639,3/7/2026,8:10,33,Adult,Male,Chest Pain,2,Control,11,7,6,24
+P001640,3/7/2026,13:53,24,Young Adult,Female,Headache,4,Control,11,6,32,49
+P001641,3/8/2026,22:15,74,Elderly,Female,Abdominal Pain,3,AI,17,6,21,44
+P001642,3/8/2026,20:07,59,Older Adult,Male,Chest Pain,2,Control,12,7,7,26
+P001643,3/8/2026,5:39,55,Older Adult,Female,Road Traffic Accident,1,AI,13,2,0,15
+P001644,3/8/2026,8:58,49,Adult,Female,Abdominal Pain,2,Control,16,10,10,36
+P001645,3/8/2026,8:56,65,Older Adult,Male,Minor Injury,4,Control,12,10,41,63
+P001646,3/8/2026,16:39,38,Adult,Male,Urinary Tract Infection,3,AI,15,3,18,36
+P001647,3/8/2026,17:44,36,Adult,Female,Minor Injury,4,AI,12,6,33,51
+P001648,3/8/2026,9:58,68,Older Adult,Female,Road Traffic Accident,2,AI,16,7,3,26
+P001649,3/8/2026,13:01,49,Adult,Male,Abdominal Pain,4,AI,14,5,28,47
+P001650,3/8/2026,18:29,14,Child,Male,Chest Pain,2,AI,11,5,7,23
+P001651,3/8/2026,16:29,6,Child,Female,Urinary Tract Infection,4,AI,12,5,37,54
+P001652,3/8/2026,13:11,9,Child,Female,Minor Injury,5,AI,2,6,64,72
+P001653,3/8/2026,14:09,56,Older Adult,Female,Shortness of Breath,2,Control,17,10,5,32
+P001654,3/8/2026,13:43,44,Adult,Male,Minor Injury,4,AI,7,4,44,55
+P001655,3/8/2026,10:10,67,Older Adult,Female,Fever,3,AI,8,4,19,31
+P001656,3/8/2026,14:14,39,Adult,Male,Abdominal Pain,2,Control,10,8,10,28
+P001657,3/8/2026,15:15,20,Young Adult,Male,Road Traffic Accident,2,AI,5,5,5,15
+P001658,3/9/2026,18:16,22,Young Adult,Female,Minor Injury,4,AI,14,5,38,57
+P001659,3/9/2026,15:25,57,Older Adult,Female,Headache,3,Control,13,8,9,30
+P001660,3/9/2026,16:01,49,Adult,Male,Urinary Tract Infection,3,Control,10,7,27,44
+P001661,3/9/2026,8:49,90,Elderly,Male,Fever,3,Control,9,9,12,30
+P001662,3/9/2026,12:11,57,Older Adult,Female,Fever,3,AI,9,4,22,35
+P001663,3/9/2026,1:50,32,Adult,Female,Skin Rash,5,AI,14,4,60,78
+P001664,3/9/2026,10:25,46,Adult,Female,Road Traffic Accident,2,Control,6,8,3,17
+P001665,3/9/2026,16:22,83,Elderly,Female,Headache,3,AI,10,6,14,30
+P001666,3/9/2026,22:17,58,Older Adult,Male,Abdominal Pain,2,Control,6,8,3,17
+P001667,3/9/2026,7:31,5,Child,Female,Chest Pain,2,AI,15,6,7,28
+P001668,3/9/2026,12:48,36,Adult,Female,Minor Injury,5,Control,11,10,57,78
+P001669,3/9/2026,17:37,59,Older Adult,Female,Fever,2,Control,14,7,5,26
+P001670,3/9/2026,9:56,54,Older Adult,Female,Skin Rash,4,AI,17,5,42,64
+P001671,3/9/2026,13:46,28,Young Adult,Female,Burns,4,Control,17,8,40,65
+P001672,3/9/2026,16:02,61,Older Adult,Male,Road Traffic Accident,1,Control,8,7,3,18
+P001673,3/9/2026,14:37,75,Elderly,Male,Fever,4,Control,13,5,39,57
+P001674,3/9/2026,9:02,26,Young Adult,Female,Road Traffic Accident,2,Control,16,9,11,36
+P001675,3/9/2026,11:29,87,Elderly,Male,Fever,3,Control,15,9,18,42
+P001676,3/9/2026,17:00,6,Child,Male,Chest Pain,2,AI,15,6,0,21
+P001677,3/9/2026,13:29,14,Child,Female,Abdominal Pain,3,AI,5,5,9,19
+P001678,3/9/2026,0:44,14,Child,Female,Fever,3,AI,15,4,19,38
+P001679,3/9/2026,16:31,13,Child,Male,Urinary Tract Infection,4,AI,9,4,30,43
+P001680,3/10/2026,4:27,63,Older Adult,Female,Chest Pain,2,Control,15,4,12,31
+P001681,3/10/2026,16:20,10,Child,Female,Chest Pain,2,Control,15,7,4,26
+P001682,3/10/2026,9:57,29,Young Adult,Female,Dizziness,3,Control,14,12,26,52
+P001683,3/10/2026,21:45,12,Child,Female,Abdominal Pain,3,AI,12,7,14,33
+P001684,3/10/2026,11:12,27,Young Adult,Male,Road Traffic Accident,2,AI,17,4,7,28
+P001685,3/10/2026,11:26,8,Child,Male,Fever,3,Control,14,7,23,44
+P001686,3/10/2026,8:35,60,Older Adult,Male,Abdominal Pain,3,Control,13,7,21,41
+P001687,3/10/2026,10:06,3,Child,Female,Urinary Tract Infection,3,AI,8,7,19,34
+P001688,3/10/2026,18:21,67,Older Adult,Female,Abdominal Pain,3,AI,14,8,22,44
+P001689,3/10/2026,23:09,64,Older Adult,Female,Shortness of Breath,2,AI,20,5,5,30
+P001690,3/10/2026,11:38,17,Child,Female,Chest Pain,2,Control,6,8,2,16
+P001691,3/10/2026,12:52,81,Elderly,Female,Abdominal Pain,2,AI,15,6,8,29
+P001692,3/10/2026,16:14,15,Child,Female,Abdominal Pain,3,Control,15,8,18,41
+P001693,3/10/2026,19:14,18,Young Adult,Male,Abdominal Pain,3,AI,19,5,31,55
+P001694,3/10/2026,14:03,6,Child,Male,Abdominal Pain,3,AI,15,5,13,33
+P001695,3/10/2026,11:31,29,Young Adult,Female,Minor Injury,5,AI,12,6,55,73
+P001696,3/10/2026,12:22,40,Adult,Male,Headache,4,Control,14,5,47,66
+P001697,3/10/2026,15:54,59,Older Adult,Male,Fever,3,Control,11,7,25,43
+P001698,3/10/2026,0:05,28,Young Adult,Female,Fever,3,Control,17,6,23,46
+P001699,3/10/2026,14:23,53,Older Adult,Male,Urinary Tract Infection,3,Control,6,9,17,32
+P001700,3/10/2026,11:19,23,Young Adult,Female,Urinary Tract Infection,3,AI,10,4,9,23
+P001701,3/10/2026,17:57,64,Older Adult,Male,Minor Injury,5,AI,14,3,51,68
+P001702,3/10/2026,7:36,27,Young Adult,Male,Urinary Tract Infection,4,Control,17,5,25,47
+P001703,3/10/2026,14:19,14,Child,Male,Fever,2,Control,12,9,14,35
+P001704,3/10/2026,13:11,19,Young Adult,Female,Fever,3,Control,9,7,14,30
+P001705,3/10/2026,15:32,25,Young Adult,Male,Shortness of Breath,2,AI,11,5,4,20
+P001706,3/10/2026,6:27,44,Adult,Female,Shortness of Breath,2,AI,11,7,5,23
+P001707,3/10/2026,14:07,66,Older Adult,Female,Headache,5,Control,11,9,65,85
+P001708,3/11/2026,14:00,6,Child,Female,Fever,3,Control,10,7,16,33
+P001709,3/11/2026,13:36,54,Older Adult,Male,Dizziness,4,AI,10,4,35,49
+P001710,3/11/2026,14:21,68,Older Adult,Male,Road Traffic Accident,2,AI,5,6,2,13
+P001711,3/11/2026,15:05,75,Elderly,Female,Fever,3,Control,13,8,18,39
+P001712,3/11/2026,17:20,23,Young Adult,Female,Minor Injury,4,AI,15,6,39,60
+P001713,3/11/2026,10:31,37,Adult,Female,Chest Pain,2,AI,18,2,1,21
+P001714,3/11/2026,17:34,85,Elderly,Male,Abdominal Pain,4,AI,15,6,47,68
+P001715,3/11/2026,13:14,51,Older Adult,Female,Fever,3,AI,15,3,15,33
+P001716,3/11/2026,6:04,34,Adult,Male,Fever,3,Control,13,7,16,36
+P001717,3/11/2026,6:59,0,Child,Male,Abdominal Pain,4,AI,5,7,34,46
+P001718,3/11/2026,11:55,28,Young Adult,Male,Road Traffic Accident,2,Control,13,5,12,30
+P001719,3/11/2026,17:45,48,Adult,Male,Fever,4,Control,12,8,48,68
+P001720,3/11/2026,16:49,64,Older Adult,Female,Shortness of Breath,2,Control,16,8,9,33
+P001721,3/11/2026,17:47,10,Child,Male,Abdominal Pain,3,Control,14,8,16,38
+P001722,3/11/2026,13:05,40,Adult,Female,Chest Pain,3,Control,11,9,23,43
+P001723,3/11/2026,12:24,47,Adult,Male,Urinary Tract Infection,3,AI,20,5,17,42
+P001724,3/11/2026,8:55,34,Adult,Female,Shortness of Breath,2,AI,15,3,9,27
+P001725,3/11/2026,11:45,65,Older Adult,Male,Burns,2,AI,13,5,4,22
+P001726,3/11/2026,12:58,66,Older Adult,Male,Dizziness,4,Control,14,8,57,79
+P001727,3/11/2026,7:55,22,Young Adult,Male,Fever,3,Control,12,8,21,41
+P001728,3/11/2026,9:39,83,Elderly,Male,Fever,3,AI,12,8,9,29
+P001729,3/11/2026,14:28,26,Young Adult,Female,Skin Rash,5,Control,3,10,114,127
+P001730,3/11/2026,16:06,28,Young Adult,Male,Dizziness,3,AI,8,7,6,21
+P001731,3/11/2026,23:39,28,Young Adult,Female,Shortness of Breath,2,Control,10,9,2,21
+P001732,3/11/2026,20:12,5,Child,Male,Road Traffic Accident,3,AI,14,7,4,25
+P001733,3/12/2026,15:37,18,Young Adult,Female,Road Traffic Accident,2,Control,5,7,16,28
+P001734,3/12/2026,12:17,5,Child,Female,Fever,4,AI,10,5,57,72
+P001735,3/12/2026,15:01,63,Older Adult,Male,Shortness of Breath,2,AI,9,4,5,18
+P001736,3/12/2026,17:07,4,Child,Male,Skin Rash,4,AI,12,4,41,57
+P001737,3/12/2026,7:10,65,Older Adult,Male,Minor Injury,3,AI,14,5,19,38
+P001738,3/12/2026,12:32,17,Child,Female,Abdominal Pain,3,Control,9,8,9,26
+P001739,3/12/2026,18:53,90,Elderly,Male,Fever,3,AI,10,6,26,42
+P001740,3/12/2026,11:37,64,Older Adult,Female,Abdominal Pain,3,Control,9,11,28,48
+P001741,3/12/2026,14:47,14,Child,Female,Chest Pain,2,AI,10,3,0,13
+P001742,3/12/2026,14:26,55,Older Adult,Female,Urinary Tract Infection,3,Control,12,6,22,40
+P001743,3/12/2026,9:19,34,Adult,Female,Abdominal Pain,2,AI,17,2,5,24
+P001744,3/12/2026,11:11,52,Older Adult,Female,Chest Pain,2,AI,8,4,4,16
+P001745,3/12/2026,11:42,37,Adult,Male,Fever,3,Control,19,7,16,42
+P001746,3/12/2026,3:30,40,Adult,Female,Shortness of Breath,2,Control,7,7,8,22
+P001747,3/12/2026,2:26,66,Older Adult,Female,Headache,5,Control,16,6,57,79
+P001748,3/12/2026,18:31,40,Adult,Male,Chest Pain,1,AI,10,5,0,15
+P001749,3/12/2026,10:09,17,Child,Female,Chest Pain,3,Control,8,7,20,35
+P001750,3/12/2026,13:02,67,Older Adult,Male,Chest Pain,2,AI,17,4,3,24
+P001751,3/12/2026,10:44,43,Adult,Female,Headache,3,AI,12,5,16,33
+P001752,3/12/2026,20:26,31,Adult,Female,Chest Pain,2,AI,12,4,4,20
+P001753,3/12/2026,10:34,0,Child,Male,Burns,3,AI,11,6,16,33
+P001754,3/12/2026,12:30,45,Adult,Female,Headache,4,Control,10,8,47,65
+P001755,3/12/2026,18:14,71,Elderly,Male,Abdominal Pain,4,AI,11,5,34,50
+P001756,3/12/2026,18:15,23,Young Adult,Male,Minor Injury,4,AI,1,5,30,36
+P001757,3/12/2026,9:12,43,Adult,Male,Fever,3,AI,5,3,7,15
+P001758,3/12/2026,17:48,51,Older Adult,Female,Minor Injury,3,AI,14,6,16,36
+P001759,3/12/2026,12:34,55,Older Adult,Male,Chest Pain,2,AI,17,6,7,30
+P001760,3/13/2026,13:51,39,Adult,Male,Shortness of Breath,2,Control,17,7,8,32
+P001761,3/13/2026,8:10,26,Young Adult,Female,Minor Injury,5,AI,8,4,52,64
+P001762,3/13/2026,6:58,87,Elderly,Male,Urinary Tract Infection,3,AI,13,4,12,29
+P001763,3/13/2026,16:20,66,Older Adult,Male,Chest Pain,2,AI,3,3,0,6
+P001764,3/13/2026,13:50,7,Child,Male,Fever,3,AI,11,3,24,38
+P001765,3/13/2026,12:53,16,Child,Male,Headache,5,Control,15,6,72,93
+P001766,3/13/2026,16:10,45,Adult,Male,Urinary Tract Infection,4,AI,12,2,45,59
+P001767,3/13/2026,16:29,25,Young Adult,Male,Urinary Tract Infection,4,AI,11,5,39,55
+P001768,3/13/2026,8:59,18,Young Adult,Female,Abdominal Pain,4,Control,12,8,32,52
+P001769,3/13/2026,14:47,82,Elderly,Female,Abdominal Pain,3,AI,17,7,13,37
+P001770,3/13/2026,8:52,4,Child,Male,Headache,5,Control,11,9,57,77
+P001771,3/13/2026,16:34,56,Older Adult,Male,Abdominal Pain,3,AI,12,4,13,29
+P001772,3/13/2026,15:21,26,Young Adult,Male,Fever,2,Control,18,8,7,33
+P001773,3/13/2026,21:37,51,Older Adult,Female,Abdominal Pain,3,AI,11,6,22,39
+P001774,3/13/2026,6:30,51,Older Adult,Male,Shortness of Breath,2,Control,5,7,14,26
+P001775,3/13/2026,6:13,9,Child,Male,Burns,3,Control,17,8,15,40
+P001776,3/13/2026,10:23,40,Adult,Female,Dizziness,3,Control,16,7,19,42
+P001777,3/13/2026,10:49,2,Child,Male,Fever,3,Control,3,8,21,32
+P001778,3/13/2026,10:48,67,Older Adult,Male,Shortness of Breath,3,AI,11,5,10,26
+P001779,3/13/2026,19:31,89,Elderly,Female,Skin Rash,4,Control,12,7,41,60
+P001780,3/13/2026,10:35,41,Adult,Female,Abdominal Pain,3,AI,17,6,17,40
+P001781,3/13/2026,10:31,48,Adult,Male,Minor Injury,5,AI,12,4,61,77
+P001782,3/13/2026,16:54,19,Young Adult,Female,Fever,4,AI,13,5,41,59
+P001783,3/13/2026,12:14,59,Older Adult,Male,Chest Pain,3,AI,13,7,17,37
+P001784,3/13/2026,17:42,47,Adult,Female,Fever,3,Control,10,8,3,21
+P001785,3/13/2026,6:57,29,Young Adult,Female,Abdominal Pain,3,Control,17,7,14,38
+P001786,3/13/2026,13:34,44,Adult,Female,Minor Injury,4,AI,9,5,49,63
+P001787,3/13/2026,4:02,3,Child,Female,Chest Pain,2,Control,10,12,10,32
+P001788,3/14/2026,6:15,67,Older Adult,Female,Fever,3,AI,12,5,0,17
+P001789,3/14/2026,19:04,16,Child,Female,Abdominal Pain,4,Control,7,9,25,41
+P001790,3/14/2026,8:20,42,Adult,Female,Skin Rash,5,AI,19,5,71,95
+P001791,3/14/2026,13:09,29,Young Adult,Male,Headache,3,Control,12,8,17,37
+P001792,3/14/2026,12:18,21,Young Adult,Male,Shortness of Breath,2,AI,15,5,0,20
+P001793,3/14/2026,11:24,48,Adult,Female,Shortness of Breath,2,Control,8,6,11,25
+P001794,3/14/2026,19:03,73,Elderly,Female,Fever,2,Control,15,9,10,34
+P001795,3/14/2026,2:28,61,Older Adult,Male,Chest Pain,2,AI,15,4,2,21
+P001796,3/14/2026,15:18,26,Young Adult,Female,Minor Injury,4,Control,16,8,52,76
+P001797,3/14/2026,21:42,19,Young Adult,Female,Abdominal Pain,4,AI,20,7,29,56
+P001798,3/14/2026,13:01,54,Older Adult,Female,Abdominal Pain,3,AI,10,5,11,26
+P001799,3/14/2026,20:09,47,Adult,Female,Minor Injury,4,Control,11,7,35,53
+P001800,3/14/2026,5:42,17,Child,Male,Chest Pain,3,AI,9,5,5,19
+P001801,3/14/2026,12:24,55,Older Adult,Male,Fever,3,Control,12,7,22,41
+P001802,3/14/2026,10:19,64,Older Adult,Male,Headache,3,AI,15,5,18,38
+P001803,3/14/2026,16:47,80,Elderly,Male,Headache,4,AI,14,4,32,50
+P001804,3/14/2026,22:18,85,Elderly,Female,Minor Injury,4,AI,19,6,44,69
+P001805,3/14/2026,10:22,51,Older Adult,Female,Shortness of Breath,1,Control,14,8,0,22
+P001806,3/14/2026,15:23,15,Child,Female,Minor Injury,3,Control,12,6,24,42
+P001807,3/14/2026,9:10,10,Child,Female,Minor Injury,4,AI,8,5,38,51
+P001808,3/14/2026,14:45,50,Adult,Male,Fever,3,Control,15,11,16,42
+P001809,3/14/2026,12:33,36,Adult,Male,Fever,3,Control,11,7,22,40
+P001810,3/14/2026,21:54,46,Adult,Male,Fever,4,AI,16,6,27,49
+P001811,3/14/2026,14:27,32,Adult,Male,Fever,3,AI,10,6,23,39
+P001812,3/14/2026,11:04,31,Adult,Female,Dizziness,4,Control,17,9,45,71
+P001813,3/14/2026,7:58,39,Adult,Male,Road Traffic Accident,2,Control,14,9,9,32
+P001814,3/14/2026,8:04,11,Child,Male,Chest Pain,2,Control,16,8,7,31
+P001815,3/14/2026,9:50,18,Young Adult,Male,Abdominal Pain,3,Control,14,8,25,47
+P001816,3/14/2026,10:20,45,Adult,Female,Abdominal Pain,2,Control,8,8,12,28
+P001817,3/14/2026,18:11,69,Older Adult,Male,Chest Pain,1,Control,11,7,4,22
+P001818,3/14/2026,14:49,28,Young Adult,Female,Abdominal Pain,3,AI,7,6,13,26
+P001819,3/14/2026,13:03,40,Adult,Male,Headache,4,AI,13,5,43,61
+P001820,3/14/2026,7:53,62,Older Adult,Female,Skin Rash,5,Control,6,11,86,103
+P001821,3/14/2026,18:48,44,Adult,Male,Minor Injury,5,Control,13,7,61,81
+P001822,3/14/2026,16:41,8,Child,Female,Chest Pain,2,AI,1,3,8,12
+P001823,3/15/2026,6:19,43,Adult,Female,Fever,3,Control,15,10,21,46
+P001824,3/15/2026,16:37,20,Young Adult,Female,Headache,4,AI,8,4,26,38
+P001825,3/15/2026,13:24,84,Elderly,Female,Road Traffic Accident,3,AI,8,4,12,24
+P001826,3/15/2026,7:13,9,Child,Male,Skin Rash,5,AI,17,5,40,62
+P001827,3/15/2026,12:10,66,Older Adult,Male,Urinary Tract Infection,4,Control,13,10,40,63
+P001828,3/15/2026,13:31,6,Child,Male,Headache,4,AI,15,6,34,55
+P001829,3/15/2026,8:10,34,Adult,Female,Minor Injury,5,AI,8,4,63,75
+P001830,3/15/2026,20:17,50,Adult,Male,Abdominal Pain,3,AI,16,5,23,44
+P001831,3/15/2026,18:26,24,Young Adult,Male,Shortness of Breath,2,AI,11,5,4,20
+P001832,3/15/2026,15:54,41,Adult,Female,Chest Pain,3,Control,12,10,18,40
+P001833,3/15/2026,12:53,21,Young Adult,Female,Fever,2,Control,18,7,7,32
+P001834,3/15/2026,12:17,21,Young Adult,Male,Shortness of Breath,3,AI,7,5,4,16
+P001835,3/15/2026,15:55,47,Adult,Female,Chest Pain,2,AI,16,5,5,26
+P001836,3/15/2026,13:22,30,Young Adult,Female,Abdominal Pain,4,AI,14,4,34,52
+P001837,3/15/2026,6:10,81,Elderly,Male,Abdominal Pain,3,AI,11,5,17,33
+P001838,3/15/2026,13:20,33,Adult,Male,Abdominal Pain,3,Control,8,8,19,35
+P001839,3/15/2026,17:43,39,Adult,Female,Abdominal Pain,3,Control,11,10,21,42
+P001840,3/15/2026,12:04,5,Child,Female,Abdominal Pain,3,AI,9,5,8,22
+P001841,3/15/2026,5:22,41,Adult,Male,Chest Pain,2,Control,17,7,8,32
+P001842,3/15/2026,17:40,66,Older Adult,Male,Chest Pain,2,AI,12,5,1,18
+P001843,3/15/2026,9:58,20,Young Adult,Female,Dizziness,2,Control,9,8,8,25
+P001844,3/15/2026,10:24,55,Older Adult,Female,Fever,2,AI,6,5,0,11
+P001845,3/15/2026,8:40,18,Young Adult,Female,Abdominal Pain,2,AI,10,6,5,21
+P001846,3/16/2026,11:53,53,Older Adult,Male,Headache,4,Control,17,9,40,66
+P001847,3/16/2026,16:09,3,Child,Male,Skin Rash,5,Control,12,7,46,65
+P001848,3/16/2026,13:21,66,Older Adult,Female,Minor Injury,5,AI,11,6,74,91
+P001849,3/16/2026,9:18,46,Adult,Male,Fever,3,AI,19,6,14,39
+P001850,3/16/2026,18:00,22,Young Adult,Female,Shortness of Breath,2,AI,10,5,3,18
+P001851,3/16/2026,19:06,27,Young Adult,Female,Minor Injury,5,Control,9,6,77,92
+P001852,3/16/2026,18:03,34,Adult,Male,Minor Injury,4,Control,14,8,51,73
+P001853,3/16/2026,9:00,89,Elderly,Female,Minor Injury,4,Control,14,7,35,56
+P001854,3/16/2026,12:14,27,Young Adult,Male,Skin Rash,5,Control,10,9,67,86
+P001855,3/16/2026,22:39,16,Child,Female,Skin Rash,4,AI,9,6,42,57
+P001856,3/16/2026,16:11,43,Adult,Male,Shortness of Breath,1,AI,18,7,0,25
+P001857,3/16/2026,3:21,31,Adult,Male,Fever,3,Control,10,6,21,37
+P001858,3/16/2026,6:21,42,Adult,Female,Minor Injury,5,Control,6,11,72,89
+P001859,3/16/2026,12:49,54,Older Adult,Female,Road Traffic Accident,1,Control,13,9,1,23
+P001860,3/16/2026,19:46,28,Young Adult,Male,Abdominal Pain,2,AI,16,6,0,22
+P001861,3/16/2026,13:16,75,Elderly,Female,Dizziness,3,AI,11,7,20,38
+P001862,3/16/2026,13:28,32,Adult,Male,Chest Pain,1,AI,14,5,0,19
+P001863,3/16/2026,7:45,16,Child,Male,Headache,3,Control,8,10,14,32
+P001864,3/16/2026,15:13,58,Older Adult,Male,Skin Rash,5,AI,15,5,71,91
+P001865,3/16/2026,17:49,36,Adult,Male,Chest Pain,1,Control,8,9,2,19
+P001866,3/16/2026,11:19,22,Young Adult,Male,Headache,4,Control,13,10,42,65
+P001867,3/17/2026,17:49,39,Adult,Male,Abdominal Pain,3,AI,15,6,7,28
+P001868,3/17/2026,21:47,30,Young Adult,Male,Fever,3,AI,12,3,11,26
+P001869,3/17/2026,9:32,41,Adult,Male,Chest Pain,2,Control,7,7,13,27
+P001870,3/17/2026,13:54,86,Elderly,Male,Fever,3,Control,7,10,16,33
+P001871,3/17/2026,10:58,15,Child,Female,Fever,4,Control,18,9,38,65
+P001872,3/17/2026,17:42,32,Adult,Male,Dizziness,3,Control,9,8,21,38
+P001873,3/17/2026,14:14,60,Older Adult,Female,Dizziness,4,AI,15,6,26,47
+P001874,3/17/2026,15:11,82,Elderly,Female,Abdominal Pain,3,AI,12,4,25,41
+P001875,3/17/2026,17:39,38,Adult,Female,Minor Injury,5,Control,8,9,65,82
+P001876,3/17/2026,11:53,41,Adult,Female,Abdominal Pain,3,Control,10,9,19,38
+P001877,3/17/2026,19:19,40,Adult,Female,Abdominal Pain,4,Control,19,8,51,78
+P001878,3/17/2026,13:29,83,Elderly,Male,Abdominal Pain,3,AI,26,5,20,51
+P001879,3/17/2026,8:37,67,Older Adult,Female,Dizziness,3,Control,11,8,32,51
+P001880,3/17/2026,15:02,24,Young Adult,Female,Burns,3,AI,10,5,13,28
+P001881,3/17/2026,17:27,33,Adult,Female,Chest Pain,3,Control,5,8,33,46
+P001882,3/17/2026,10:55,50,Adult,Female,Chest Pain,3,AI,5,7,20,32
+P001883,3/17/2026,18:25,63,Older Adult,Male,Chest Pain,2,AI,9,3,10,22
+P001884,3/17/2026,19:29,49,Adult,Female,Headache,4,AI,10,3,47,60
+P001885,3/17/2026,10:12,57,Older Adult,Female,Shortness of Breath,2,AI,12,6,1,19
+P001886,3/17/2026,22:12,79,Elderly,Male,Chest Pain,2,AI,15,4,2,21
+P001887,3/17/2026,8:01,12,Child,Male,Minor Injury,4,AI,13,3,19,35
+P001888,3/17/2026,9:36,23,Young Adult,Female,Fever,3,Control,15,10,8,33
+P001889,3/17/2026,9:48,38,Adult,Female,Urinary Tract Infection,4,Control,10,10,34,54
+P001890,3/17/2026,19:37,23,Young Adult,Female,Minor Injury,4,Control,12,6,53,71
+P001891,3/17/2026,15:01,17,Child,Female,Fever,3,AI,11,3,13,27
+P001892,3/17/2026,8:35,1,Child,Male,Road Traffic Accident,2,AI,7,4,2,13
+P001893,3/17/2026,12:53,68,Older Adult,Male,Road Traffic Accident,1,Control,4,7,3,14
+P001894,3/17/2026,14:25,88,Elderly,Male,Fever,3,AI,9,7,11,27
+P001895,3/17/2026,7:10,41,Adult,Male,Fever,3,AI,2,4,28,34
+P001896,3/17/2026,19:07,31,Adult,Male,Burns,2,AI,7,6,2,15
+P001897,3/18/2026,17:43,28,Young Adult,Male,Chest Pain,2,AI,14,6,6,26
+P001898,3/18/2026,13:39,51,Older Adult,Female,Abdominal Pain,4,AI,13,7,35,55
+P001899,3/18/2026,21:42,57,Older Adult,Female,Headache,4,Control,12,7,40,59
+P001900,3/18/2026,12:21,46,Adult,Male,Road Traffic Accident,2,Control,17,8,11,36
+P001901,3/18/2026,22:19,29,Young Adult,Male,Minor Injury,4,AI,9,5,37,51
+P001902,3/18/2026,15:07,10,Child,Male,Urinary Tract Infection,4,Control,15,9,55,79
+P001903,3/18/2026,15:28,15,Child,Female,Headache,4,Control,9,10,32,51
+P001904,3/18/2026,8:39,49,Adult,Male,Abdominal Pain,2,AI,13,8,1,22
+P001905,3/18/2026,19:25,67,Older Adult,Male,Shortness of Breath,2,AI,13,5,0,18
+P001906,3/18/2026,12:29,56,Older Adult,Female,Minor Injury,5,AI,13,5,81,99
+P001907,3/18/2026,8:16,41,Adult,Female,Abdominal Pain,3,Control,10,9,25,44
+P001908,3/18/2026,1:19,67,Older Adult,Male,Chest Pain,2,AI,13,6,3,22
+P001909,3/18/2026,13:51,79,Elderly,Male,Abdominal Pain,4,Control,14,11,43,68
+P001910,3/18/2026,13:54,19,Young Adult,Male,Shortness of Breath,2,Control,6,8,11,25
+P001911,3/18/2026,16:15,47,Adult,Female,Urinary Tract Infection,4,AI,15,5,33,53
+P001912,3/18/2026,19:45,82,Elderly,Female,Minor Injury,4,Control,7,10,22,39
+P001913,3/18/2026,6:42,24,Young Adult,Male,Dizziness,4,Control,8,8,23,39
+P001914,3/18/2026,16:06,75,Elderly,Female,Abdominal Pain,3,AI,13,6,9,28
+P001915,3/18/2026,9:15,81,Elderly,Male,Urinary Tract Infection,4,Control,14,8,41,63
+P001916,3/18/2026,18:44,54,Older Adult,Male,Road Traffic Accident,2,AI,13,6,1,20
+P001917,3/18/2026,17:58,54,Older Adult,Male,Fever,3,AI,13,4,21,38
+P001918,3/18/2026,13:46,53,Older Adult,Female,Dizziness,3,AI,7,4,9,20
+P001919,3/18/2026,16:55,67,Older Adult,Male,Chest Pain,2,Control,10,4,6,20
+P001920,3/18/2026,10:47,24,Young Adult,Male,Urinary Tract Infection,4,AI,4,4,18,26
+P001921,3/18/2026,12:26,3,Child,Male,Urinary Tract Infection,3,Control,8,9,17,34
+P001922,3/19/2026,17:52,24,Young Adult,Male,Minor Injury,4,AI,7,5,36,48
+P001923,3/19/2026,12:22,63,Older Adult,Female,Shortness of Breath,2,Control,12,7,11,30
+P001924,3/19/2026,11:23,11,Child,Male,Abdominal Pain,4,Control,21,10,41,72
+P001925,3/19/2026,13:08,0,Child,Male,Headache,3,AI,15,5,21,41
+P001926,3/19/2026,17:34,17,Child,Female,Fever,4,Control,3,11,50,64
+P001927,3/19/2026,11:50,61,Older Adult,Female,Road Traffic Accident,2,Control,6,9,9,24
+P001928,3/19/2026,8:19,90,Elderly,Female,Minor Injury,4,Control,7,8,31,46
+P001929,3/19/2026,16:36,73,Elderly,Female,Urinary Tract Infection,3,AI,5,7,19,31
+P001930,3/19/2026,17:41,47,Adult,Male,Abdominal Pain,3,Control,11,7,29,47
+P001931,3/19/2026,7:16,62,Older Adult,Female,Road Traffic Accident,2,Control,13,6,7,26
+P001932,3/19/2026,9:46,60,Older Adult,Female,Burns,3,Control,7,10,23,40
+P001933,3/19/2026,8:30,38,Adult,Male,Road Traffic Accident,1,AI,11,6,0,17
+P001934,3/19/2026,11:54,45,Adult,Female,Abdominal Pain,4,AI,13,7,31,51
+P001935,3/19/2026,12:56,4,Child,Male,Abdominal Pain,2,Control,15,9,11,35
+P001936,3/19/2026,16:07,74,Elderly,Female,Abdominal Pain,3,Control,13,10,18,41
+P001937,3/19/2026,15:14,50,Adult,Female,Shortness of Breath,2,Control,13,7,9,29
+P001938,3/19/2026,14:30,49,Adult,Female,Shortness of Breath,2,Control,12,8,7,27
+P001939,3/19/2026,11:52,54,Older Adult,Female,Dizziness,3,Control,8,8,20,36
+P001940,3/19/2026,18:29,18,Young Adult,Female,Fever,3,Control,9,8,26,43
+P001941,3/19/2026,12:45,29,Young Adult,Male,Fever,3,AI,7,3,5,15
+P001942,3/19/2026,22:19,33,Adult,Male,Shortness of Breath,2,AI,18,5,6,29
+P001943,3/19/2026,14:59,9,Child,Male,Road Traffic Accident,1,Control,6,9,3,18
+P001944,3/19/2026,8:38,65,Older Adult,Male,Burns,3,AI,16,4,14,34
+P001945,3/19/2026,15:52,40,Adult,Female,Road Traffic Accident,2,AI,6,4,3,13
+P001946,3/19/2026,11:54,48,Adult,Male,Fever,2,AI,15,5,1,21
+P001947,3/19/2026,15:11,31,Adult,Male,Shortness of Breath,2,AI,16,6,2,24
+P001948,3/19/2026,6:48,33,Adult,Female,Skin Rash,5,Control,17,6,69,92
+P001949,3/19/2026,8:16,42,Adult,Female,Headache,4,Control,8,12,66,86
+P001950,3/19/2026,18:41,51,Older Adult,Male,Chest Pain,2,AI,13,3,5,21
+P001951,3/19/2026,9:29,53,Older Adult,Male,Chest Pain,2,Control,10,7,5,22
+P001952,3/19/2026,18:28,53,Older Adult,Male,Abdominal Pain,3,Control,8,10,25,43
+P001953,3/19/2026,10:18,55,Older Adult,Female,Minor Injury,3,Control,12,9,23,44
+P001954,3/19/2026,15:45,20,Young Adult,Male,Abdominal Pain,3,Control,15,9,10,34
+P001955,3/20/2026,15:10,31,Adult,Female,Chest Pain,2,AI,10,4,3,17
+P001956,3/20/2026,13:33,74,Elderly,Male,Fever,3,Control,13,7,19,39
+P001957,3/20/2026,10:49,34,Adult,Male,Shortness of Breath,2,Control,8,7,8,23
+P001958,3/20/2026,9:06,16,Child,Female,Fever,3,Control,8,8,20,36
+P001959,3/20/2026,4:43,44,Adult,Male,Minor Injury,4,Control,11,9,41,61
+P001960,3/20/2026,10:57,17,Child,Male,Abdominal Pain,3,AI,11,4,11,26
+P001961,3/20/2026,15:33,28,Young Adult,Male,Abdominal Pain,3,Control,15,5,18,38
+P001962,3/20/2026,20:58,71,Elderly,Female,Headache,4,AI,7,6,32,45
+P001963,3/20/2026,18:19,46,Adult,Female,Fever,3,AI,21,5,23,49
+P001964,3/20/2026,16:49,20,Young Adult,Male,Fever,3,AI,5,6,11,22
+P001965,3/20/2026,17:37,79,Elderly,Male,Abdominal Pain,2,Control,13,8,7,28
+P001966,3/20/2026,15:23,74,Elderly,Male,Urinary Tract Infection,4,Control,11,9,36,56
+P001967,3/20/2026,10:09,35,Adult,Female,Minor Injury,5,AI,9,8,85,102
+P001968,3/20/2026,19:31,28,Young Adult,Female,Abdominal Pain,3,AI,11,4,21,36
+P001969,3/20/2026,15:51,59,Older Adult,Female,Abdominal Pain,2,Control,15,7,5,27
+P001970,3/20/2026,13:14,53,Older Adult,Female,Dizziness,3,Control,15,7,22,44
+P001971,3/20/2026,7:36,56,Older Adult,Male,Minor Injury,5,Control,11,11,50,72
+P001972,3/20/2026,12:19,81,Elderly,Male,Fever,4,AI,13,5,38,56
+P001973,3/20/2026,12:02,59,Older Adult,Male,Minor Injury,5,Control,7,9,85,101
+P001974,3/20/2026,18:36,30,Young Adult,Male,Minor Injury,5,AI,11,2,32,45
+P001975,3/20/2026,13:56,65,Older Adult,Male,Minor Injury,3,AI,14,5,11,30
+P001976,3/20/2026,11:39,24,Young Adult,Female,Headache,3,AI,3,5,18,26
+P001977,3/21/2026,22:07,53,Older Adult,Female,Fever,2,AI,12,7,4,23
+P001978,3/21/2026,7:39,31,Adult,Female,Abdominal Pain,3,Control,11,9,21,41
+P001979,3/21/2026,12:43,13,Child,Male,Urinary Tract Infection,3,AI,17,4,16,37
+P001980,3/21/2026,5:55,47,Adult,Female,Shortness of Breath,2,AI,13,7,0,20
+P001981,3/21/2026,16:22,23,Young Adult,Female,Chest Pain,2,AI,14,7,7,28
+P001982,3/21/2026,19:39,18,Young Adult,Female,Urinary Tract Infection,3,Control,11,10,12,33
+P001983,3/21/2026,10:10,44,Adult,Male,Urinary Tract Infection,4,AI,15,6,39,60
+P001984,3/21/2026,18:45,29,Young Adult,Male,Dizziness,2,Control,14,8,7,29
+P001985,3/21/2026,10:07,66,Older Adult,Male,Skin Rash,5,Control,7,8,101,116
+P001986,3/21/2026,19:28,0,Child,Male,Dizziness,3,AI,13,4,16,33
+P001987,3/21/2026,16:29,63,Older Adult,Female,Chest Pain,1,AI,17,5,0,22
+P001988,3/21/2026,17:55,56,Older Adult,Male,Skin Rash,5,AI,16,4,70,90
+P001989,3/21/2026,2:59,67,Older Adult,Male,Road Traffic Accident,3,Control,12,8,22,42
+P001990,3/21/2026,21:09,42,Adult,Female,Chest Pain,3,AI,13,8,16,37
+P001991,3/21/2026,16:38,89,Elderly,Female,Abdominal Pain,4,Control,16,8,30,54
+P001992,3/21/2026,10:27,23,Young Adult,Male,Dizziness,3,AI,7,4,14,25
+P001993,3/21/2026,18:48,6,Child,Female,Fever,3,Control,14,6,9,29
+P001994,3/21/2026,10:35,31,Adult,Male,Skin Rash,4,AI,4,5,40,49
+P001995,3/21/2026,18:12,0,Child,Male,Abdominal Pain,3,AI,15,6,33,54
+P001996,3/21/2026,7:31,75,Elderly,Male,Abdominal Pain,2,Control,10,8,9,27
+P001997,3/21/2026,15:35,23,Young Adult,Female,Headache,4,Control,12,8,43,63
+P001998,3/21/2026,13:36,66,Older Adult,Female,Chest Pain,3,AI,10,6,7,23
+P001999,3/21/2026,7:25,66,Older Adult,Male,Minor Injury,4,AI,12,5,27,44
+P002000,3/21/2026,9:21,18,Young Adult,Female,Shortness of Breath,2,AI,13,6,6,25
+P002001,3/21/2026,1:03,43,Adult,Male,Abdominal Pain,3,AI,15,6,6,27
+P002002,3/21/2026,12:30,9,Child,Female,Chest Pain,2,Control,17,8,6,31
+P002003,3/21/2026,10:17,40,Adult,Male,Fever,4,Control,12,8,46,66
+P002004,3/21/2026,14:37,8,Child,Male,Chest Pain,2,Control,5,8,10,23
+P002005,3/21/2026,10:23,83,Elderly,Female,Road Traffic Accident,2,Control,17,9,8,34
+P002006,3/21/2026,10:55,73,Elderly,Female,Fever,3,AI,6,6,16,28
+P002007,3/21/2026,16:22,28,Young Adult,Male,Abdominal Pain,2,Control,10,7,8,25
+P002008,3/21/2026,5:21,19,Young Adult,Male,Headache,4,AI,10,5,25,40
+P002009,3/22/2026,19:01,70,Older Adult,Male,Abdominal Pain,4,AI,12,4,35,51
+P002010,3/22/2026,18:30,19,Young Adult,Male,Abdominal Pain,2,AI,7,3,4,14
+P002011,3/22/2026,15:54,87,Elderly,Female,Chest Pain,1,AI,7,4,0,11
+P002012,3/22/2026,14:10,49,Adult,Female,Skin Rash,4,Control,12,6,21,39
+P002013,3/22/2026,19:27,43,Adult,Male,Urinary Tract Infection,4,AI,9,4,50,63
+P002014,3/22/2026,9:45,63,Older Adult,Male,Road Traffic Accident,2,Control,17,9,5,31
+P002015,3/22/2026,6:31,31,Adult,Female,Fever,3,Control,10,6,20,36
+P002016,3/22/2026,9:04,72,Elderly,Male,Chest Pain,2,AI,8,5,4,17
+P002017,3/22/2026,17:37,71,Elderly,Female,Headache,5,Control,19,9,58,86
+P002018,3/22/2026,4:09,25,Young Adult,Male,Minor Injury,5,AI,14,4,64,82
+P002019,3/22/2026,14:39,4,Child,Female,Dizziness,4,AI,23,4,27,54
+P002020,3/22/2026,23:45,73,Elderly,Female,Abdominal Pain,4,AI,4,3,56,63
+P002021,3/22/2026,18:23,77,Elderly,Female,Abdominal Pain,3,Control,13,7,18,38
+P002022,3/22/2026,13:34,12,Child,Female,Minor Injury,4,AI,14,7,46,67
+P002023,3/22/2026,6:43,68,Older Adult,Male,Skin Rash,5,Control,12,9,49,70
+P002024,3/22/2026,18:47,37,Adult,Female,Skin Rash,5,AI,11,8,71,90
+P002025,3/22/2026,14:59,18,Young Adult,Female,Minor Injury,3,Control,17,7,16,40
+P002026,3/22/2026,7:22,75,Elderly,Male,Burns,2,AI,14,7,1,22
+P002027,3/22/2026,7:16,18,Young Adult,Male,Headache,5,Control,5,7,49,61
+P002028,3/22/2026,19:00,78,Elderly,Male,Urinary Tract Infection,3,Control,9,7,15,31
+P002029,3/22/2026,15:54,21,Young Adult,Male,Dizziness,4,Control,7,12,41,60
+P002030,3/22/2026,18:30,34,Adult,Male,Skin Rash,5,Control,12,7,108,127
+P002031,3/22/2026,19:30,19,Young Adult,Female,Fever,3,AI,16,7,31,54
+P002032,3/22/2026,14:41,35,Adult,Male,Chest Pain,1,Control,10,8,2,20
+P002033,3/22/2026,13:56,51,Older Adult,Female,Headache,3,Control,11,6,26,43
+P002034,3/22/2026,12:54,26,Young Adult,Male,Headache,4,AI,8,3,23,34
+P002035,3/22/2026,10:41,35,Adult,Male,Skin Rash,5,Control,15,8,33,56
+P002036,3/23/2026,12:52,36,Adult,Female,Abdominal Pain,3,Control,17,6,20,43
+P002037,3/23/2026,17:55,1,Child,Female,Chest Pain,3,AI,12,5,20,37
+P002038,3/23/2026,14:33,51,Older Adult,Male,Minor Injury,4,Control,18,5,48,71
+P002039,3/23/2026,19:08,21,Young Adult,Male,Abdominal Pain,3,Control,10,9,26,45
+P002040,3/23/2026,12:21,37,Adult,Male,Fever,3,Control,6,6,18,30
+P002041,3/23/2026,14:12,31,Adult,Female,Fever,3,Control,15,8,20,43
+P002042,3/23/2026,14:24,31,Adult,Female,Shortness of Breath,2,AI,12,3,5,20
+P002043,3/23/2026,14:47,7,Child,Male,Abdominal Pain,2,Control,10,10,12,32
+P002044,3/23/2026,15:17,50,Adult,Female,Skin Rash,4,AI,12,2,28,42
+P002045,3/23/2026,9:50,46,Adult,Female,Headache,3,Control,6,8,21,35
+P002046,3/23/2026,13:11,63,Older Adult,Male,Urinary Tract Infection,3,Control,5,9,24,38
+P002047,3/23/2026,7:39,68,Older Adult,Female,Headache,4,Control,12,9,41,62
+P002048,3/23/2026,11:16,50,Adult,Female,Chest Pain,2,AI,14,4,1,19
+P002049,3/23/2026,13:14,9,Child,Male,Abdominal Pain,4,AI,18,3,35,56
+P002050,3/23/2026,15:41,29,Young Adult,Male,Abdominal Pain,4,AI,16,6,42,64
+P002051,3/23/2026,20:14,18,Young Adult,Male,Headache,5,AI,15,5,49,69
+P002052,3/23/2026,14:14,9,Child,Male,Abdominal Pain,4,Control,17,6,28,51
+P002053,3/23/2026,16:54,39,Adult,Female,Fever,3,Control,14,9,32,55
+P002054,3/23/2026,13:38,20,Young Adult,Male,Shortness of Breath,2,Control,11,7,9,27
+P002055,3/23/2026,14:12,29,Young Adult,Female,Chest Pain,2,Control,16,7,11,34
+P002056,3/23/2026,6:16,8,Child,Female,Chest Pain,2,Control,16,7,9,32
+P002057,3/23/2026,10:31,9,Child,Female,Minor Injury,5,Control,12,7,81,100
+P002058,3/23/2026,11:08,15,Child,Female,Burns,4,Control,7,7,41,55
+P002059,3/23/2026,12:39,25,Young Adult,Male,Abdominal Pain,3,Control,5,8,24,37
+P002060,3/23/2026,5:19,48,Adult,Male,Abdominal Pain,3,Control,15,10,13,38
+P002061,3/23/2026,8:25,44,Adult,Female,Dizziness,2,Control,14,6,3,23
+P002062,3/23/2026,10:26,2,Child,Male,Abdominal Pain,2,AI,14,5,2,21
+P002063,3/24/2026,21:20,32,Adult,Male,Dizziness,3,Control,16,8,11,35
+P002064,3/24/2026,11:17,18,Young Adult,Female,Abdominal Pain,3,AI,8,6,2,16
+P002065,3/24/2026,13:12,19,Young Adult,Female,Skin Rash,5,AI,4,6,65,75
+P002066,3/24/2026,9:15,8,Child,Male,Fever,2,Control,14,8,3,25
+P002067,3/24/2026,14:08,43,Adult,Female,Burns,4,Control,17,7,49,73
+P002068,3/24/2026,10:11,52,Older Adult,Female,Fever,3,Control,13,9,29,51
+P002069,3/24/2026,9:43,24,Young Adult,Male,Minor Injury,5,AI,6,3,38,47
+P002070,3/24/2026,13:37,15,Child,Male,Abdominal Pain,4,Control,13,5,43,61
+P002071,3/24/2026,0:18,89,Elderly,Female,Chest Pain,3,Control,8,12,31,51
+P002072,3/24/2026,0:59,26,Young Adult,Male,Minor Injury,4,Control,6,7,35,48
+P002073,3/24/2026,9:06,23,Young Adult,Male,Headache,5,AI,12,5,69,86
+P002074,3/24/2026,4:56,61,Older Adult,Female,Urinary Tract Infection,3,Control,13,9,34,56
+P002075,3/24/2026,7:34,51,Older Adult,Female,Fever,2,AI,12,5,0,17
+P002076,3/24/2026,11:47,37,Adult,Male,Skin Rash,5,Control,14,9,50,73
+P002077,3/24/2026,17:17,50,Adult,Male,Headache,5,AI,9,6,69,84
+P002078,3/24/2026,14:15,25,Young Adult,Male,Dizziness,3,AI,12,3,28,43
+P002079,3/24/2026,13:54,9,Child,Female,Burns,4,Control,10,10,33,53
+P002080,3/25/2026,10:38,35,Adult,Male,Fever,3,AI,11,6,32,49
+P002081,3/25/2026,20:03,8,Child,Female,Urinary Tract Infection,3,AI,13,5,17,35
+P002082,3/25/2026,11:58,31,Adult,Female,Skin Rash,5,Control,16,9,35,60
+P002083,3/25/2026,7:24,72,Elderly,Male,Chest Pain,1,Control,13,5,4,22
+P002084,3/25/2026,14:31,89,Elderly,Female,Shortness of Breath,2,AI,14,5,4,23
+P002085,3/25/2026,7:39,21,Young Adult,Female,Abdominal Pain,3,AI,12,4,19,35
+P002086,3/25/2026,11:12,40,Adult,Female,Skin Rash,5,AI,14,4,36,54
+P002087,3/25/2026,13:44,39,Adult,Male,Chest Pain,2,AI,16,4,2,22
+P002088,3/25/2026,18:16,80,Elderly,Female,Abdominal Pain,2,AI,20,6,1,27
+P002089,3/25/2026,13:48,30,Young Adult,Female,Fever,3,Control,17,8,10,35
+P002090,3/25/2026,15:36,5,Child,Female,Shortness of Breath,1,AI,12,6,0,18
+P002091,3/25/2026,23:05,18,Young Adult,Male,Skin Rash,4,Control,17,7,46,70
+P002092,3/25/2026,8:18,29,Young Adult,Female,Dizziness,2,AI,14,5,1,20
+P002093,3/25/2026,10:12,26,Young Adult,Male,Fever,3,AI,10,5,6,21
+P002094,3/25/2026,11:56,56,Older Adult,Male,Abdominal Pain,3,AI,14,6,8,28
+P002095,3/25/2026,12:59,54,Older Adult,Male,Minor Injury,4,Control,7,9,44,60
+P002096,3/25/2026,12:25,21,Young Adult,Female,Shortness of Breath,2,Control,14,8,8,30
+P002097,3/25/2026,19:13,33,Adult,Male,Headache,4,Control,19,7,44,70
+P002098,3/25/2026,16:30,17,Child,Female,Fever,3,AI,15,5,25,45
+P002099,3/25/2026,14:53,74,Elderly,Female,Headache,4,AI,17,5,41,63
+P002100,3/25/2026,10:03,78,Elderly,Male,Fever,3,Control,10,8,22,40
+P002101,3/25/2026,17:59,87,Elderly,Female,Minor Injury,5,AI,14,4,98,116
+P002102,3/25/2026,21:38,55,Older Adult,Male,Headache,3,AI,15,4,15,34
+P002103,3/25/2026,17:07,30,Young Adult,Male,Skin Rash,5,Control,11,8,101,120
+P002104,3/25/2026,0:24,0,Child,Female,Headache,4,Control,15,7,54,76
+P002105,3/25/2026,15:12,43,Adult,Female,Chest Pain,2,AI,14,5,2,21
+P002106,3/26/2026,5:31,74,Elderly,Female,Skin Rash,5,AI,15,6,74,95
+P002107,3/26/2026,10:58,23,Young Adult,Female,Shortness of Breath,1,AI,8,6,0,14
+P002108,3/26/2026,6:37,13,Child,Male,Chest Pain,2,AI,17,4,0,21
+P002109,3/26/2026,14:37,53,Older Adult,Male,Shortness of Breath,1,AI,14,5,0,19
+P002110,3/26/2026,15:55,4,Child,Female,Fever,3,Control,12,11,11,34
+P002111,3/26/2026,7:27,37,Adult,Male,Skin Rash,5,Control,12,9,68,89
+P002112,3/26/2026,11:52,51,Older Adult,Male,Headache,5,Control,12,8,77,97
+P002113,3/26/2026,12:29,24,Young Adult,Female,Minor Injury,3,Control,9,10,19,38
+P002114,3/26/2026,11:02,11,Child,Male,Abdominal Pain,3,Control,17,11,21,49
+P002115,3/26/2026,7:27,61,Older Adult,Male,Fever,3,Control,16,9,21,46
+P002116,3/26/2026,12:02,38,Adult,Female,Dizziness,2,AI,16,3,6,25
+P002117,3/26/2026,16:44,76,Elderly,Female,Road Traffic Accident,2,AI,18,6,5,29
+P002118,3/26/2026,6:53,29,Young Adult,Female,Abdominal Pain,2,Control,13,10,7,30
+P002119,3/26/2026,6:33,1,Child,Female,Chest Pain,2,AI,5,3,6,14
+P002120,3/26/2026,11:15,69,Older Adult,Male,Fever,3,AI,15,6,16,37
+P002121,3/26/2026,20:21,50,Adult,Female,Minor Injury,5,AI,14,5,28,47
+P002122,3/26/2026,15:31,21,Young Adult,Female,Minor Injury,4,AI,18,7,31,56
+P002123,3/26/2026,15:37,64,Older Adult,Male,Minor Injury,4,Control,16,8,35,59
+P002124,3/26/2026,11:07,18,Young Adult,Male,Headache,4,AI,13,5,37,55
+P002125,3/26/2026,14:54,27,Young Adult,Female,Road Traffic Accident,2,AI,11,5,3,19
+P002126,3/26/2026,1:07,15,Child,Female,Fever,3,AI,16,6,4,26
+P002127,3/26/2026,15:56,34,Adult,Female,Abdominal Pain,3,AI,1,6,7,14
+P002128,3/26/2026,19:05,41,Adult,Female,Shortness of Breath,2,AI,13,4,2,19
+P002129,3/26/2026,14:13,46,Adult,Female,Burns,3,AI,16,5,15,36
+P002130,3/26/2026,18:31,70,Older Adult,Female,Road Traffic Accident,2,AI,12,5,8,25
+P002131,3/26/2026,16:34,71,Elderly,Female,Shortness of Breath,2,AI,10,6,0,16
+P002132,3/26/2026,7:09,15,Child,Male,Minor Injury,4,Control,13,9,33,55
+P002133,3/27/2026,19:02,8,Child,Female,Burns,2,Control,17,7,8,32
+P002134,3/27/2026,6:58,8,Child,Male,Fever,4,Control,14,7,31,52
+P002135,3/27/2026,13:11,8,Child,Female,Fever,2,AI,9,6,4,19
+P002136,3/27/2026,8:48,67,Older Adult,Female,Dizziness,2,AI,17,4,7,28
+P002137,3/27/2026,1:58,62,Older Adult,Female,Skin Rash,4,Control,18,9,32,59
+P002138,3/27/2026,12:30,63,Older Adult,Female,Fever,3,AI,9,5,19,33
+P002139,3/27/2026,10:28,25,Young Adult,Male,Headache,4,AI,23,7,36,66
+P002140,3/27/2026,13:04,19,Young Adult,Male,Fever,4,AI,12,4,24,40
+P002141,3/27/2026,14:51,31,Adult,Male,Abdominal Pain,4,Control,16,10,39,65
+P002142,3/27/2026,5:24,0,Child,Female,Burns,3,AI,15,6,20,41
+P002143,3/27/2026,8:40,42,Adult,Female,Fever,3,AI,9,4,24,37
+P002144,3/27/2026,13:30,76,Elderly,Female,Skin Rash,4,AI,10,4,51,65
+P002145,3/27/2026,11:20,39,Adult,Male,Chest Pain,2,AI,12,7,2,21
+P002146,3/27/2026,16:57,55,Older Adult,Female,Headache,3,AI,5,4,11,20
+P002147,3/27/2026,15:19,46,Adult,Female,Abdominal Pain,2,Control,15,8,8,31
+P002148,3/27/2026,18:38,17,Child,Male,Minor Injury,4,AI,4,5,30,39
+P002149,3/27/2026,15:21,47,Adult,Female,Shortness of Breath,2,Control,12,8,12,32
+P002150,3/27/2026,12:03,19,Young Adult,Female,Shortness of Breath,2,Control,9,9,8,26
+P002151,3/27/2026,15:12,0,Child,Female,Abdominal Pain,4,Control,14,7,41,62
+P002152,3/27/2026,10:44,49,Adult,Male,Chest Pain,2,Control,3,11,10,24
+P002153,3/27/2026,10:41,58,Older Adult,Female,Abdominal Pain,4,Control,5,7,42,54
+P002154,3/27/2026,17:49,20,Young Adult,Male,Chest Pain,2,AI,10,5,4,19
+P002155,3/27/2026,12:48,35,Adult,Female,Shortness of Breath,2,AI,14,3,5,22
+P002156,3/27/2026,17:19,78,Elderly,Male,Shortness of Breath,2,Control,13,10,8,31
+P002157,3/27/2026,17:51,69,Older Adult,Male,Shortness of Breath,1,AI,16,7,0,23
+P002158,3/27/2026,18:12,68,Older Adult,Female,Headache,3,Control,12,11,31,54
+P002159,3/27/2026,19:16,19,Young Adult,Male,Chest Pain,3,Control,12,10,15,37
+P002160,3/27/2026,12:53,71,Elderly,Female,Chest Pain,3,AI,8,5,25,38
+P002161,3/28/2026,11:35,19,Young Adult,Female,Abdominal Pain,2,AI,11,5,5,21
+P002162,3/28/2026,14:32,37,Adult,Female,Skin Rash,4,AI,12,5,29,46
+P002163,3/28/2026,11:00,15,Child,Female,Shortness of Breath,2,Control,4,6,10,20
+P002164,3/28/2026,14:14,46,Adult,Male,Chest Pain,2,AI,8,5,7,20
+P002165,3/28/2026,15:12,23,Young Adult,Female,Chest Pain,2,AI,14,6,8,28
+P002166,3/28/2026,15:16,39,Adult,Male,Skin Rash,4,AI,13,4,23,40
+P002167,3/28/2026,11:23,24,Young Adult,Male,Minor Injury,4,Control,11,5,39,55
+P002168,3/28/2026,8:57,28,Young Adult,Female,Minor Injury,4,AI,10,3,49,62
+P002169,3/28/2026,12:07,46,Adult,Male,Fever,3,AI,5,6,20,31
+P002170,3/28/2026,8:49,76,Elderly,Female,Chest Pain,1,AI,3,3,0,6
+P002171,3/28/2026,19:26,86,Elderly,Female,Dizziness,3,Control,11,7,29,47
+P002172,3/28/2026,11:44,21,Young Adult,Female,Road Traffic Accident,3,AI,18,5,16,39
+P002173,3/28/2026,8:22,66,Older Adult,Female,Fever,3,Control,12,8,6,26
+P002174,3/28/2026,3:45,62,Older Adult,Male,Skin Rash,5,AI,16,5,55,76
+P002175,3/28/2026,15:07,18,Young Adult,Female,Minor Injury,5,Control,7,9,95,111
+P002176,3/28/2026,15:07,4,Child,Female,Fever,4,Control,13,8,43,64
+P002177,3/28/2026,11:58,63,Older Adult,Female,Fever,3,AI,9,4,12,25
+P002178,3/28/2026,6:25,78,Elderly,Male,Chest Pain,2,Control,9,9,12,30
+P002179,3/28/2026,12:46,35,Adult,Female,Abdominal Pain,4,Control,15,5,48,68
+P002180,3/28/2026,10:58,42,Adult,Male,Minor Injury,3,Control,12,9,21,42
+P002181,3/28/2026,15:12,39,Adult,Male,Chest Pain,2,Control,6,10,10,26
+P002182,3/28/2026,14:38,20,Young Adult,Female,Road Traffic Accident,3,AI,12,8,10,30
+P002183,3/29/2026,11:36,53,Older Adult,Female,Dizziness,3,AI,9,4,13,26
+P002184,3/29/2026,9:48,51,Older Adult,Female,Abdominal Pain,4,AI,6,4,35,45
+P002185,3/29/2026,22:27,17,Child,Female,Headache,4,Control,8,8,51,67
+P002186,3/29/2026,12:24,82,Elderly,Female,Road Traffic Accident,3,AI,20,5,12,37
+P002187,3/29/2026,15:15,26,Young Adult,Male,Road Traffic Accident,2,Control,17,9,8,34
+P002188,3/29/2026,8:54,79,Elderly,Male,Minor Injury,5,AI,4,6,83,93
+P002189,3/29/2026,13:01,48,Adult,Male,Fever,3,Control,11,7,35,53
+P002190,3/29/2026,3:53,19,Young Adult,Female,Headache,5,AI,12,5,47,64
+P002191,3/29/2026,13:17,37,Adult,Male,Shortness of Breath,2,AI,11,6,4,21
+P002192,3/29/2026,21:16,34,Adult,Male,Dizziness,4,Control,9,6,25,40
+P002193,3/29/2026,11:29,12,Child,Female,Fever,3,Control,15,8,20,43
+P002194,3/29/2026,4:38,47,Adult,Male,Urinary Tract Infection,3,AI,16,6,14,36
+P002195,3/29/2026,3:12,32,Adult,Male,Chest Pain,1,Control,16,6,3,25
+P002196,3/29/2026,11:31,64,Older Adult,Female,Dizziness,4,Control,13,3,28,44
+P002197,3/29/2026,8:49,2,Child,Male,Minor Injury,4,Control,14,10,27,51
+P002198,3/29/2026,2:28,35,Adult,Male,Headache,4,AI,11,5,50,66
+P002199,3/29/2026,16:45,13,Child,Male,Shortness of Breath,1,AI,6,3,0,9
+P002200,3/29/2026,12:29,53,Older Adult,Female,Chest Pain,2,Control,6,9,9,24
+P002201,3/29/2026,10:17,6,Child,Female,Chest Pain,2,Control,9,8,9,26
+P002202,3/29/2026,19:12,88,Elderly,Male,Abdominal Pain,4,AI,11,4,29,44
+P002203,3/29/2026,7:42,63,Older Adult,Female,Abdominal Pain,3,AI,7,5,11,23
+P002204,3/29/2026,21:20,40,Adult,Male,Fever,3,Control,7,8,27,42
+P002205,3/29/2026,10:29,43,Adult,Female,Minor Injury,4,AI,10,4,42,56
+P002206,3/29/2026,19:20,15,Child,Male,Shortness of Breath,1,Control,15,7,2,24
+P002207,3/29/2026,14:47,26,Young Adult,Female,Abdominal Pain,4,Control,13,6,39,58
+P002208,3/29/2026,17:54,52,Older Adult,Female,Skin Rash,4,AI,9,6,40,55
+P002209,3/29/2026,22:16,75,Elderly,Female,Shortness of Breath,2,AI,12,4,6,22
+P002210,3/30/2026,10:39,16,Child,Male,Dizziness,3,Control,7,7,28,42
+P002211,3/30/2026,21:18,34,Adult,Male,Minor Injury,4,Control,9,8,40,57
+P002212,3/30/2026,11:51,67,Older Adult,Female,Chest Pain,3,Control,5,10,23,38
+P002213,3/30/2026,11:14,39,Adult,Male,Headache,3,Control,14,8,24,46
+P002214,3/30/2026,11:08,1,Child,Female,Minor Injury,5,Control,11,9,76,96
+P002215,3/30/2026,13:51,25,Young Adult,Female,Abdominal Pain,2,Control,11,8,12,31
+P002216,3/30/2026,8:09,19,Young Adult,Female,Abdominal Pain,2,AI,15,6,4,25
+P002217,3/30/2026,13:43,61,Older Adult,Male,Abdominal Pain,3,AI,8,7,13,28
+P002218,3/30/2026,13:30,43,Adult,Female,Chest Pain,1,AI,14,4,0,18
+P002219,3/30/2026,16:52,38,Adult,Female,Fever,3,AI,20,5,21,46
+P002220,3/30/2026,18:22,71,Elderly,Female,Headache,4,Control,8,8,39,55
+P002221,3/30/2026,12:51,47,Adult,Male,Abdominal Pain,2,Control,6,9,15,30
+P002222,3/30/2026,10:29,82,Elderly,Male,Minor Injury,3,Control,7,8,20,35
+P002223,3/30/2026,10:32,34,Adult,Male,Shortness of Breath,2,AI,14,4,2,20
+P002224,3/30/2026,9:56,12,Child,Male,Fever,4,Control,19,8,43,70
+P002225,3/30/2026,6:51,79,Elderly,Female,Abdominal Pain,3,AI,19,8,26,53
+P002226,3/30/2026,11:08,37,Adult,Female,Abdominal Pain,3,AI,15,5,10,30
+P002227,3/30/2026,10:53,24,Young Adult,Male,Fever,3,Control,16,5,15,36
+P002228,3/30/2026,21:46,25,Young Adult,Female,Abdominal Pain,3,Control,14,7,19,40
+P002229,3/30/2026,13:00,4,Child,Male,Fever,3,AI,15,5,11,31
+P002230,3/30/2026,11:43,35,Adult,Male,Shortness of Breath,2,AI,13,5,0,18
+P002231,3/30/2026,14:34,67,Older Adult,Male,Headache,4,AI,9,5,20,34
+P002232,3/30/2026,8:10,79,Elderly,Male,Chest Pain,2,Control,19,8,9,36
+P002233,3/30/2026,12:33,76,Elderly,Female,Fever,3,AI,17,6,19,42
+P002234,3/30/2026,14:15,15,Child,Male,Shortness of Breath,3,Control,9,8,16,33
+P002235,3/30/2026,13:08,32,Adult,Female,Skin Rash,4,AI,15,6,35,56
+P002236,3/30/2026,12:31,9,Child,Male,Minor Injury,5,AI,18,3,64,85
+P002237,3/31/2026,23:14,66,Older Adult,Female,Shortness of Breath,2,AI,14,5,2,21
+P002238,3/31/2026,19:11,35,Adult,Male,Fever,3,Control,11,9,25,45
+P002239,3/31/2026,14:32,45,Adult,Male,Fever,2,AI,18,5,6,29
+P002240,3/31/2026,14:44,63,Older Adult,Male,Skin Rash,5,Control,13,7,73,93
+P002241,3/31/2026,14:13,43,Adult,Male,Abdominal Pain,3,Control,9,7,24,40
+P002242,3/31/2026,9:56,30,Young Adult,Male,Dizziness,3,Control,7,7,35,49
+P002243,3/31/2026,11:56,85,Elderly,Female,Minor Injury,3,AI,1,6,10,17
+P002244,3/31/2026,4:07,84,Elderly,Female,Minor Injury,4,AI,20,3,27,50
+P002245,3/31/2026,12:07,25,Young Adult,Female,Abdominal Pain,2,Control,9,6,13,28
+P002246,3/31/2026,13:26,41,Adult,Female,Shortness of Breath,3,AI,16,6,19,41
+P002247,3/31/2026,9:11,88,Elderly,Male,Headache,5,Control,8,9,66,83
+P002248,3/31/2026,21:00,3,Child,Male,Abdominal Pain,2,Control,13,6,7,26
+P002249,3/31/2026,19:42,40,Adult,Female,Chest Pain,3,Control,14,9,19,42
+P002250,3/31/2026,16:39,0,Child,Female,Urinary Tract Infection,4,AI,7,5,33,45
+P002251,3/31/2026,13:41,35,Adult,Female,Headache,4,AI,16,6,20,42
+P002252,3/31/2026,18:50,12,Child,Female,Fever,3,Control,11,8,26,45
+P002253,3/31/2026,8:10,31,Adult,Male,Abdominal Pain,3,AI,14,6,4,24
