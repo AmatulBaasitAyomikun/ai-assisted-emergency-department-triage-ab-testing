@@ -208,7 +208,7 @@ ai-assisted-ed-triage-ab-testing
 
 The complete project documentation is available here:
 
-**[AI-Assisted Emergency Department Triage Case Study](docs/AI_Assisted_ED_Triage_Case_Study.pdf)**
+**[AI-Assisted Emergency Department Triage Case Study](docs/ED_Triage_AB_Test_Case_Study.pdf)**
 
 ---
 
