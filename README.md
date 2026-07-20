@@ -137,7 +137,7 @@ The statistical analysis demonstrated a meaningful improvement in Emergency Depa
 
 Based on the statistical evidence and operational analysis, a hospital-wide rollout is not recommended immediately.
 
-Instead, a **phased AI rollout** is recommended.
+Instead, a **controlled AI rollout** is recommended.
 
 Recommended implementation strategy:
 
